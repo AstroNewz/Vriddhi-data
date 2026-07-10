@@ -1,0 +1,45 @@
+name: Refresh VRIDDHI data
+
+# Free scheduled data refresh. Runs on GitHub-hosted runners at no cost.
+#   • Daily  — prices & technicals refresh (Mon–Fri after NSE close, IST)
+#   • Monthly full report happens automatically (build_data flags the first
+#     run of the month as reportType=monthly)
+# You can also trigger it by hand from the Actions tab (workflow_dispatch).
+
+on:
+  schedule:
+    # 12:00 UTC = 17:30 IST, after the 15:30 IST market close, Mon–Fri.
+    - cron: "0 12 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build data
+        run: python build_data.py
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name  "vriddhi-bot"
+          git config user.email "actions@github.com"
+          git add stocks.json sectors.json signals.json technicals.json
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: refresh data $(date -u +%Y-%m-%d)"
+            git push
+          fi

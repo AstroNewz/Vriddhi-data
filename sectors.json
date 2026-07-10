@@ -1,0 +1,92 @@
+{
+  "lastUpdated": "2026-07-10T13:22:39+05:30",
+  "sectors": [
+    {
+      "name": "Auto",
+      "medianPe": 26.3,
+      "members": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO"
+      ]
+    },
+    {
+      "name": "Banking",
+      "medianPe": 18.2,
+      "members": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK"
+      ]
+    },
+    {
+      "name": "Cement",
+      "medianPe": 42.7,
+      "members": [
+        "ULTRACEMCO",
+        "GRASIM"
+      ]
+    },
+    {
+      "name": "Energy",
+      "medianPe": 14.1,
+      "members": [
+        "POWERGRID"
+      ]
+    },
+    {
+      "name": "FMCG",
+      "medianPe": 49.1,
+      "members": [
+        "HINDUNILVR",
+        "ITC",
+        "NESTLEIND",
+        "BRITANNIA"
+      ]
+    },
+    {
+      "name": "IT",
+      "medianPe": 14.9,
+      "members": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "medianPe": 33.8,
+      "members": [
+        "LT"
+      ]
+    },
+    {
+      "name": "Metals",
+      "medianPe": 16.3,
+      "members": [
+        "JSWSTEEL",
+        "TATASTEEL",
+        "HINDALCO"
+      ]
+    },
+    {
+      "name": "Pharma",
+      "medianPe": 29.9,
+      "members": [
+        "SUNPHARMA",
+        "CIPLA",
+        "DRREDDY"
+      ]
+    },
+    {
+      "name": "Telecom",
+      "medianPe": 43.1,
+      "members": [
+        "BHARTIARTL"
+      ]
+    }
+  ]
+}

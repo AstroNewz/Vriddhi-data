@@ -1,0 +1,338 @@
+{
+  "lastUpdated": "2026-07-10T13:22:39+05:30",
+  "reportType": "daily",
+  "signals": [
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "score": 10.0,
+      "verdict": "Strong",
+      "reasons": [
+        "Very cheap: P/E 11.3 vs Banking median 18.2",
+        "Effectively debt-free — strong balance sheet",
+        "Net profit rose every year for 4 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank",
+      "score": 7.0,
+      "verdict": "Strong",
+      "reasons": [
+        "Effectively debt-free — strong balance sheet",
+        "Net profit rose every year for 4 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "AXISBANK",
+      "name": "Axis Bank",
+      "score": 7.0,
+      "verdict": "Strong",
+      "reasons": [
+        "Cheaper than peers: P/E 15.6 vs median 18.2",
+        "Effectively debt-free — strong balance sheet",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever",
+      "score": 6.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Cheaper than peers: P/E 47.3 vs median 49.1",
+        "Low debt (D/E 0.03)",
+        "Net profit rose every year for 4 years"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "NESTLEIND",
+      "name": "Nestle India",
+      "score": 6.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Low debt (D/E 0.09)",
+        "Net profit rose every year for 3 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": [
+        "Expensive: P/E 80.2 vs FMCG median 49.1"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical",
+      "score": 6.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Low debt (D/E 0.06)",
+        "Net profit rose every year for 4 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": [
+        "Expensive: P/E 39.4 vs Pharma median 29.9",
+        "Overbought (RSI 71) — may be due a pullback"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank",
+      "score": 5.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Effectively debt-free — strong balance sheet",
+        "Net profit rose every year for 4 years"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki",
+      "score": 5.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Effectively debt-free — strong balance sheet",
+        "Net profit rose every year for 4 years"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra",
+      "score": 5.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Very cheap: P/E 20.5 vs Auto median 26.3",
+        "Net profit rose every year for 4 years"
+      ],
+      "cautions": [
+        "High debt (D/E 1.25) — watch borrowings",
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Ltd",
+      "score": 5.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Very cheap: P/E 17.0 vs FMCG median 49.1",
+        "Low debt (D/E 0.03)"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Low debt (D/E 0.10)",
+        "Net profit rose every year for 4 years"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Cheaper than peers: P/E 14.4 vs median 14.9",
+        "Low debt (D/E 0.10)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "WIPRO",
+      "name": "Wipro",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Cheaper than peers: P/E 14.0 vs median 14.9",
+        "Low debt (D/E 0.23)"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "name": "Cipla",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Low debt (D/E 0.02)",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "DRREDDY",
+      "name": "Dr Reddy's Labs",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Cheaper than peers: P/E 24.3 vs median 29.9",
+        "Low debt (D/E 0.20)"
+      ],
+      "cautions": [
+        "Profit lower than a few years ago",
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "name": "JSW Steel",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Cheaper than peers: P/E 13.7 vs median 16.3",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "LT",
+      "name": "Larsen & Toubro",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Net profit rose every year for 4 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "name": "UltraTech Cement",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Cheaper than peers: P/E 42.1 vs median 42.7",
+        "Low debt (D/E 0.29)"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank",
+      "score": 3.0,
+      "verdict": "Weak",
+      "reasons": [
+        "Effectively debt-free — strong balance sheet"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies",
+      "score": 2.0,
+      "verdict": "Weak",
+      "reasons": [
+        "Low debt (D/E 0.07)"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto",
+      "score": 2.0,
+      "verdict": "Weak",
+      "reasons": [
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries",
+      "score": 2.0,
+      "verdict": "Weak",
+      "reasons": [
+        "Low debt (D/E 0.27)"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel",
+      "score": 2.0,
+      "verdict": "Weak",
+      "reasons": [
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": [
+        "Expensive: P/E 22.1 vs Metals median 16.3"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "name": "Hindalco Industries",
+      "score": 2.0,
+      "verdict": "Weak",
+      "reasons": [
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "GRASIM",
+      "name": "Grasim Industries",
+      "score": 2.0,
+      "verdict": "Weak",
+      "reasons": [
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": [
+        "High debt (D/E 1.34) — watch borrowings",
+        "Profit lower than a few years ago"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corp",
+      "score": 0.0,
+      "verdict": "Weak",
+      "reasons": [],
+      "cautions": [
+        "High debt (D/E 1.51) — watch borrowings",
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel",
+      "score": 0.0,
+      "verdict": "Weak",
+      "reasons": [],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    }
+  ]
+}
