@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T14:31:41+05:30",
+  "lastUpdated": "2026-07-10T20:15:30+05:30",
   "sectors": [
     {
       "name": "Auto",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Banking",
-      "medianPe": 18.3,
+      "medianPe": 18.4,
       "members": [
         "HDFCBANK",
         "ICICIBANK",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Cement",
-      "medianPe": 42.8,
+      "medianPe": 43.1,
       "members": [
         "ULTRACEMCO",
         "GRASIM"
@@ -31,7 +31,7 @@
     },
     {
       "name": "Energy",
-      "medianPe": 12.8,
+      "medianPe": 12.7,
       "members": [
         "RELIANCE",
         "NTPC",
@@ -41,7 +41,7 @@
     },
     {
       "name": "FMCG",
-      "medianPe": 49.1,
+      "medianPe": 49.2,
       "members": [
         "HINDUNILVR",
         "ITC",
@@ -51,7 +51,7 @@
     },
     {
       "name": "IT",
-      "medianPe": 14.9,
+      "medianPe": 14.6,
       "members": [
         "TCS",
         "INFY",
@@ -68,7 +68,7 @@
     },
     {
       "name": "Metals",
-      "medianPe": 16.2,
+      "medianPe": 16.1,
       "members": [
         "JSWSTEEL",
         "TATASTEEL",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Pharma",
-      "medianPe": 29.8,
+      "medianPe": 30.0,
       "members": [
         "SUNPHARMA",
         "CIPLA",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Telecom",
-      "medianPe": 43.3,
+      "medianPe": 43.2,
       "members": [
         "BHARTIARTL"
       ]

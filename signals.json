@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T14:31:41+05:30",
+  "lastUpdated": "2026-07-10T20:15:30+05:30",
   "reportType": "daily",
   "signals": [
     {
@@ -8,7 +8,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 11.3 vs Banking median 18.3",
+        "Very cheap: P/E 11.4 vs Banking median 18.4",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -33,7 +33,7 @@
       "score": 7.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 15.6 vs median 18.3",
+        "Cheaper than peers: P/E 15.7 vs median 18.4",
         "Effectively debt-free — strong balance sheet",
         "Trading above its 200-day average (uptrend)"
       ],
@@ -45,7 +45,7 @@
       "score": 6.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 47.4 vs median 49.1",
+        "Cheaper than peers: P/E 47.5 vs median 49.2",
         "Low debt (D/E 0.03)",
         "Net profit rose every year for 4 years"
       ],
@@ -64,7 +64,7 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Expensive: P/E 80.3 vs FMCG median 49.1"
+        "Expensive: P/E 80.2 vs FMCG median 49.2"
       ]
     },
     {
@@ -78,8 +78,8 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Expensive: P/E 39.4 vs Pharma median 29.8",
-        "Overbought (RSI 71) — may be due a pullback"
+        "Expensive: P/E 40.4 vs Pharma median 30.0",
+        "Overbought (RSI 73) — may be due a pullback"
       ]
     },
     {
@@ -88,7 +88,7 @@
       "score": 5.0,
       "verdict": "Watch",
       "reasons": [
-        "Very cheap: P/E 7.5 vs Energy median 12.8",
+        "Very cheap: P/E 7.4 vs Energy median 12.7",
         "Low debt (D/E 0.43)"
       ],
       "cautions": [
@@ -141,7 +141,7 @@
       "score": 5.0,
       "verdict": "Watch",
       "reasons": [
-        "Very cheap: P/E 17.0 vs FMCG median 49.1",
+        "Very cheap: P/E 17.1 vs FMCG median 49.2",
         "Low debt (D/E 0.03)"
       ],
       "cautions": [
@@ -158,7 +158,7 @@
         "Net profit rose every year for 4 years"
       ],
       "cautions": [
-        "Expensive: P/E 21.8 vs Energy median 12.8",
+        "Expensive: P/E 21.9 vs Energy median 12.7",
         "Below its 200-day average (downtrend)"
       ]
     },
@@ -168,7 +168,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 11.5 vs median 12.8",
+        "Cheaper than peers: P/E 11.3 vs median 12.7",
         "Net profit rose every year for 4 years"
       ],
       "cautions": [
@@ -195,7 +195,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 14.4 vs median 14.9",
+        "Cheaper than peers: P/E 14.2 vs median 14.6",
         "Low debt (D/E 0.10)"
       ],
       "cautions": [
@@ -208,7 +208,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 14.0 vs median 14.9",
+        "Cheaper than peers: P/E 14.0 vs median 14.6",
         "Low debt (D/E 0.23)"
       ],
       "cautions": [
@@ -232,7 +232,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 24.2 vs median 29.8",
+        "Cheaper than peers: P/E 24.2 vs median 30.0",
         "Low debt (D/E 0.20)"
       ],
       "cautions": [
@@ -246,7 +246,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 13.7 vs median 16.2",
+        "Cheaper than peers: P/E 13.7 vs median 16.1",
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": []
@@ -268,7 +268,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 42.2 vs median 42.8",
+        "Cheaper than peers: P/E 42.2 vs median 43.1",
         "Low debt (D/E 0.29)"
       ],
       "cautions": [
@@ -296,6 +296,7 @@
         "Low debt (D/E 0.07)"
       ],
       "cautions": [
+        "Expensive: P/E 19.0 vs IT median 14.6",
         "Below its 200-day average (downtrend)"
       ]
     },
@@ -330,7 +331,7 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Expensive: P/E 22.0 vs Metals median 16.2"
+        "Expensive: P/E 22.1 vs Metals median 16.1"
       ]
     },
     {
