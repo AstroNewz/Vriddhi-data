@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T13:22:39+05:30",
+  "lastUpdated": "2026-07-10T14:31:41+05:30",
   "reportType": "daily",
   "signals": [
     {
@@ -8,7 +8,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 11.3 vs Banking median 18.2",
+        "Very cheap: P/E 11.3 vs Banking median 18.3",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -33,7 +33,7 @@
       "score": 7.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 15.6 vs median 18.2",
+        "Cheaper than peers: P/E 15.6 vs median 18.3",
         "Effectively debt-free — strong balance sheet",
         "Trading above its 200-day average (uptrend)"
       ],
@@ -45,7 +45,7 @@
       "score": 6.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 47.3 vs median 49.1",
+        "Cheaper than peers: P/E 47.4 vs median 49.1",
         "Low debt (D/E 0.03)",
         "Net profit rose every year for 4 years"
       ],
@@ -64,7 +64,7 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Expensive: P/E 80.2 vs FMCG median 49.1"
+        "Expensive: P/E 80.3 vs FMCG median 49.1"
       ]
     },
     {
@@ -78,8 +78,21 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Expensive: P/E 39.4 vs Pharma median 29.9",
+        "Expensive: P/E 39.4 vs Pharma median 29.8",
         "Overbought (RSI 71) — may be due a pullback"
+      ]
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corp",
+      "score": 5.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Very cheap: P/E 7.5 vs Energy median 12.8",
+        "Low debt (D/E 0.43)"
+      ],
+      "cautions": [
+        "Below its 200-day average (downtrend)"
       ]
     },
     {
@@ -114,7 +127,7 @@
       "score": 5.0,
       "verdict": "Watch",
       "reasons": [
-        "Very cheap: P/E 20.5 vs Auto median 26.3",
+        "Very cheap: P/E 20.6 vs Auto median 26.4",
         "Net profit rose every year for 4 years"
       ],
       "cautions": [
@@ -132,6 +145,34 @@
         "Low debt (D/E 0.03)"
       ],
       "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Low debt (D/E 0.37)",
+        "Net profit rose every year for 4 years"
+      ],
+      "cautions": [
+        "Expensive: P/E 21.8 vs Energy median 12.8",
+        "Below its 200-day average (downtrend)"
+      ]
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd",
+      "score": 4.0,
+      "verdict": "Watch",
+      "reasons": [
+        "Cheaper than peers: P/E 11.5 vs median 12.8",
+        "Net profit rose every year for 4 years"
+      ],
+      "cautions": [
+        "High debt (D/E 1.18) — watch borrowings",
         "Below its 200-day average (downtrend)"
       ]
     },
@@ -157,7 +198,9 @@
         "Cheaper than peers: P/E 14.4 vs median 14.9",
         "Low debt (D/E 0.10)"
       ],
-      "cautions": []
+      "cautions": [
+        "Below its 200-day average (downtrend)"
+      ]
     },
     {
       "symbol": "WIPRO",
@@ -189,7 +232,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 24.3 vs median 29.9",
+        "Cheaper than peers: P/E 24.2 vs median 29.8",
         "Low debt (D/E 0.20)"
       ],
       "cautions": [
@@ -203,7 +246,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 13.7 vs median 16.3",
+        "Cheaper than peers: P/E 13.7 vs median 16.2",
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": []
@@ -225,7 +268,7 @@
       "score": 4.0,
       "verdict": "Watch",
       "reasons": [
-        "Cheaper than peers: P/E 42.1 vs median 42.7",
+        "Cheaper than peers: P/E 42.2 vs median 42.8",
         "Low debt (D/E 0.29)"
       ],
       "cautions": [
@@ -287,7 +330,7 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Expensive: P/E 22.1 vs Metals median 16.3"
+        "Expensive: P/E 22.0 vs Metals median 16.2"
       ]
     },
     {

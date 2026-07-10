@@ -1,13 +1,82 @@
 {
-  "lastUpdated": "2026-07-10T13:22:39+05:30",
+  "lastUpdated": "2026-07-10T14:31:41+05:30",
   "stocks": [
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "sector": "Energy",
+      "price": 1306.8,
+      "changePct": 2.11,
+      "marketCap": 1768424,
+      "pe": 21.8,
+      "debtToEquity": 0.37,
+      "profitTrend": [
+        66702,
+        69621,
+        69648,
+        80775
+      ],
+      "balanceSheet": {
+        "Total Assets": 2178140,
+        "Total Debt": 398000,
+        "Equity": 904030,
+        "Cash": 137327
+      },
+      "marketSharePct": 66.2
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corp",
+      "sector": "Energy",
+      "price": 244.93,
+      "changePct": 0.53,
+      "marketCap": 308129,
+      "pe": 7.5,
+      "debtToEquity": 0.43,
+      "profitTrend": [
+        36709,
+        49144,
+        36226,
+        41424
+      ],
+      "balanceSheet": {
+        "Total Assets": 791905,
+        "Total Debt": 174316,
+        "Equity": 371768,
+        "Cash": 1554
+      },
+      "marketSharePct": 11.5
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd",
+      "sector": "Energy",
+      "price": 344.05,
+      "changePct": 0.1,
+      "marketCap": 333565,
+      "pe": 11.5,
+      "debtToEquity": 1.18,
+      "profitTrend": [
+        16913,
+        20812,
+        23422,
+        27053
+      ],
+      "balanceSheet": {
+        "Total Assets": 558644,
+        "Total Debt": 271005,
+        "Equity": 203176,
+        "Cash": 3422
+      },
+      "marketSharePct": 12.5
+    },
     {
       "symbol": "POWERGRID",
       "name": "Power Grid Corp",
       "sector": "Energy",
-      "price": 283.05,
-      "changePct": 0.6,
-      "marketCap": 263254,
+      "price": 282.7,
+      "changePct": 0.48,
+      "marketCap": 262928,
       "pe": 14.1,
       "debtToEquity": 1.51,
       "profitTrend": [
@@ -22,15 +91,15 @@
         "Equity": 100494,
         "Cash": 5281
       },
-      "marketSharePct": 100.0
+      "marketSharePct": 9.8
     },
     {
       "symbol": "TCS",
       "name": "Tata Consultancy Services",
       "sector": "IT",
-      "price": 2072.9,
-      "changePct": 1.14,
-      "marketCap": 749776,
+      "price": 2073.4,
+      "changePct": 1.17,
+      "marketCap": 750174,
       "pe": 15.3,
       "debtToEquity": 0.1,
       "profitTrend": [
@@ -51,9 +120,9 @@
       "symbol": "INFY",
       "name": "Infosys",
       "sector": "IT",
-      "price": 1069.6,
-      "changePct": 1.79,
-      "marketCap": 433073,
+      "price": 1070.2,
+      "changePct": 1.85,
+      "marketCap": 433316,
       "pe": 14.4,
       "debtToEquity": 0.1,
       "profitTrend": [
@@ -74,9 +143,9 @@
       "symbol": "HCLTECH",
       "name": "HCL Technologies",
       "sector": "IT",
-      "price": 1158.4,
-      "changePct": 0.7,
-      "marketCap": 313517,
+      "price": 1159.5,
+      "changePct": 0.79,
+      "marketCap": 313734,
       "pe": 18.8,
       "debtToEquity": 0.07,
       "profitTrend": [
@@ -97,9 +166,9 @@
       "symbol": "WIPRO",
       "name": "Wipro",
       "sector": "IT",
-      "price": 175.49,
-      "changePct": 1.58,
-      "marketCap": 173594,
+      "price": 175.85,
+      "changePct": 1.79,
+      "marketCap": 173950,
       "pe": 14.0,
       "debtToEquity": 0.23,
       "profitTrend": [
@@ -120,10 +189,10 @@
       "symbol": "HDFCBANK",
       "name": "HDFC Bank",
       "sector": "Banking",
-      "price": 824.95,
-      "changePct": 0.91,
-      "marketCap": 1270523,
-      "pe": 18.2,
+      "price": 825.15,
+      "changePct": 0.93,
+      "marketCap": 1270831,
+      "pe": 18.3,
       "debtToEquity": 0.0,
       "profitTrend": [
         38600,
@@ -143,10 +212,10 @@
       "symbol": "ICICIBANK",
       "name": "ICICI Bank",
       "sector": "Banking",
-      "price": 1400.0,
-      "changePct": 1.4,
-      "marketCap": 1004203,
-      "pe": 18.7,
+      "price": 1404.9,
+      "changePct": 1.75,
+      "marketCap": 1007574,
+      "pe": 18.8,
       "debtToEquity": 0.0,
       "profitTrend": [
         34037,
@@ -160,15 +229,15 @@
         "Equity": 363060,
         "Cash": 264981
       },
-      "marketSharePct": 25.0
+      "marketSharePct": 25.1
     },
     {
       "symbol": "SBIN",
       "name": "State Bank of India",
       "sector": "Banking",
-      "price": 1034.7,
-      "changePct": 1.23,
-      "marketCap": 955092,
+      "price": 1035.7,
+      "changePct": 1.33,
+      "marketCap": 956015,
       "pe": 11.3,
       "debtToEquity": 0.0,
       "profitTrend": [
@@ -189,9 +258,9 @@
       "symbol": "KOTAKBANK",
       "name": "Kotak Mahindra Bank",
       "sector": "Banking",
-      "price": 379.6,
-      "changePct": 0.65,
-      "marketCap": 377568,
+      "price": 379.05,
+      "changePct": 0.5,
+      "marketCap": 376872,
       "pe": 19.2,
       "debtToEquity": 0.0,
       "profitTrend": [
@@ -212,9 +281,9 @@
       "symbol": "AXISBANK",
       "name": "Axis Bank",
       "sector": "Banking",
-      "price": 1320.7,
-      "changePct": 1.78,
-      "marketCap": 410859,
+      "price": 1318.7,
+      "changePct": 1.63,
+      "marketCap": 410236,
       "pe": 15.6,
       "debtToEquity": 0.0,
       "profitTrend": [
@@ -235,10 +304,10 @@
       "symbol": "MARUTI",
       "name": "Maruti Suzuki",
       "sector": "Auto",
-      "price": 13851.0,
-      "changePct": 0.9,
-      "marketCap": 435479,
-      "pe": 30.1,
+      "price": 13966.0,
+      "changePct": 1.73,
+      "marketCap": 439095,
+      "pe": 30.4,
       "debtToEquity": 0.0,
       "profitTrend": [
         8264,
@@ -252,16 +321,16 @@
         "Equity": 107156,
         "Cash": 67
       },
-      "marketSharePct": 39.8
+      "marketSharePct": 40.0
     },
     {
       "symbol": "M&M",
       "name": "Mahindra & Mahindra",
       "sector": "Auto",
-      "price": 3121.6,
-      "changePct": 1.17,
-      "marketCap": 374770,
-      "pe": 20.5,
+      "price": 3130.5,
+      "changePct": 1.46,
+      "marketCap": 375899,
+      "pe": 20.6,
       "debtToEquity": 1.25,
       "profitTrend": [
         10282,
@@ -275,16 +344,16 @@
         "Equity": 93096,
         "Cash": 4292
       },
-      "marketSharePct": 34.3
+      "marketSharePct": 34.2
     },
     {
       "symbol": "BAJAJ-AUTO",
       "name": "Bajaj Auto",
       "sector": "Auto",
-      "price": 10120.0,
-      "changePct": -0.34,
-      "marketCap": 282623,
-      "pe": 26.3,
+      "price": 10159.5,
+      "changePct": 0.04,
+      "marketCap": 283726,
+      "pe": 26.4,
       "debtToEquity": 0.56,
       "profitTrend": [
         6060,
@@ -298,15 +367,15 @@
         "Equity": 38832,
         "Cash": 2990
       },
-      "marketSharePct": 25.9
+      "marketSharePct": 25.8
     },
     {
       "symbol": "ITC",
       "name": "ITC Ltd",
       "sector": "FMCG",
-      "price": 281.5,
-      "changePct": -0.2,
-      "marketCap": 352705,
+      "price": 281.35,
+      "changePct": -0.25,
+      "marketCap": 352517,
       "pe": 17.0,
       "debtToEquity": 0.03,
       "profitTrend": [
@@ -327,10 +396,10 @@
       "symbol": "HINDUNILVR",
       "name": "Hindustan Unilever",
       "sector": "FMCG",
-      "price": 2150.0,
-      "changePct": 0.26,
-      "marketCap": 505162,
-      "pe": 47.3,
+      "price": 2153.0,
+      "changePct": 0.4,
+      "marketCap": 505867,
+      "pe": 47.4,
       "debtToEquity": 0.03,
       "profitTrend": [
         10120,
@@ -350,10 +419,10 @@
       "symbol": "NESTLEIND",
       "name": "Nestle India",
       "sector": "FMCG",
-      "price": 1454.1,
-      "changePct": -0.62,
-      "marketCap": 280396,
-      "pe": 80.2,
+      "price": 1455.6,
+      "changePct": -0.52,
+      "marketCap": 280685,
+      "pe": 80.3,
       "debtToEquity": 0.09,
       "profitTrend": [
         2118,
@@ -369,9 +438,9 @@
       "symbol": "BRITANNIA",
       "name": "Britannia Industries",
       "sector": "FMCG",
-      "price": 5361.0,
-      "changePct": -0.01,
-      "marketCap": 129129,
+      "price": 5353.5,
+      "changePct": -0.15,
+      "marketCap": 128949,
       "pe": 50.9,
       "debtToEquity": 0.27,
       "profitTrend": [
@@ -392,9 +461,9 @@
       "symbol": "SUNPHARMA",
       "name": "Sun Pharmaceutical",
       "sector": "Pharma",
-      "price": 1931.6,
-      "changePct": -0.37,
-      "marketCap": 463456,
+      "price": 1930.8,
+      "changePct": -0.41,
+      "marketCap": 463264,
       "pe": 39.4,
       "debtToEquity": 0.06,
       "profitTrend": [
@@ -415,10 +484,10 @@
       "symbol": "CIPLA",
       "name": "Cipla",
       "sector": "Pharma",
-      "price": 1442.5,
-      "changePct": 0.08,
-      "marketCap": 116532,
-      "pe": 29.9,
+      "price": 1438.0,
+      "changePct": -0.23,
+      "marketCap": 116168,
+      "pe": 29.8,
       "debtToEquity": 0.02,
       "profitTrend": [
         2802,
@@ -438,10 +507,10 @@
       "symbol": "DRREDDY",
       "name": "Dr Reddy's Labs",
       "sector": "Pharma",
-      "price": 1248.0,
-      "changePct": -1.69,
-      "marketCap": 103922,
-      "pe": 24.3,
+      "price": 1241.5,
+      "changePct": -2.21,
+      "marketCap": 103381,
+      "pe": 24.2,
       "debtToEquity": 0.2,
       "profitTrend": [
         4507,
@@ -455,16 +524,16 @@
         "Equity": 37706,
         "Cash": 1537
       },
-      "marketSharePct": 15.2
+      "marketSharePct": 15.1
     },
     {
       "symbol": "TATASTEEL",
       "name": "Tata Steel",
       "sector": "Metals",
-      "price": 190.56,
-      "changePct": 1.41,
-      "marketCap": 237664,
-      "pe": 22.1,
+      "price": 190.23,
+      "changePct": 1.23,
+      "marketCap": 237252,
+      "pe": 22.0,
       "debtToEquity": 0.89,
       "profitTrend": [
         8760,
@@ -484,10 +553,10 @@
       "symbol": "HINDALCO",
       "name": "Hindalco Industries",
       "sector": "Metals",
-      "price": 970.8,
-      "changePct": 0.76,
-      "marketCap": 215502,
-      "pe": 16.3,
+      "price": 967.6,
+      "changePct": 0.43,
+      "marketCap": 214791,
+      "pe": 16.2,
       "debtToEquity": 0.73,
       "profitTrend": [
         10097,
@@ -507,9 +576,9 @@
       "symbol": "JSWSTEEL",
       "name": "JSW Steel",
       "sector": "Metals",
-      "price": 1248.2,
-      "changePct": 1.83,
-      "marketCap": 304664,
+      "price": 1246.3,
+      "changePct": 1.67,
+      "marketCap": 304200,
       "pe": 13.7,
       "debtToEquity": 0.95,
       "profitTrend": [
@@ -530,10 +599,10 @@
       "symbol": "LT",
       "name": "Larsen & Toubro",
       "sector": "Infrastructure",
-      "price": 3938.3,
-      "changePct": 1.35,
-      "marketCap": 541900,
-      "pe": 33.8,
+      "price": 3933.0,
+      "changePct": 1.21,
+      "marketCap": 541074,
+      "pe": 33.7,
       "debtToEquity": 0.98,
       "profitTrend": [
         10471,
@@ -553,10 +622,10 @@
       "symbol": "ULTRACEMCO",
       "name": "UltraTech Cement",
       "sector": "Cement",
-      "price": 11670.0,
-      "changePct": 1.27,
-      "marketCap": 343296,
-      "pe": 42.1,
+      "price": 11677.0,
+      "changePct": 1.33,
+      "marketCap": 343502,
+      "pe": 42.2,
       "debtToEquity": 0.29,
       "profitTrend": [
         5064,
@@ -576,9 +645,9 @@
       "symbol": "GRASIM",
       "name": "Grasim Industries",
       "sector": "Cement",
-      "price": 3218.9,
-      "changePct": 0.85,
-      "marketCap": 218297,
+      "price": 3220.6,
+      "changePct": 0.9,
+      "marketCap": 218412,
       "pe": 43.3,
       "debtToEquity": 1.34,
       "profitTrend": [
@@ -599,10 +668,10 @@
       "symbol": "BHARTIARTL",
       "name": "Bharti Airtel",
       "sector": "Telecom",
-      "price": 1914.1,
-      "changePct": -0.88,
-      "marketCap": 1194142,
-      "pe": 43.1,
+      "price": 1919.4,
+      "changePct": -0.61,
+      "marketCap": 1197448,
+      "pe": 43.3,
       "debtToEquity": 1.0,
       "profitTrend": [
         8346,
