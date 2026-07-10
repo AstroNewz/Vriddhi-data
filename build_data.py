@@ -110,6 +110,33 @@ def _technicals(tkr) -> dict:
     return _safe(build, {}) or {}
 
 
+def _calendar_from_info(symbol: str, name: str, info: dict) -> dict | None:
+    """Extract upcoming dividend / earnings dates from the already-fetched info
+    dict (no extra API calls). Returns None if nothing useful is present."""
+    def to_date(epoch):
+        try:
+            if not epoch:
+                return None
+            return datetime.fromtimestamp(float(epoch), IST).date().isoformat()
+        except Exception:
+            return None
+
+    ex_div = to_date(info.get("exDividendDate"))
+    earnings = to_date(info.get("earningsTimestamp")
+                       or info.get("earningsTimestampStart"))
+    if not ex_div and not earnings:
+        return None
+    entry = {"symbol": symbol, "name": name}
+    if ex_div:
+        entry["exDividend"] = ex_div
+    if earnings:
+        entry["earnings"] = earnings
+    div_rate = _safe(lambda: float(info.get("dividendRate")), 0.0) or 0.0
+    if div_rate:
+        entry["dividendRate"] = round(div_rate, 2)
+    return entry
+
+
 def fetch_stock(symbol: str, name: str, sector: str) -> dict | None:
     """Fetch one company; returns a stock dict merged with its technicals."""
     ticker = f"{symbol}.NS"
@@ -134,12 +161,17 @@ def fetch_stock(symbol: str, name: str, sector: str) -> dict | None:
         "marketCap": round((_safe(lambda: float(info.get("marketCap")), 0.0) or 0.0) / CRORE),
         "pe": round(_safe(lambda: float(info.get("trailingPE")), 0.0) or 0.0, 1),
         "debtToEquity": round((_safe(lambda: float(info.get("debtToEquity")), 0.0) or 0.0) / 100, 2),
+        "roe": round((_safe(lambda: float(info.get("returnOnEquity")), 0.0) or 0.0) * 100, 1),
+        "eps": round(_safe(lambda: float(info.get("trailingEps")), 0.0) or 0.0, 1),
+        "bookValue": round(_safe(lambda: float(info.get("bookValue")), 0.0) or 0.0, 1),
+        "dividendYield": round((_safe(lambda: float(info.get("dividendYield")), 0.0) or 0.0), 2),
         "profitTrend": [round(x) for x in _profit_trend(tkr)],
         "balanceSheet": _balance_sheet(tkr),
         "marketSharePct": 0.0,  # filled in after all fetched (sector-relative)
     }
     tech = _technicals(tkr)
-    return {"stock": stock, "tech": tech}
+    calendar = _calendar_from_info(symbol, name, info)
+    return {"stock": stock, "tech": tech, "calendar": calendar}
 
 
 def compute_market_share(stocks: list[dict]) -> None:
@@ -209,12 +241,59 @@ def fetch_indices() -> list[dict]:
     return out
 
 
+def fetch_news() -> list[dict]:
+    """Fetch market headlines from free RSS feeds. Headlines + links only — no
+    scraping of article bodies, no editorialising. Best-effort."""
+    import urllib.request
+    import xml.etree.ElementTree as ET
+
+    feeds = [
+        "https://www.moneycontrol.com/rss/marketreports.xml",
+        "https://www.moneycontrol.com/rss/business.xml",
+    ]
+    items: list[dict] = []
+    for url in feeds:
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            raw = urllib.request.urlopen(req, timeout=20).read()
+            root = ET.fromstring(raw)
+            for item in root.iter("item"):
+                title = (item.findtext("title") or "").strip()
+                link = (item.findtext("link") or "").strip()
+                pub = (item.findtext("pubDate") or "").strip()
+                if title and link:
+                    items.append({"title": title, "link": link, "date": pub})
+                if len(items) >= 40:
+                    break
+        except Exception as e:  # noqa: BLE001
+            print(f"  ! news feed failed ({url}): {e}")
+    # De-dupe by title, keep order.
+    seen = set()
+    unique = []
+    for it in items:
+        if it["title"] in seen:
+            continue
+        seen.add(it["title"])
+        unique.append(it)
+    return unique[:30]
+
+
+def fetch_ipos() -> list[dict]:
+    """Best-effort upcoming/current IPO list. Free reliable sources for Indian
+    IPOs are scarce, so this may return an empty list; the app shows a friendly
+    'no data' state in that case rather than fabricating entries."""
+    # Placeholder: returns empty. A future revision can wire a specific free
+    # source here. We deliberately do NOT invent IPO data.
+    return []
+
+
 def main() -> None:
     now = datetime.now(IST).isoformat(timespec="seconds")
     is_monthly = datetime.now(IST).day <= 7  # first run of the month = full report
 
     stocks: list[dict] = []
     technicals: list[dict] = []
+    calendar: list[dict] = []
 
     print(f"Fetching {len(UNIVERSE)} stocks…")
     for symbol, name, sector in UNIVERSE:
@@ -225,19 +304,24 @@ def main() -> None:
         stocks.append(res["stock"])
         if res["tech"]:
             technicals.append({"symbol": symbol, **res["tech"]})
+        if res.get("calendar"):
+            calendar.append(res["calendar"])
 
     compute_market_share(stocks)
     sectors = build_sectors(stocks)
     sector_median = {s["name"]: s["medianPe"] for s in sectors}
     tech_by_symbol = {t["symbol"]: t for t in technicals}
 
-    # Score every stock, keep the meaningful ones, rank by score.
-    signals = []
+    # Score every stock, then keep the strongest as "signals" (the Home feed).
+    # With a 500-name universe we cap the feed to the top picks so the app stays
+    # snappy; the full list still lives in stocks.json for search/screener.
+    all_signals = []
     for s in stocks:
         sig = score_stock(s, sector_median.get(s["sector"], 0.0),
                           tech_by_symbol.get(s["symbol"]))
-        signals.append(sig)
-    signals.sort(key=lambda x: x["score"], reverse=True)
+        all_signals.append(sig)
+    all_signals.sort(key=lambda x: x["score"], reverse=True)
+    signals = all_signals[:40]
 
     _write("stocks.json", {"lastUpdated": now, "stocks": stocks})
     _write("sectors.json", {"lastUpdated": now, "sectors": sectors})
@@ -248,7 +332,13 @@ def main() -> None:
     })
     _write("technicals.json", {"lastUpdated": now, "technicals": technicals})
     _write("indices.json", {"lastUpdated": now, "indices": fetch_indices()})
-    print(f"Done. {len(stocks)} stocks, {len(signals)} signals.")
+    # Corporate calendar — sort by nearest upcoming date.
+    calendar.sort(key=lambda c: c.get("earnings") or c.get("exDividend") or "z")
+    _write("calendar.json", {"lastUpdated": now, "events": calendar})
+    _write("news.json", {"lastUpdated": now, "news": fetch_news()})
+    _write("ipo.json", {"lastUpdated": now, "ipos": fetch_ipos()})
+    print(f"Done. {len(stocks)} stocks, {len(signals)} signals, "
+          f"{len(calendar)} calendar entries.")
 
 
 def _write(path: str, obj: dict) -> None:

@@ -1,58 +1,76 @@
 """VRIDDHI वृद्धि — the stock universe.
 
-A curated list of large, liquid NSE names as (symbol, display name, sector).
-Start focused (these Nifty heavyweights) and grow the list over time — the
-builder and app scale to whatever is here. Symbols are the NSE ticker WITHOUT
-the ".NS" suffix (the builder appends it for Yahoo Finance).
+Primary source: the official **Nifty 500** constituents CSV from NSE — ~500
+companies covering 95%+ of India's market cap (every investable name). This is
+fetched fresh each run so the list stays current as the index is rebalanced.
+
+If NSE is unreachable in a given CI run, we fall back to a small hardcoded set
+of large-caps so the build never fails outright.
+
+Each entry is (symbol, display name, sector). Symbols are the NSE ticker
+WITHOUT the ".NS" suffix (the builder appends it for Yahoo Finance).
 """
 
-UNIVERSE: list[tuple[str, str, str]] = [
-    # Energy
+from __future__ import annotations
+
+import csv
+import io
+import urllib.request
+
+NIFTY500_URL = "https://nsearchives.nseindia.com/content/indices/ind_nifty500list.csv"
+
+# Minimal fallback if NSE is unreachable.
+_FALLBACK: list[tuple[str, str, str]] = [
     ("RELIANCE", "Reliance Industries", "Energy"),
-    ("ONGC", "Oil & Natural Gas Corp", "Energy"),
-    ("NTPC", "NTPC Ltd", "Energy"),
-    ("POWERGRID", "Power Grid Corp", "Energy"),
-
-    # IT
     ("TCS", "Tata Consultancy Services", "IT"),
-    ("INFY", "Infosys", "IT"),
-    ("HCLTECH", "HCL Technologies", "IT"),
-    ("WIPRO", "Wipro", "IT"),
-
-    # Banking
     ("HDFCBANK", "HDFC Bank", "Banking"),
+    ("INFY", "Infosys", "IT"),
     ("ICICIBANK", "ICICI Bank", "Banking"),
     ("SBIN", "State Bank of India", "Banking"),
-    ("KOTAKBANK", "Kotak Mahindra Bank", "Banking"),
-    ("AXISBANK", "Axis Bank", "Banking"),
-
-    # Auto
+    ("BHARTIARTL", "Bharti Airtel", "Telecom"),
+    ("ITC", "ITC Ltd", "FMCG"),
+    ("LT", "Larsen & Toubro", "Infrastructure"),
+    ("HINDUNILVR", "Hindustan Unilever", "FMCG"),
     ("TATAMOTORS", "Tata Motors", "Auto"),
     ("MARUTI", "Maruti Suzuki", "Auto"),
-    ("M&M", "Mahindra & Mahindra", "Auto"),
-    ("BAJAJ-AUTO", "Bajaj Auto", "Auto"),
-
-    # FMCG
-    ("ITC", "ITC Ltd", "FMCG"),
-    ("HINDUNILVR", "Hindustan Unilever", "FMCG"),
-    ("NESTLEIND", "Nestle India", "FMCG"),
-    ("BRITANNIA", "Britannia Industries", "FMCG"),
-
-    # Pharma
     ("SUNPHARMA", "Sun Pharmaceutical", "Pharma"),
-    ("CIPLA", "Cipla", "Pharma"),
-    ("DRREDDY", "Dr Reddy's Labs", "Pharma"),
-
-    # Metals
     ("TATASTEEL", "Tata Steel", "Metals"),
-    ("HINDALCO", "Hindalco Industries", "Metals"),
-    ("JSWSTEEL", "JSW Steel", "Metals"),
-
-    # Infra / Cement
-    ("LT", "Larsen & Toubro", "Infrastructure"),
-    ("ULTRACEMCO", "UltraTech Cement", "Cement"),
-    ("GRASIM", "Grasim Industries", "Cement"),
-
-    # Telecom
-    ("BHARTIARTL", "Bharti Airtel", "Telecom"),
+    ("AXISBANK", "Axis Bank", "Banking"),
 ]
+
+
+def _clean_name(name: str) -> str:
+    """Trim the common corporate suffixes so display names stay tidy."""
+    n = name.strip()
+    for suffix in (" Ltd.", " Ltd", " Limited", "."):
+        if n.endswith(suffix):
+            n = n[: -len(suffix)].strip()
+    return n
+
+
+def load_universe() -> list[tuple[str, str, str]]:
+    """Fetch the live Nifty 500 list; fall back to the hardcoded set on error."""
+    try:
+        req = urllib.request.Request(
+            NIFTY500_URL, headers={"User-Agent": "Mozilla/5.0"}
+        )
+        raw = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+        rows = list(csv.DictReader(io.StringIO(raw)))
+        out: list[tuple[str, str, str]] = []
+        for r in rows:
+            symbol = (r.get("Symbol") or "").strip()
+            name = _clean_name(r.get("Company Name") or symbol)
+            sector = (r.get("Industry") or "Other").strip() or "Other"
+            if symbol:
+                out.append((symbol, name, sector))
+        if len(out) >= 100:  # sanity check the fetch actually worked
+            print(f"Universe: loaded {len(out)} Nifty 500 constituents from NSE")
+            return out
+        print("Universe: NSE list looked too short, using fallback")
+    except Exception as e:  # noqa: BLE001 — never let this break the build
+        print(f"Universe: NSE fetch failed ({e}), using fallback")
+    return _FALLBACK
+
+
+# Loaded once at import so build_data.py can iterate it directly.
+UNIVERSE: list[tuple[str, str, str]] = load_universe()
