@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name  "vriddhi-bot"
           git config user.email "actions@github.com"
-          git add stocks.json sectors.json signals.json technicals.json
+          git add stocks.json sectors.json signals.json technicals.json indices.json
           if git diff --staged --quiet; then
             echo "No data changes."
           else

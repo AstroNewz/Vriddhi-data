@@ -170,6 +170,45 @@ def build_sectors(stocks: list[dict]) -> list[dict]:
     return sorted(out, key=lambda x: x["name"])
 
 
+def fetch_indices() -> list[dict]:
+    """Fetch the headline indices (Sensex, Nifty 50) with day change."""
+    wanted = [
+        ("^BSESN", "SENSEX", "BSE Sensex"),
+        ("^NSEI", "NIFTY", "Nifty 50"),
+    ]
+    out = []
+    for yahoo, code, name in wanted:
+        def build():
+            tkr = yf.Ticker(yahoo)
+            info = _safe(lambda: tkr.info, {}) or {}
+            price = _safe(lambda: float(info.get("regularMarketPrice")
+                                        or info.get("previousClose")), 0.0) or 0.0
+            prev = _safe(lambda: float(info.get("previousClose")), price) or price
+            if price == 0.0:
+                # Fall back to the last two closes from history.
+                hist = tkr.history(period="5d", interval="1d")
+                if hist is None or hist.empty:
+                    return None
+                closes = hist["Close"].dropna().tolist()
+                price = float(closes[-1])
+                prev = float(closes[-2]) if len(closes) >= 2 else price
+            change = price - prev
+            change_pct = (change / prev * 100) if prev else 0.0
+            return {
+                "code": code,
+                "name": name,
+                "value": round(price, 2),
+                "change": round(change, 2),
+                "changePct": round(change_pct, 2),
+            }
+        idx = _safe(build, None)
+        if idx:
+            out.append(idx)
+        else:
+            print(f"  ! index {code}: unavailable")
+    return out
+
+
 def main() -> None:
     now = datetime.now(IST).isoformat(timespec="seconds")
     is_monthly = datetime.now(IST).day <= 7  # first run of the month = full report
@@ -208,6 +247,7 @@ def main() -> None:
         "signals": signals,
     })
     _write("technicals.json", {"lastUpdated": now, "technicals": technicals})
+    _write("indices.json", {"lastUpdated": now, "indices": fetch_indices()})
     print(f"Done. {len(stocks)} stocks, {len(signals)} signals.")
 
 
