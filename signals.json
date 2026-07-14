@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T20:22:45+05:30",
+  "lastUpdated": "2026-07-14T19:33:20+05:30",
   "reportType": "daily",
   "signals": [
     {
@@ -8,7 +8,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 28.2 vs Capital Goods median 53.2",
+        "Very cheap: P/E 27.9 vs Capital Goods median 53.7",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -21,7 +21,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 6.1 vs Financial Services median 26.2",
+        "Very cheap: P/E 6.0 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -34,7 +34,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 8.4 vs Financial Services median 26.2",
+        "Very cheap: P/E 8.3 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -47,7 +47,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 31.1 vs Healthcare median 52.1",
+        "Very cheap: P/E 30.7 vs Healthcare median 51.9",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -60,14 +60,12 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 16.8 vs Financial Services median 26.2",
+        "Very cheap: P/E 17.1 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
       ],
-      "cautions": [
-        "Overbought (RSI 71) — may be due a pullback"
-      ]
+      "cautions": []
     },
     {
       "symbol": "FEDERALBNK",
@@ -75,7 +73,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 19.0 vs Financial Services median 26.2",
+        "Very cheap: P/E 18.6 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -88,7 +86,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 22.7 vs Capital Goods median 53.2",
+        "Very cheap: P/E 22.2 vs Capital Goods median 53.7",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -101,7 +99,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 34.9 vs Capital Goods median 53.2",
+        "Very cheap: P/E 35.4 vs Capital Goods median 53.7",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -114,7 +112,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 33.1 vs Capital Goods median 53.2",
+        "Very cheap: P/E 32.6 vs Capital Goods median 53.7",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -127,20 +125,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 18.8 vs Financial Services median 26.2",
-        "Effectively debt-free — strong balance sheet",
-        "Net profit rose every year for 4 years",
-        "Trading above its 200-day average (uptrend)"
-      ],
-      "cautions": []
-    },
-    {
-      "symbol": "INDIANB",
-      "name": "Indian Bank",
-      "score": 10.0,
-      "verdict": "Strong",
-      "reasons": [
-        "Very cheap: P/E 8.9 vs Financial Services median 26.2",
+        "Very cheap: P/E 18.8 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -153,7 +138,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 8.5 vs Financial Services median 26.2",
+        "Very cheap: P/E 8.3 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -166,7 +151,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 11.9 vs Financial Services median 26.2",
+        "Very cheap: P/E 11.5 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -179,7 +164,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 9.7 vs Financial Services median 26.2",
+        "Very cheap: P/E 9.6 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -192,7 +177,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 11.4 vs Financial Services median 26.2",
+        "Very cheap: P/E 11.4 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -205,7 +190,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 6.7 vs Financial Services median 26.2",
+        "Very cheap: P/E 6.7 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -218,7 +203,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 40.5 vs Healthcare median 52.1",
+        "Very cheap: P/E 40.1 vs Healthcare median 51.9",
         "Low debt (D/E 0.06)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -231,7 +216,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 28.9 vs Healthcare median 52.1",
+        "Very cheap: P/E 29.0 vs Healthcare median 51.9",
         "Low debt (D/E 0.14)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -244,7 +229,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 25.7 vs Healthcare median 52.1",
+        "Very cheap: P/E 26.0 vs Healthcare median 51.9",
         "Low debt (D/E 0.21)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -257,7 +242,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 19.3 vs Construction median 27.4",
+        "Very cheap: P/E 18.6 vs Construction median 27.0",
         "Low debt (D/E 0.01)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -270,14 +255,27 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 40.5 vs Healthcare median 52.1",
+        "Very cheap: P/E 40.9 vs Healthcare median 51.9",
         "Low debt (D/E 0.08)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Overbought (RSI 85) — may be due a pullback"
+        "Overbought (RSI 87) — may be due a pullback"
       ]
+    },
+    {
+      "symbol": "KPIL",
+      "name": "Kalpataru Projects International",
+      "score": 9.0,
+      "verdict": "Strong",
+      "reasons": [
+        "Very cheap: P/E 21.5 vs Construction median 27.0",
+        "Low debt (D/E 0.46)",
+        "Net profit rose every year for 4 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
     },
     {
       "symbol": "THELEELA",
@@ -285,7 +283,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 40.4 vs Consumer Services median 53.2",
+        "Very cheap: P/E 39.4 vs Consumer Services median 53.8",
         "Low debt (D/E 0.28)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -298,14 +296,12 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 21.4 vs Healthcare median 52.1",
+        "Very cheap: P/E 21.3 vs Healthcare median 51.9",
         "Low debt (D/E 0.29)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
       ],
-      "cautions": [
-        "Overbought (RSI 72) — may be due a pullback"
-      ]
+      "cautions": []
     },
     {
       "symbol": "OBEROIRLTY",
@@ -313,13 +309,13 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 27.9 vs Realty median 36.2",
+        "Very cheap: P/E 27.8 vs Realty median 35.8",
         "Low debt (D/E 0.16)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Overbought (RSI 78) — may be due a pullback"
+        "Overbought (RSI 73) — may be due a pullback"
       ]
     },
     {
@@ -328,7 +324,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 40.2 vs Healthcare median 52.1",
+        "Very cheap: P/E 40.2 vs Healthcare median 51.9",
         "Low debt (D/E 0.06)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -341,7 +337,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 39.5 vs Capital Goods median 53.2",
+        "Very cheap: P/E 38.6 vs Capital Goods median 53.7",
         "Low debt (D/E 0.30)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -354,7 +350,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 40.0 vs Consumer Services median 53.2",
+        "Very cheap: P/E 39.1 vs Consumer Services median 53.8",
         "Low debt (D/E 0.17)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -367,7 +363,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 21.2 vs median 26.2",
+        "Cheaper than peers: P/E 21.1 vs median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -380,7 +376,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 22.6 vs Healthcare median 52.1",
+        "Very cheap: P/E 22.6 vs Healthcare median 51.9",
         "Low debt (D/E 0.42)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -393,7 +389,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 34.7 vs Capital Goods median 53.2",
+        "Very cheap: P/E 34.8 vs Capital Goods median 53.7",
         "Effectively debt-free — strong balance sheet",
         "Trading above its 200-day average (uptrend)"
       ],
@@ -405,7 +401,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 15.6 vs Financial Services median 26.2",
+        "Very cheap: P/E 15.5 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Trading above its 200-day average (uptrend)"
       ],
@@ -417,7 +413,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 6.0 vs Financial Services median 26.2",
+        "Very cheap: P/E 5.9 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
@@ -431,7 +427,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 6.5 vs Financial Services median 26.2",
+        "Very cheap: P/E 6.5 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
@@ -445,13 +441,13 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 50.0 vs median 58.9",
+        "Cheaper than peers: P/E 49.4 vs median 59.6",
         "Low debt (D/E 0.18)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Overbought (RSI 76) — may be due a pullback"
+        "Overbought (RSI 72) — may be due a pullback"
       ]
     },
     {
@@ -460,21 +456,8 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 36.3 vs median 40.7",
+        "Cheaper than peers: P/E 36.1 vs median 39.7",
         "Low debt (D/E 0.02)",
-        "Net profit rose every year for 4 years",
-        "Trading above its 200-day average (uptrend)"
-      ],
-      "cautions": []
-    },
-    {
-      "symbol": "ENDURANCE",
-      "name": "Endurance Technologies",
-      "score": 8.0,
-      "verdict": "Strong",
-      "reasons": [
-        "Cheaper than peers: P/E 39.9 vs median 40.7",
-        "Low debt (D/E 0.19)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
       ],
@@ -486,7 +469,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 19.5 vs Automobile and Auto Components median 40.7",
+        "Very cheap: P/E 19.3 vs Automobile and Auto Components median 39.7",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
@@ -500,7 +483,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 43.9 vs median 53.2",
+        "Cheaper than peers: P/E 43.9 vs median 53.7",
         "Low debt (D/E 0.01)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -513,13 +496,12 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 18.3 vs Financial Services median 26.2",
+        "Very cheap: P/E 18.2 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
       "cautions": [
-        "Below its 200-day average (downtrend)",
-        "Overbought (RSI 71) — may be due a pullback"
+        "Below its 200-day average (downtrend)"
       ]
     },
     {
@@ -528,13 +510,26 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 9.8 vs Financial Services median 26.2",
+        "Very cheap: P/E 10.0 vs Financial Services median 25.5",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
       "cautions": [
         "Below its 200-day average (downtrend)"
       ]
+    },
+    {
+      "symbol": "ITCHOTELS",
+      "name": "ITC Hotels",
+      "score": 8.0,
+      "verdict": "Strong",
+      "reasons": [
+        "Cheaper than peers: P/E 46.4 vs median 53.8",
+        "Low debt (D/E 0.01)",
+        "Net profit rose every year for 2 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
     }
   ]
 }
