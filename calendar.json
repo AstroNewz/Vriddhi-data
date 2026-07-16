@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T19:30:14+05:30",
+  "lastUpdated": "2026-07-16T19:42:06+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -111,9 +111,9 @@
     {
       "symbol": "BHARTIHEXA",
       "name": "Bharti Hexacom",
-      "exDividend": "2025-07-25",
+      "exDividend": "2026-07-31",
       "earnings": "2025-05-13",
-      "dividendRate": 10.0
+      "dividendRate": 18.0
     },
     {
       "symbol": "SYRMA",
@@ -772,13 +772,6 @@
       "dividendRate": 46.8
     },
     {
-      "symbol": "KALYANKJIL",
-      "name": "Kalyan Jewellers India",
-      "exDividend": "2025-09-04",
-      "earnings": "2025-07-30",
-      "dividendRate": 1.5
-    },
-    {
       "symbol": "NEULANDLAB",
       "name": "Neuland Laboratories",
       "exDividend": "2026-07-23",
@@ -1334,6 +1327,12 @@
       "dividendRate": 120.0
     },
     {
+      "symbol": "KALYANKJIL",
+      "name": "Kalyan Jewellers India",
+      "exDividend": "2025-09-04",
+      "dividendRate": 1.5
+    },
+    {
       "symbol": "ACUTAAS",
       "name": "Acutaas Chemicals",
       "exDividend": "2025-09-18",
@@ -1387,13 +1386,6 @@
       "dividendRate": 2.0
     },
     {
-      "symbol": "COALINDIA",
-      "name": "Coal India",
-      "exDividend": "2026-02-18",
-      "earnings": "2026-04-27",
-      "dividendRate": 22.0
-    },
-    {
       "symbol": "PHOENIXLTD",
       "name": "Phoenix Mills",
       "exDividend": "2025-09-15",
@@ -1422,13 +1414,6 @@
       "dividendRate": 2.0
     },
     {
-      "symbol": "BANDHANBNK",
-      "name": "Bandhan Bank",
-      "exDividend": "2025-08-14",
-      "earnings": "2026-04-28",
-      "dividendRate": 1.5
-    },
-    {
       "symbol": "CASTROLIND",
       "name": "Castrol India",
       "exDividend": "2026-03-23",
@@ -1441,18 +1426,6 @@
       "exDividend": "2026-06-23",
       "earnings": "2026-04-28",
       "dividendRate": 10.0
-    },
-    {
-      "symbol": "ETERNAL",
-      "name": "Eternal",
-      "earnings": "2026-04-28"
-    },
-    {
-      "symbol": "MARUTI",
-      "name": "Maruti Suzuki India",
-      "exDividend": "2026-08-06",
-      "earnings": "2026-04-28",
-      "dividendRate": 140.0
     },
     {
       "symbol": "MSUMI",
@@ -1596,13 +1569,6 @@
       "dividendRate": 14.25
     },
     {
-      "symbol": "SRF",
-      "name": "SRF",
-      "exDividend": "2026-01-27",
-      "earnings": "2026-05-05",
-      "dividendRate": 10.0
-    },
-    {
       "symbol": "BSOFT",
       "name": "Birlasoft",
       "exDividend": "2026-07-10",
@@ -1636,11 +1602,6 @@
       "exDividend": "2026-02-04",
       "earnings": "2026-05-06",
       "dividendRate": 8.25
-    },
-    {
-      "symbol": "PAYTM",
-      "name": "One 97 Communications",
-      "earnings": "2026-05-06"
     },
     {
       "symbol": "POLICYBZR",
@@ -1678,7 +1639,7 @@
     {
       "symbol": "COROMANDEL",
       "name": "Coromandel International",
-      "exDividend": "2026-07-15",
+      "exDividend": "2026-07-16",
       "earnings": "2026-05-07",
       "dividendRate": 11.0
     },
@@ -2183,13 +2144,6 @@
       "dividendRate": 4.0
     },
     {
-      "symbol": "EMAMILTD",
-      "name": "Emami",
-      "exDividend": "2026-02-10",
-      "earnings": "2026-05-21",
-      "dividendRate": 12.0
-    },
-    {
       "symbol": "NYKAA",
       "name": "FSN E-Commerce Ventures",
       "earnings": "2026-05-21"
@@ -2242,13 +2196,6 @@
       "exDividend": "2026-03-12",
       "earnings": "2026-05-21",
       "dividendRate": 5.0
-    },
-    {
-      "symbol": "COLPAL",
-      "name": "Colgate Palmolive (India)",
-      "exDividend": "2026-06-01",
-      "earnings": "2026-05-22",
-      "dividendRate": 48.0
     },
     {
       "symbol": "EICHERMOT",
@@ -2422,9 +2369,9 @@
     {
       "symbol": "GLENMARK",
       "name": "Glenmark Pharmaceuticals",
-      "exDividend": "2025-10-03",
+      "exDividend": "2026-07-31",
       "earnings": "2026-05-29",
-      "dividendRate": 5.0
+      "dividendRate": 7.5
     },
     {
       "symbol": "INDIGO",
@@ -2571,12 +2518,6 @@
       "dividendRate": 75.0
     },
     {
-      "symbol": "CRAFTSMAN",
-      "name": "Craftsman Automation",
-      "exDividend": "2026-07-15",
-      "dividendRate": 11.25
-    },
-    {
       "symbol": "HDFCAMC",
       "name": "HDFC Asset Management Company",
       "exDividend": "2026-06-05",
@@ -2624,6 +2565,12 @@
       "exDividend": "2026-07-17",
       "earnings": "2026-07-16",
       "dividendRate": 1.4
+    },
+    {
+      "symbol": "CRAFTSMAN",
+      "name": "Craftsman Automation",
+      "exDividend": "2026-07-16",
+      "dividendRate": 11.25
     },
     {
       "symbol": "POLYCAB",
@@ -2756,6 +2703,11 @@
       "dividendRate": 2.6
     },
     {
+      "symbol": "PAYTM",
+      "name": "One 97 Communications",
+      "earnings": "2026-07-20"
+    },
+    {
       "symbol": "ULTRACEMCO",
       "name": "UltraTech Cement",
       "exDividend": "2025-07-25",
@@ -2780,6 +2732,13 @@
       "exDividend": "2026-05-29",
       "earnings": "2026-07-21",
       "dividendRate": 150.0
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank",
+      "exDividend": "2025-08-14",
+      "earnings": "2026-07-21",
+      "dividendRate": 1.5
     },
     {
       "symbol": "INDIAMART",
@@ -2841,6 +2800,11 @@
       "dividendRate": 8.0
     },
     {
+      "symbol": "ETERNAL",
+      "name": "Eternal",
+      "earnings": "2026-07-22"
+    },
+    {
       "symbol": "INDUSINDBK",
       "name": "IndusInd Bank",
       "exDividend": "2026-06-25",
@@ -2860,6 +2824,13 @@
       "exDividend": "2026-05-07",
       "earnings": "2026-07-22",
       "dividendRate": 665.0
+    },
+    {
+      "symbol": "SRF",
+      "name": "SRF",
+      "exDividend": "2026-01-27",
+      "earnings": "2026-07-22",
+      "dividendRate": 10.0
     },
     {
       "symbol": "SCHAEFFLER",
@@ -3014,6 +2985,13 @@
       "dividendRate": 4.35
     },
     {
+      "symbol": "COALINDIA",
+      "name": "Coal India",
+      "exDividend": "2026-02-18",
+      "earnings": "2026-07-27",
+      "dividendRate": 22.0
+    },
+    {
       "symbol": "COFORGE",
       "name": "Coforge",
       "exDividend": "2026-01-30",
@@ -3074,6 +3052,13 @@
       "exDividend": "2026-06-23",
       "earnings": "2026-07-29",
       "dividendRate": 27.5
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India)",
+      "exDividend": "2026-06-01",
+      "earnings": "2026-07-29",
+      "dividendRate": 48.0
     },
     {
       "symbol": "DABUR",
@@ -3144,6 +3129,13 @@
       "dividendRate": 160.0
     },
     {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India",
+      "exDividend": "2026-08-06",
+      "earnings": "2026-07-31",
+      "dividendRate": 140.0
+    },
+    {
       "symbol": "SHREECEM",
       "name": "Shree Cement",
       "exDividend": "2026-07-17",
@@ -3170,6 +3162,13 @@
       "exDividend": "2026-07-24",
       "earnings": "2026-08-04",
       "dividendRate": 24.0
+    },
+    {
+      "symbol": "EMAMILTD",
+      "name": "Emami",
+      "exDividend": "2026-02-10",
+      "earnings": "2026-08-04",
+      "dividendRate": 12.0
     },
     {
       "symbol": "MARICO",
