@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T20:23:52+05:30",
+  "lastUpdated": "2026-07-28T19:57:41+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -710,7 +710,7 @@
     },
     {
       "symbol": "ASTERDM",
-      "name": "Aster DM Healthcare",
+      "name": "Aster DM Quality Care",
       "exDividend": "2026-04-02",
       "earnings": "2025-07-29",
       "dividendRate": 4.0
@@ -1223,9 +1223,9 @@
     {
       "symbol": "HUDCO",
       "name": "Housing & Urban Development Corporation",
-      "exDividend": "2026-03-27",
+      "exDividend": "2026-07-31",
       "earnings": "2025-08-11",
-      "dividendRate": 5.6
+      "dividendRate": 5.0
     },
     {
       "symbol": "ITI",
@@ -1276,9 +1276,9 @@
     {
       "symbol": "GABRIEL",
       "name": "Gabriel India",
-      "exDividend": "2025-11-21",
+      "exDividend": "2026-08-12",
       "earnings": "2025-08-12",
-      "dividendRate": 4.85
+      "dividendRate": 5.0
     },
     {
       "symbol": "MAZDOCK",
@@ -1350,13 +1350,6 @@
       "name": "ACME Solar Holdings",
       "exDividend": "2026-02-06",
       "dividendRate": 0.2
-    },
-    {
-      "symbol": "MSUMI",
-      "name": "Motherson Sumi Wiring India",
-      "exDividend": "2026-07-14",
-      "earnings": "2026-04-28",
-      "dividendRate": 0.58
     },
     {
       "symbol": "JSL",
@@ -1445,13 +1438,6 @@
       "dividendRate": 525.0
     },
     {
-      "symbol": "UPL",
-      "name": "UPL",
-      "exDividend": "2026-07-17",
-      "earnings": "2026-05-11",
-      "dividendRate": 6.0
-    },
-    {
       "symbol": "KPRMILL",
       "name": "K.P.R. Mill",
       "exDividend": "2026-07-20",
@@ -1485,13 +1471,6 @@
       "exDividend": "2026-07-31",
       "earnings": "2026-05-13",
       "dividendRate": 15.8
-    },
-    {
-      "symbol": "REDINGTON",
-      "name": "Redington",
-      "exDividend": "2026-07-03",
-      "earnings": "2026-05-13",
-      "dividendRate": 6.0
     },
     {
       "symbol": "TIINDIA",
@@ -1583,7 +1562,7 @@
     {
       "symbol": "SOLARINDS",
       "name": "Solar Industries India",
-      "exDividend": "2026-07-27",
+      "exDividend": "2026-07-28",
       "earnings": "2026-05-15",
       "dividendRate": 11.0
     },
@@ -1618,13 +1597,6 @@
       "exDividend": "2026-02-18",
       "earnings": "2026-05-18",
       "dividendRate": 4.75
-    },
-    {
-      "symbol": "MANKIND",
-      "name": "Mankind Pharma",
-      "exDividend": "2025-08-08",
-      "earnings": "2026-05-19",
-      "dividendRate": 2.0
     },
     {
       "symbol": "PIIND",
@@ -2386,9 +2358,9 @@
     {
       "symbol": "CONCOR",
       "name": "Container Corporation of India",
-      "exDividend": "2026-02-09",
+      "exDividend": "2026-08-04",
       "earnings": "2026-07-24",
-      "dividendRate": 13.6
+      "dividendRate": 6.4
     },
     {
       "symbol": "DALBHARAT",
@@ -2448,9 +2420,9 @@
     {
       "symbol": "RECLTD",
       "name": "REC",
-      "exDividend": "2026-03-20",
+      "exDividend": "2026-07-31",
       "earnings": "2026-07-24",
-      "dividendRate": 23.2
+      "dividendRate": 6.2
     },
     {
       "symbol": "SBICARD",
@@ -2497,14 +2469,14 @@
     {
       "symbol": "AUBANK",
       "name": "AU Small Finance Bank",
-      "exDividend": "2025-07-04",
+      "exDividend": "2026-07-31",
       "earnings": "2026-07-25",
       "dividendRate": 1.0
     },
     {
       "symbol": "IDFCFIRSTB",
       "name": "IDFC First Bank",
-      "exDividend": "2025-07-11",
+      "exDividend": "2026-08-07",
       "earnings": "2026-07-25",
       "dividendRate": 0.25
     },
@@ -2735,6 +2707,13 @@
       "dividendRate": 1.8
     },
     {
+      "symbol": "REDINGTON",
+      "name": "Redington",
+      "exDividend": "2026-07-03",
+      "earnings": "2026-07-29",
+      "dividendRate": 6.0
+    },
+    {
       "symbol": "STARHEALTH",
       "name": "Star Health and Allied Insurance Company",
       "earnings": "2026-07-29"
@@ -2801,6 +2780,13 @@
       "exDividend": "2026-07-03",
       "earnings": "2026-07-30",
       "dividendRate": 33.0
+    },
+    {
+      "symbol": "MANKIND",
+      "name": "Mankind Pharma",
+      "exDividend": "2025-08-08",
+      "earnings": "2026-07-30",
+      "dividendRate": 2.0
     },
     {
       "symbol": "NATIONALUM",
@@ -2976,6 +2962,13 @@
       "dividendRate": 4.5
     },
     {
+      "symbol": "UPL",
+      "name": "UPL",
+      "exDividend": "2026-07-17",
+      "earnings": "2026-08-03",
+      "dividendRate": 6.0
+    },
+    {
       "symbol": "BHARTIARTL",
       "name": "Bharti Airtel",
       "exDividend": "2026-07-24",
@@ -3006,7 +2999,7 @@
     {
       "symbol": "GODREJPROP",
       "name": "Godrej Properties",
-      "exDividend": "2026-07-27",
+      "exDividend": "2026-07-28",
       "earnings": "2026-08-04",
       "dividendRate": 10.0
     },
@@ -3016,6 +3009,13 @@
       "exDividend": "2026-07-29",
       "earnings": "2026-08-04",
       "dividendRate": 4.0
+    },
+    {
+      "symbol": "MSUMI",
+      "name": "Motherson Sumi Wiring India",
+      "exDividend": "2026-07-14",
+      "earnings": "2026-08-04",
+      "dividendRate": 0.58
     },
     {
       "symbol": "MCX",
