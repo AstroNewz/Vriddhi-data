@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T18:52:16+05:30",
+  "lastUpdated": "2026-08-12T18:56:11+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -175,9 +175,9 @@
     {
       "symbol": "DOMS",
       "name": "DOMS Industries",
-      "exDividend": "2025-09-15",
+      "exDividend": "2026-08-27",
       "earnings": "2025-05-19",
-      "dividendRate": 3.15
+      "dividendRate": 3.65
     },
     {
       "symbol": "NTPCGREEN",
@@ -1226,9 +1226,9 @@
     {
       "symbol": "NBCC",
       "name": "NBCC (India)",
-      "exDividend": "2026-02-25",
+      "exDividend": "2026-08-17",
       "earnings": "2025-08-11",
-      "dividendRate": 0.68
+      "dividendRate": 1.08
     },
     {
       "symbol": "OLECTRA",
