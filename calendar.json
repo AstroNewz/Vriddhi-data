@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T18:52:47+05:30",
+  "lastUpdated": "2026-08-17T18:28:06+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -1156,9 +1156,9 @@
     {
       "symbol": "SCI",
       "name": "Shipping Corporation of India",
-      "exDividend": "2026-02-17",
+      "exDividend": "2026-09-04",
       "earnings": "2025-08-07",
-      "dividendRate": 13.09
+      "dividendRate": 7.5
     },
     {
       "symbol": "SOBHA",
@@ -2894,7 +2894,7 @@
     {
       "symbol": "GLAND",
       "name": "Gland Pharma",
-      "exDividend": "2026-08-10",
+      "exDividend": "2026-08-11",
       "earnings": "2026-08-10",
       "dividendRate": 20.0
     },
@@ -2935,9 +2935,9 @@
     {
       "symbol": "BATAINDIA",
       "name": "Bata India",
-      "exDividend": "2026-07-31",
+      "exDividend": "2026-08-19",
       "earnings": "2026-08-11",
-      "dividendRate": 9.0
+      "dividendRate": 34.0
     },
     {
       "symbol": "FINCABLES",
@@ -3120,12 +3120,6 @@
       "dividendRate": 1.2
     },
     {
-      "symbol": "MFSL",
-      "name": "Max Financial Services",
-      "exDividend": "2016-09-19",
-      "earnings": "2026-08-13"
-    },
-    {
       "symbol": "MAXHEALTH",
       "name": "Max Healthcare Institute",
       "exDividend": "2026-07-03",
@@ -3245,6 +3239,12 @@
       "exDividend": "2026-07-08",
       "earnings": "2026-10-22",
       "dividendRate": 17.0
+    },
+    {
+      "symbol": "MFSL",
+      "name": "Max Financial Services",
+      "exDividend": "2016-09-19",
+      "earnings": "2026-10-27"
     },
     {
       "symbol": "ADANIENT",
