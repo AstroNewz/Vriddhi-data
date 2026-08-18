@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T18:28:06+05:30",
+  "lastUpdated": "2026-08-18T18:29:34+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -398,7 +398,7 @@
     {
       "symbol": "POLYMED",
       "name": "Poly Medicure",
-      "exDividend": "2025-09-18",
+      "exDividend": "2026-08-28",
       "earnings": "2025-07-21",
       "dividendRate": 3.5
     },
@@ -776,9 +776,9 @@
     {
       "symbol": "KALYANKJIL",
       "name": "Kalyan Jewellers India",
-      "exDividend": "2025-09-04",
+      "exDividend": "2026-09-11",
       "earnings": "2025-07-30",
-      "dividendRate": 1.5
+      "dividendRate": 2.5
     },
     {
       "symbol": "NEULANDLAB",
@@ -1237,7 +1237,7 @@
     {
       "symbol": "NBCC",
       "name": "NBCC (India)",
-      "exDividend": "2026-08-17",
+      "exDividend": "2026-08-28",
       "earnings": "2025-08-11",
       "dividendRate": 1.08
     },
@@ -3081,7 +3081,7 @@
     {
       "symbol": "CESC",
       "name": "CESC",
-      "exDividend": "2025-10-27",
+      "exDividend": "2026-08-19",
       "earnings": "2026-08-13",
       "dividendRate": 6.0
     },
@@ -3190,7 +3190,7 @@
     {
       "symbol": "NATCOPHARM",
       "name": "NATCO Pharma",
-      "exDividend": "2026-02-18",
+      "exDividend": "2026-08-20",
       "earnings": "2026-08-14",
       "dividendRate": 6.5
     },
