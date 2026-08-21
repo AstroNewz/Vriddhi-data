@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T18:33:25+05:30",
+  "lastUpdated": "2026-08-21T18:32:01+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -440,7 +440,7 @@
     {
       "symbol": "POWERINDIA",
       "name": "Hitachi Energy India",
-      "exDividend": "2026-08-20",
+      "exDividend": "2026-08-21",
       "earnings": "2025-07-22",
       "dividendRate": 8.0
     },
@@ -600,7 +600,7 @@
     {
       "symbol": "ZENTEC",
       "name": "Zen Technologies",
-      "exDividend": "2026-08-20",
+      "exDividend": "2026-08-21",
       "earnings": "2025-07-26",
       "dividendRate": 1.0
     },
@@ -699,7 +699,7 @@
     {
       "symbol": "ACE",
       "name": "Action Construction Equipment",
-      "exDividend": "2025-08-14",
+      "exDividend": "2026-09-03",
       "earnings": "2025-07-29",
       "dividendRate": 2.0
     },
@@ -734,7 +734,7 @@
     {
       "symbol": "GVT&D",
       "name": "GE Vernova T&D India",
-      "exDividend": "2026-08-20",
+      "exDividend": "2026-08-21",
       "earnings": "2025-07-29",
       "dividendRate": 10.0
     },
@@ -1105,9 +1105,9 @@
     {
       "symbol": "ENGINERSIN",
       "name": "Engineers India",
-      "exDividend": "2026-03-06",
+      "exDividend": "2026-09-24",
       "earnings": "2025-08-07",
-      "dividendRate": 3.0
+      "dividendRate": 5.0
     },
     {
       "symbol": "GICRE",
@@ -2829,9 +2829,9 @@
     {
       "symbol": "OIL",
       "name": "Oil India",
-      "exDividend": "2026-02-18",
+      "exDividend": "2026-09-04",
       "earnings": "2026-08-07",
-      "dividendRate": 19.0
+      "dividendRate": 13.0
     },
     {
       "symbol": "PFC",
@@ -3204,9 +3204,9 @@
     {
       "symbol": "PATANJALI",
       "name": "Patanjali Foods",
-      "exDividend": "2026-04-24",
+      "exDividend": "2026-08-21",
       "earnings": "2026-08-14",
-      "dividendRate": 3.5
+      "dividendRate": 4.05
     },
     {
       "symbol": "TIINDIA",
