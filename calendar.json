@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T18:32:01+05:30",
+  "lastUpdated": "2026-08-24T18:34:42+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -692,7 +692,7 @@
     {
       "symbol": "VTL",
       "name": "Vardhman Textiles",
-      "exDividend": "2025-09-12",
+      "exDividend": "2026-08-28",
       "earnings": "2025-07-28",
       "dividendRate": 5.0
     },
@@ -1999,9 +1999,9 @@
     {
       "symbol": "SAIL",
       "name": "Steel Authority of India",
-      "exDividend": "2025-09-09",
+      "exDividend": "2026-09-30",
       "earnings": "2026-07-24",
-      "dividendRate": 1.6
+      "dividendRate": 2.35
     },
     {
       "symbol": "TATACONSUM",
