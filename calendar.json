@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T18:31:13+05:30",
+  "lastUpdated": "2026-08-26T18:36:14+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -612,9 +612,9 @@
     {
       "symbol": "APARINDS",
       "name": "Apar Industries",
-      "exDividend": "2025-07-29",
+      "exDividend": "2026-09-11",
       "earnings": "2025-07-28",
-      "dividendRate": 51.0
+      "dividendRate": 60.0
     },
     {
       "symbol": "BALRAMCHIN",
@@ -739,9 +739,9 @@
     {
       "symbol": "RITES",
       "name": "RITES",
-      "exDividend": "2026-08-10",
+      "exDividend": "2026-09-18",
       "earnings": "2025-07-29",
-      "dividendRate": 5.6
+      "dividendRate": 11.0
     },
     {
       "symbol": "TATAINVEST",
@@ -1325,12 +1325,6 @@
       "name": "Acutaas Chemicals",
       "exDividend": "2025-09-18",
       "dividendRate": 1.5
-    },
-    {
-      "symbol": "CHALET",
-      "name": "Chalet Hotels",
-      "exDividend": "2025-11-11",
-      "dividendRate": 2.0
     },
     {
       "symbol": "ENRIN",
@@ -3183,6 +3177,12 @@
       "name": "Swan Corp",
       "exDividend": "2026-08-27",
       "dividendRate": 0.15
+    },
+    {
+      "symbol": "CHALET",
+      "name": "Chalet Hotels",
+      "exDividend": "2026-09-11",
+      "dividendRate": 2.0
     },
     {
       "symbol": "TCS",
