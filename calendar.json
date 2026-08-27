@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T18:36:14+05:30",
+  "lastUpdated": "2026-08-28T03:40:37+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -638,9 +638,9 @@
     {
       "symbol": "FORCEMOT",
       "name": "Force Motors",
-      "exDividend": "2025-09-10",
+      "exDividend": "2026-09-09",
       "earnings": "2025-07-28",
-      "dividendRate": 40.0
+      "dividendRate": 50.0
     },
     {
       "symbol": "GRANULES",
@@ -732,7 +732,7 @@
     {
       "symbol": "JBMA",
       "name": "JBM Auto",
-      "exDividend": "2025-08-26",
+      "exDividend": "2026-09-09",
       "earnings": "2025-07-29",
       "dividendRate": 0.85
     },
@@ -898,9 +898,9 @@
     {
       "symbol": "BLS",
       "name": "BLS International Services",
-      "exDividend": "2026-02-13",
+      "exDividend": "2026-09-16",
       "earnings": "2025-08-04",
-      "dividendRate": 3.0
+      "dividendRate": 2.5
     },
     {
       "symbol": "EIHOTEL",
@@ -1048,9 +1048,9 @@
     {
       "symbol": "IRCON",
       "name": "IRCON International",
-      "exDividend": "2026-02-17",
+      "exDividend": "2026-09-17",
       "earnings": "2025-08-06",
-      "dividendRate": 2.2
+      "dividendRate": 1.9
     },
     {
       "symbol": "MINDACORP",
@@ -2661,13 +2661,6 @@
       "dividendRate": 11.0
     },
     {
-      "symbol": "BIOCON",
-      "name": "Biocon",
-      "exDividend": "2026-07-03",
-      "earnings": "2026-08-06",
-      "dividendRate": 0.5
-    },
-    {
       "symbol": "BLUESTARCO",
       "name": "Blue Star",
       "exDividend": "2026-07-17",
@@ -3179,6 +3172,12 @@
       "dividendRate": 0.15
     },
     {
+      "symbol": "TRAVELFOOD",
+      "name": "Travel Food Services",
+      "exDividend": "2026-09-09",
+      "dividendRate": 10.25
+    },
+    {
       "symbol": "CHALET",
       "name": "Chalet Hotels",
       "exDividend": "2026-09-11",
@@ -3256,6 +3255,13 @@
       "exDividend": "2026-07-24",
       "earnings": "2026-11-05",
       "dividendRate": 24.0
+    },
+    {
+      "symbol": "BIOCON",
+      "name": "Biocon",
+      "exDividend": "2026-07-03",
+      "earnings": "2026-11-11",
+      "dividendRate": 0.5
     }
   ]
 }
