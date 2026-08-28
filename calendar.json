@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T03:40:37+05:30",
+  "lastUpdated": "2026-08-29T03:40:25+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -3168,7 +3168,7 @@
     {
       "symbol": "SWANCORP",
       "name": "Swan Corp",
-      "exDividend": "2026-08-27",
+      "exDividend": "2026-08-28",
       "dividendRate": 0.15
     },
     {
