@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T21:58:39+05:30",
+  "lastUpdated": "2026-09-02T21:57:11+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -42,7 +42,7 @@
     {
       "symbol": "WAAREEENER",
       "name": "Waaree Energies",
-      "exDividend": "2025-10-24",
+      "exDividend": "2026-09-11",
       "earnings": "2025-04-22",
       "dividendRate": 4.0
     },
@@ -369,9 +369,9 @@
     {
       "symbol": "TARIL",
       "name": "Transformers And Rectifiers (India)",
-      "exDividend": "2025-05-09",
+      "exDividend": "2026-09-18",
       "earnings": "2025-07-18",
-      "dividendRate": 0.2
+      "dividendRate": 0.25
     },
     {
       "symbol": "DCMSHRIRAM",
@@ -932,7 +932,7 @@
     {
       "symbol": "TRITURBINE",
       "name": "Triveni Turbine",
-      "exDividend": "2026-09-01",
+      "exDividend": "2026-09-02",
       "earnings": "2025-08-04",
       "dividendRate": 4.0
     },
@@ -958,7 +958,7 @@
     {
       "symbol": "CCL",
       "name": "CCL Products (I)",
-      "exDividend": "2026-08-31",
+      "exDividend": "2026-09-01",
       "earnings": "2025-08-05",
       "dividendRate": 5.75
     },
@@ -1235,9 +1235,9 @@
     {
       "symbol": "OLECTRA",
       "name": "Olectra Greentech",
-      "exDividend": "2025-09-19",
+      "exDividend": "2026-09-18",
       "earnings": "2025-08-11",
-      "dividendRate": 0.4
+      "dividendRate": 0.6
     },
     {
       "symbol": "TECHNOE",
@@ -1908,7 +1908,7 @@
     {
       "symbol": "NTPC",
       "name": "NTPC",
-      "exDividend": "2026-09-01",
+      "exDividend": "2026-09-02",
       "earnings": "2026-07-24",
       "dividendRate": 12.35
     },
@@ -2334,14 +2334,14 @@
     {
       "symbol": "DIXON",
       "name": "Dixon Technologies (India)",
-      "exDividend": "2025-09-16",
+      "exDividend": "2026-09-21",
       "earnings": "2026-07-31",
-      "dividendRate": 8.0
+      "dividendRate": 10.0
     },
     {
       "symbol": "GAIL",
       "name": "GAIL (India)",
-      "exDividend": "2026-09-01",
+      "exDividend": "2026-09-02",
       "earnings": "2026-07-31",
       "dividendRate": 5.5
     },
