@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T21:57:11+05:30",
+  "lastUpdated": "2026-09-03T21:47:09+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -1242,9 +1242,9 @@
     {
       "symbol": "TECHNOE",
       "name": "Techno Electric & Engineering Company",
-      "exDividend": "2025-09-12",
+      "exDividend": "2026-09-11",
       "earnings": "2025-08-11",
-      "dividendRate": 9.0
+      "dividendRate": 7.0
     },
     {
       "symbol": "USHAMART",
@@ -1283,7 +1283,7 @@
     {
       "symbol": "RHIM",
       "name": "RHI MAGNESITA INDIA LTD",
-      "exDividend": "2025-09-12",
+      "exDividend": "2026-09-11",
       "earnings": "2025-08-12",
       "dividendRate": 2.5
     },
@@ -2089,7 +2089,7 @@
     {
       "symbol": "PHOENIXLTD",
       "name": "Phoenix Mills",
-      "exDividend": "2025-09-15",
+      "exDividend": "2026-09-11",
       "earnings": "2026-07-28",
       "dividendRate": 2.5
     },
