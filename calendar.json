@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T23:10:48+05:30",
+  "lastUpdated": "2026-09-08T22:00:09+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -378,7 +378,7 @@
       "name": "DCM Shriram",
       "exDividend": "2026-07-31",
       "earnings": "2025-07-21",
-      "dividendRate": 14.6
+      "dividendRate": 16.0
     },
     {
       "symbol": "IDBI",
@@ -431,9 +431,9 @@
     {
       "symbol": "HFCL",
       "name": "HFCL",
-      "exDividend": "2025-09-09",
+      "exDividend": "2026-09-22",
       "earnings": "2025-07-22",
-      "dividendRate": 0.1
+      "dividendRate": 0.2
     },
     {
       "symbol": "POWERINDIA",
@@ -993,9 +993,9 @@
     {
       "symbol": "NLCINDIA",
       "name": "NLC India",
-      "exDividend": "2026-01-20",
+      "exDividend": "2026-09-22",
       "earnings": "2025-08-05",
-      "dividendRate": 7.2
+      "dividendRate": 3.85
     },
     {
       "symbol": "WELCORP",
@@ -1023,7 +1023,7 @@
       "name": "Cochin Shipyard",
       "exDividend": "2026-09-18",
       "earnings": "2025-08-06",
-      "dividendRate": 13.25
+      "dividendRate": 11.25
     },
     {
       "symbol": "GRSE",
@@ -1853,9 +1853,9 @@
     {
       "symbol": "CONCOR",
       "name": "Container Corporation of India",
-      "exDividend": "2026-08-04",
+      "exDividend": "2026-09-21",
       "earnings": "2026-07-24",
-      "dividendRate": 6.4
+      "dividendRate": 8.6
     },
     {
       "symbol": "DALBHARAT",
@@ -2781,7 +2781,7 @@
       "symbol": "SHYAMMETL",
       "name": "Shyam Metalics and Energy",
       "exDividend": "2026-08-07",
-      "dividendRate": 5.4
+      "dividendRate": 4.5
     },
     {
       "symbol": "SBIN",
@@ -2990,9 +2990,9 @@
     {
       "symbol": "IRCTC",
       "name": "Indian Railway Catering And Tourism Corporation",
-      "exDividend": "2026-02-20",
+      "exDividend": "2026-09-22",
       "earnings": "2026-08-12",
-      "dividendRate": 9.5
+      "dividendRate": 9.0
     },
     {
       "symbol": "PETRONET",
@@ -3129,7 +3129,7 @@
       "name": "NATCO Pharma",
       "exDividend": "2026-08-20",
       "earnings": "2026-08-14",
-      "dividendRate": 6.5
+      "dividendRate": 6.0
     },
     {
       "symbol": "NMDC",
