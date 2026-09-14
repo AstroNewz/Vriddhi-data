@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T21:50:27+05:30",
+  "lastUpdated": "2026-09-14T23:31:05+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -321,7 +321,7 @@
     {
       "symbol": "BLUEDART",
       "name": "Blue Dart Express",
-      "exDividend": "2026-09-11",
+      "exDividend": "2026-09-15",
       "earnings": "2025-07-17",
       "dividendRate": 25.0
     },

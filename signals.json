@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T21:50:27+05:30",
+  "lastUpdated": "2026-09-14T23:31:05+05:30",
   "reportType": "daily",
   "signals": [
     {
@@ -34,7 +34,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 31.6 vs Healthcare median 46.2",
+        "Very cheap: P/E 31.5 vs Healthcare median 46.3",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -73,7 +73,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 27.2 vs Capital Goods median 51.0",
+        "Very cheap: P/E 27.4 vs Capital Goods median 51.0",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -86,7 +86,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 35.1 vs Capital Goods median 51.0",
+        "Very cheap: P/E 35.2 vs Capital Goods median 51.0",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -177,7 +177,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 2.8 vs Automobile and Auto Components median 37.7",
+        "Very cheap: P/E 2.8 vs Automobile and Auto Components median 37.6",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -190,7 +190,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 26.2 vs Healthcare median 46.2",
+        "Very cheap: P/E 26.2 vs Healthcare median 46.3",
         "Low debt (D/E 0.21)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -203,7 +203,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 18.8 vs Capital Goods median 51.0",
+        "Very cheap: P/E 18.7 vs Capital Goods median 51.0",
         "Low debt (D/E 0.10)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -229,7 +229,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 23.7 vs Fast Moving Consumer Goods median 42.2",
+        "Very cheap: P/E 23.8 vs Fast Moving Consumer Goods median 42.2",
         "Low debt (D/E 0.28)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -242,7 +242,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 39.9 vs Consumer Services median 52.1",
+        "Very cheap: P/E 39.4 vs Consumer Services median 52.1",
         "Low debt (D/E 0.28)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -255,7 +255,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 27.1 vs Realty median 34.4",
+        "Very cheap: P/E 27.1 vs Realty median 34.3",
         "Low debt (D/E 0.42)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -268,8 +268,21 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 24.0 vs Realty median 34.4",
+        "Very cheap: P/E 24.1 vs Realty median 34.3",
         "Low debt (D/E 0.16)",
+        "Net profit rose every year for 4 years",
+        "Trading above its 200-day average (uptrend)"
+      ],
+      "cautions": []
+    },
+    {
+      "symbol": "SAGILITY",
+      "name": "Sagility",
+      "score": 9.0,
+      "verdict": "Strong",
+      "reasons": [
+        "Very cheap: P/E 21.3 vs Information Technology median 26.7",
+        "Low debt (D/E 0.11)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
       ],
@@ -281,7 +294,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 36.5 vs Healthcare median 46.2",
+        "Very cheap: P/E 36.5 vs Healthcare median 46.3",
         "Low debt (D/E 0.06)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -320,7 +333,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 25.0 vs Healthcare median 46.2",
+        "Very cheap: P/E 24.9 vs Healthcare median 46.3",
         "Low debt (D/E 0.42)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -333,7 +346,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 48.6 vs median 51.0",
+        "Cheaper than peers: P/E 48.5 vs median 51.0",
         "Low debt (D/E 0.09)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -346,7 +359,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 38.9 vs median 46.2",
+        "Cheaper than peers: P/E 39.2 vs median 46.3",
         "Low debt (D/E 0.06)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -413,7 +426,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 43.6 vs median 49.7",
+        "Cheaper than peers: P/E 43.7 vs median 49.7",
         "Low debt (D/E 0.18)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -426,7 +439,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 35.8 vs median 37.7",
+        "Cheaper than peers: P/E 35.8 vs median 37.6",
         "Low debt (D/E 0.02)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -439,7 +452,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 18.6 vs Automobile and Auto Components median 37.7",
+        "Very cheap: P/E 18.6 vs Automobile and Auto Components median 37.6",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
@@ -453,7 +466,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 27.2 vs Capital Goods median 51.0",
+        "Very cheap: P/E 27.4 vs Capital Goods median 51.0",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
@@ -515,19 +528,6 @@
       "cautions": [
         "Below its 200-day average (downtrend)"
       ]
-    },
-    {
-      "symbol": "NAUKRI",
-      "name": "Info Edge (India)",
-      "score": 8.0,
-      "verdict": "Strong",
-      "reasons": [
-        "Cheaper than peers: P/E 50.7 vs median 52.1",
-        "Low debt (D/E 0.01)",
-        "Net profit rose every year for 4 years",
-        "Trading above its 200-day average (uptrend)"
-      ],
-      "cautions": []
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-11T21:50:27+05:30",
+  "lastUpdated": "2026-09-14T23:31:05+05:30",
   "sectors": [
     {
       "name": "Automobile and Auto Components",
-      "medianPe": 37.7,
+      "medianPe": 37.6,
       "members": [
         "MARUTI",
         "M&M",
@@ -26,9 +26,9 @@
         "CRAFTSMAN",
         "ZFCVINDIA",
         "APOLLOTYRE",
+        "GABRIEL",
         "ASAHIINDIA",
         "MSUMI",
-        "GABRIEL",
         "FORCEMOT",
         "BELRISE",
         "TENNIND",
@@ -91,8 +91,8 @@
         "JYOTICNC",
         "FINCABLES",
         "CARBORUNIV",
-        "HBLENGINE",
         "JINDALSAW",
+        "HBLENGINE",
         "ELGIEQUIP",
         "TRITURBINE",
         "BEML",
@@ -101,8 +101,8 @@
         "ZENTEC",
         "USHAMART",
         "ACE",
-        "INOXWIND",
         "GALLANTT",
+        "INOXWIND",
         "TEGA",
         "JWL",
         "TITAGARH",
@@ -132,8 +132,8 @@
         "SUMICHEM",
         "DEEPAKNTR",
         "ATUL",
-        "AARTIIND",
         "BAYERCROP",
+        "AARTIIND",
         "CHAMBLFERT",
         "DEEPAKFERT",
         "PARADEEP",
@@ -167,7 +167,7 @@
     },
     {
       "name": "Construction Materials",
-      "medianPe": 35.0,
+      "medianPe": 35.1,
       "members": [
         "ULTRACEMCO",
         "GRASIM",
@@ -223,9 +223,9 @@
         "IRCTC",
         "ITCHOTELS",
         "URBANCO",
-        "THELEELA",
-        "TBOTEK",
         "EIHOTEL",
+        "TBOTEK",
+        "THELEELA",
         "DEVYANI",
         "TRAVELFOOD",
         "CARTRADE",
@@ -303,8 +303,8 @@
         "BSE",
         "UNIONBANK",
         "PNB",
-        "GROWW",
         "BAJAJHLDNG",
+        "GROWW",
         "BANKBARODA",
         "PFC",
         "PAYTM",
@@ -329,8 +329,8 @@
         "ICICIPRULI",
         "MAHABANK",
         "RBLBANK",
-        "BANKINDIA",
         "IOB",
+        "BANKINDIA",
         "SBICARD",
         "MOTILALOFS",
         "GICRE",
@@ -349,8 +349,8 @@
         "TATAINVEST",
         "NIACL",
         "KARURVYSYA",
-        "ABSLAMC",
         "NUVAMA",
+        "ABSLAMC",
         "IREDA",
         "LICHSGFIN",
         "MANAPPURAM",
@@ -359,26 +359,26 @@
         "CHOLAHLDNG",
         "BANDHANBNK",
         "CDSL",
-        "ANGELONE",
         "CENTRALBK",
+        "ANGELONE",
         "CGCL",
         "IIFL",
         "GODIGIT",
         "PINELABS",
-        "CREDITACC",
         "CUB",
+        "CREDITACC",
         "IFCI",
         "AADHARHFC",
         "CAMS",
-        "CHOICEIN",
         "SAMMAANCAP",
+        "CHOICEIN",
         "FIVESTAR",
         "J&KBANK",
         "KFINTECH",
         "NIVABUPA",
         "CANHLIFE",
-        "APTUS",
         "HOMEFIRST",
+        "APTUS",
         "JMFINANCIL",
         "UTIAMC",
         "SBFC",
@@ -391,7 +391,7 @@
     },
     {
       "name": "Healthcare",
-      "medianPe": 46.2,
+      "medianPe": 46.3,
       "members": [
         "SUNPHARMA",
         "DIVISLAB",
@@ -445,7 +445,7 @@
     },
     {
       "name": "Information Technology",
-      "medianPe": 26.6,
+      "medianPe": 26.7,
       "members": [
         "INFY",
         "HCLTECH",
@@ -478,7 +478,7 @@
     },
     {
       "name": "Media Entertainment & Publication",
-      "medianPe": 43.5,
+      "medianPe": 43.3,
       "members": [
         "PFOCUS",
         "SUNTV",
@@ -489,7 +489,7 @@
     },
     {
       "name": "Metals & Mining",
-      "medianPe": 19.1,
+      "medianPe": 19.2,
       "members": [
         "ADANIENT",
         "JSWSTEEL",
@@ -513,7 +513,7 @@
     },
     {
       "name": "Oil Gas & Consumable Fuels",
-      "medianPe": 11.6,
+      "medianPe": 11.5,
       "members": [
         "ONGC",
         "COALINDIA",
@@ -536,7 +536,7 @@
     },
     {
       "name": "Power",
-      "medianPe": 28.2,
+      "medianPe": 28.3,
       "members": [
         "ADANIPOWER",
         "NTPC",
@@ -559,7 +559,7 @@
     },
     {
       "name": "Realty",
-      "medianPe": 34.4,
+      "medianPe": 34.3,
       "members": [
         "DLF",
         "LODHA",
@@ -576,7 +576,7 @@
     },
     {
       "name": "Services",
-      "medianPe": 26.5,
+      "medianPe": 26.6,
       "members": [
         "ADANIPORTS",
         "INDIGO",
@@ -612,7 +612,7 @@
     },
     {
       "name": "Textiles",
-      "medianPe": 41.5,
+      "medianPe": 41.6,
       "members": [
         "PAGEIND",
         "KPRMILL",
