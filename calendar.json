@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T22:17:50+05:30",
+  "lastUpdated": "2026-09-16T22:10:38+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -1204,9 +1204,9 @@
     {
       "symbol": "GALLANTT",
       "name": "Gallantt Ispat",
-      "exDividend": "2025-09-12",
+      "exDividend": "2026-09-23",
       "earnings": "2025-08-11",
-      "dividendRate": 1.25
+      "dividendRate": 2.0
     },
     {
       "symbol": "HEG",
@@ -1390,6 +1390,12 @@
       "dividendRate": 2.0
     },
     {
+      "symbol": "JSWDULUX",
+      "name": "JSW Dulux",
+      "exDividend": "2026-07-03",
+      "dividendRate": 50.0
+    },
+    {
       "symbol": "TCS",
       "name": "Tata Consultancy Services",
       "exDividend": "2026-07-15",
@@ -1568,7 +1574,7 @@
     {
       "symbol": "RBLBANK",
       "name": "RBL Bank",
-      "exDividend": "2025-09-09",
+      "exDividend": "2026-08-14",
       "earnings": "2026-07-17",
       "dividendRate": 1.0
     },
@@ -1644,13 +1650,6 @@
       "symbol": "PAYTM",
       "name": "One 97 Communications",
       "earnings": "2026-07-20"
-    },
-    {
-      "symbol": "ULTRACEMCO",
-      "name": "UltraTech Cement",
-      "exDividend": "2026-07-30",
-      "earnings": "2026-07-20",
-      "dividendRate": 240.0
     },
     {
       "symbol": "ADANIENSOL",
@@ -2140,9 +2139,9 @@
     {
       "symbol": "RADICO",
       "name": "Radico Khaitan",
-      "exDividend": "2025-07-24",
+      "exDividend": "2026-07-24",
       "earnings": "2026-07-28",
-      "dividendRate": 4.0
+      "dividendRate": 9.0
     },
     {
       "symbol": "SUPREMEIND",
@@ -2181,7 +2180,7 @@
     {
       "symbol": "BALKRISIND",
       "name": "Balkrishna Industries",
-      "exDividend": "2026-02-02",
+      "exDividend": "2026-08-04",
       "earnings": "2026-07-29",
       "dividendRate": 16.0
     },
@@ -2371,9 +2370,9 @@
     {
       "symbol": "BAJAJHLDNG",
       "name": "Bajaj Holdings & Investment",
-      "exDividend": "2026-06-30",
+      "exDividend": "2026-09-21",
       "earnings": "2026-07-31",
-      "dividendRate": 160.0
+      "dividendRate": 130.0
     },
     {
       "symbol": "DIXON",
@@ -3192,9 +3191,9 @@
     {
       "symbol": "TIINDIA",
       "name": "Tube Investments of India",
-      "exDividend": "2026-02-10",
+      "exDividend": "2026-08-07",
       "earnings": "2026-08-14",
-      "dividendRate": 4.0
+      "dividendRate": 3.5
     },
     {
       "symbol": "VOLTAS",
@@ -3230,7 +3229,15 @@
     {
       "symbol": "EMMVEE",
       "name": "Emmvee Photovoltaic Power",
-      "exDividend": "2026-09-18"
+      "exDividend": "2026-09-18",
+      "dividendRate": 1.0
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "name": "UltraTech Cement",
+      "exDividend": "2026-07-30",
+      "earnings": "2026-10-19",
+      "dividendRate": 240.0
     },
     {
       "symbol": "AAVAS",
