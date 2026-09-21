@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T21:46:27+05:30",
+  "lastUpdated": "2026-09-21T23:39:28+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -1692,11 +1692,6 @@
       "dividendRate": 12.0
     },
     {
-      "symbol": "ADANIGREEN",
-      "name": "Adani Green Energy",
-      "earnings": "2026-07-22"
-    },
-    {
       "symbol": "ADANIPOWER",
       "name": "Adani Power",
       "earnings": "2026-07-22"
@@ -2415,13 +2410,6 @@
       "exDividend": "2026-08-24",
       "earnings": "2026-07-31",
       "dividendRate": 4.0
-    },
-    {
-      "symbol": "SHREECEM",
-      "name": "Shree Cement",
-      "exDividend": "2026-07-17",
-      "earnings": "2026-07-31",
-      "dividendRate": 140.0
     },
     {
       "symbol": "SUNPHARMA",
@@ -3245,11 +3233,23 @@
       "earnings": "2026-10-21"
     },
     {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy",
+      "earnings": "2026-10-21"
+    },
+    {
       "symbol": "UNITDSPR",
       "name": "United Spirits",
       "exDividend": "2026-07-08",
       "earnings": "2026-10-22",
       "dividendRate": 17.0
+    },
+    {
+      "symbol": "SHREECEM",
+      "name": "Shree Cement",
+      "exDividend": "2026-07-17",
+      "earnings": "2026-10-23",
+      "dividendRate": 140.0
     },
     {
       "symbol": "MFSL",
