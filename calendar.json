@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T22:16:02+05:30",
+  "lastUpdated": "2026-09-23T22:12:30+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -1633,16 +1633,15 @@
       "dividendRate": 20.0
     },
     {
-      "symbol": "DRREDDY",
-      "name": "Dr. Reddy's Laboratories",
-      "exDividend": "2026-07-10",
-      "earnings": "2026-07-22",
-      "dividendRate": 8.0
-    },
-    {
       "symbol": "ETERNAL",
       "name": "Eternal",
       "earnings": "2026-07-22"
+    },
+    {
+      "symbol": "HEGAM",
+      "name": "HEG Advanced Materials",
+      "exDividend": "2026-07-22",
+      "dividendRate": 3.4
     },
     {
       "symbol": "HINDPETRO",
@@ -1754,13 +1753,6 @@
       "exDividend": "2025-08-13",
       "earnings": "2026-07-23",
       "dividendRate": 10.0
-    },
-    {
-      "symbol": "MPHASIS",
-      "name": "MphasiS",
-      "exDividend": "2026-07-08",
-      "earnings": "2026-07-23",
-      "dividendRate": 62.0
     },
     {
       "symbol": "PVRINOX",
@@ -3228,6 +3220,13 @@
       "dividendRate": 17.0
     },
     {
+      "symbol": "DRREDDY",
+      "name": "Dr. Reddy's Laboratories",
+      "exDividend": "2026-07-10",
+      "earnings": "2026-10-23",
+      "dividendRate": 8.0
+    },
+    {
       "symbol": "SHREECEM",
       "name": "Shree Cement",
       "exDividend": "2026-07-17",
@@ -3260,6 +3259,13 @@
       "exDividend": "2026-07-24",
       "earnings": "2026-11-05",
       "dividendRate": 24.0
+    },
+    {
+      "symbol": "MPHASIS",
+      "name": "MphasiS",
+      "exDividend": "2026-07-08",
+      "earnings": "2026-11-05",
+      "dividendRate": 62.0
     },
     {
       "symbol": "BIOCON",
