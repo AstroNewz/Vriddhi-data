@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T22:29:49+05:30",
+  "lastUpdated": "2026-09-25T22:31:55+05:30",
   "events": [
     {
       "symbol": "TEGA",
@@ -2149,11 +2149,6 @@
       "dividendRate": 6.0
     },
     {
-      "symbol": "STARHEALTH",
-      "name": "Star Health and Allied Insurance Company",
-      "earnings": "2026-07-29"
-    },
-    {
       "symbol": "SYNGENE",
       "name": "Syngene International",
       "exDividend": "2026-06-25",
@@ -2575,9 +2570,9 @@
     {
       "symbol": "POWERGRID",
       "name": "Power Grid Corporation of India",
-      "exDividend": "2026-02-09",
+      "exDividend": "2026-08-13",
       "earnings": "2026-08-05",
-      "dividendRate": 12.25
+      "dividendRate": 10.25
     },
     {
       "symbol": "WHIRLPOOL",
@@ -3240,6 +3235,11 @@
       "symbol": "MFSL",
       "name": "Max Financial Services",
       "exDividend": "2016-09-19",
+      "earnings": "2026-10-27"
+    },
+    {
+      "symbol": "STARHEALTH",
+      "name": "Star Health and Allied Insurance Company",
       "earnings": "2026-10-27"
     },
     {

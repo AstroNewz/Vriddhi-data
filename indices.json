@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-09-24T22:29:49+05:30",
+  "lastUpdated": "2026-09-25T22:31:55+05:30",
   "indices": [
     {
       "code": "SENSEX",
       "name": "BSE Sensex",
-      "value": 73580.54,
-      "change": -948.56,
-      "changePct": -1.27
+      "value": 73895.74,
+      "change": -932.46,
+      "changePct": -1.25
     },
     {
       "code": "NIFTY",
       "name": "Nifty 50",
-      "value": 23063.1,
-      "change": -265.9,
-      "changePct": -1.14
+      "value": 23140.5,
+      "change": -306.3,
+      "changePct": -1.31
     }
   ]
 }
