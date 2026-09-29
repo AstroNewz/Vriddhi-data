@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T01:03:49+05:30",
+  "lastUpdated": "2026-09-29T23:30:19+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -1426,13 +1426,6 @@
       "dividendRate": 2.1
     },
     {
-      "symbol": "ICICIGI",
-      "name": "ICICI Lombard General Insurance Company",
-      "exDividend": "2026-05-29",
-      "earnings": "2026-07-15",
-      "dividendRate": 14.0
-    },
-    {
       "symbol": "UNIONBANK",
       "name": "Union Bank of India",
       "exDividend": "2026-07-03",
@@ -1594,13 +1587,6 @@
       "dividendRate": 3.25
     },
     {
-      "symbol": "M&MFIN",
-      "name": "Mahindra & Mahindra Financial Services",
-      "exDividend": "2026-07-13",
-      "earnings": "2026-07-21",
-      "dividendRate": 7.5
-    },
-    {
       "symbol": "ABSLAMC",
       "name": "Aditya Birla Sun Life AMC",
       "exDividend": "2026-07-22",
@@ -1685,13 +1671,6 @@
       "name": "Afcons Infrastructure",
       "exDividend": "2026-07-23",
       "dividendRate": 2.0
-    },
-    {
-      "symbol": "CIPLA",
-      "name": "Cipla",
-      "exDividend": "2026-06-05",
-      "earnings": "2026-07-23",
-      "dividendRate": 13.0
     },
     {
       "symbol": "COROMANDEL",
@@ -1879,13 +1858,6 @@
       "exDividend": "2026-07-31",
       "earnings": "2026-07-25",
       "dividendRate": 1.0
-    },
-    {
-      "symbol": "IDFCFIRSTB",
-      "name": "IDFC First Bank",
-      "exDividend": "2026-08-07",
-      "earnings": "2026-07-25",
-      "dividendRate": 0.25
     },
     {
       "symbol": "BEL",
@@ -3082,6 +3054,13 @@
       "dividendRate": 1.65
     },
     {
+      "symbol": "ICICIGI",
+      "name": "ICICI Lombard General Insurance Company",
+      "exDividend": "2026-05-29",
+      "earnings": "2026-10-14",
+      "dividendRate": 14.0
+    },
+    {
       "symbol": "HDFCAMC",
       "name": "HDFC Asset Management Company",
       "exDividend": "2026-06-05",
@@ -3161,6 +3140,13 @@
       "earnings": "2026-10-21"
     },
     {
+      "symbol": "M&MFIN",
+      "name": "Mahindra & Mahindra Financial Services",
+      "exDividend": "2026-07-13",
+      "earnings": "2026-10-21",
+      "dividendRate": 7.5
+    },
+    {
       "symbol": "TVSMOTOR",
       "name": "TVS Motor Company",
       "exDividend": "2026-03-30",
@@ -3206,6 +3192,20 @@
       "exDividend": "2026-07-17",
       "earnings": "2026-10-23",
       "dividendRate": 140.0
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank",
+      "exDividend": "2026-08-07",
+      "earnings": "2026-10-24",
+      "dividendRate": 0.25
+    },
+    {
+      "symbol": "CIPLA",
+      "name": "Cipla",
+      "exDividend": "2026-06-05",
+      "earnings": "2026-10-27",
+      "dividendRate": 13.0
     },
     {
       "symbol": "MFSL",
