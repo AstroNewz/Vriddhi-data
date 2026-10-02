@@ -1,11 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T23:51:27+05:30",
+  "lastUpdated": "2026-10-02T23:16:49+05:30",
   "events": [
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19"
-    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -380,6 +375,13 @@
       "exDividend": "2026-07-17",
       "earnings": "2025-07-21",
       "dividendRate": 15.0
+    },
+    {
+      "symbol": "ABSLAMC",
+      "name": "Aditya Birla Sun Life AMC",
+      "exDividend": "2026-07-22",
+      "earnings": "2025-07-22",
+      "dividendRate": 25.5
     },
     {
       "symbol": "HFCL",
@@ -1272,6 +1274,12 @@
       "dividendRate": 2.5
     },
     {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19",
+      "earnings": "2025-08-12"
+    },
+    {
       "symbol": "NSLNISP",
       "name": "NMDC Steel",
       "earnings": "2025-08-13"
@@ -1378,18 +1386,6 @@
       "dividendRate": 0.5
     },
     {
-      "symbol": "LTF",
-      "name": "L&T Finance",
-      "exDividend": "2026-05-22",
-      "earnings": "2026-07-10",
-      "dividendRate": 2.75
-    },
-    {
-      "symbol": "DMART",
-      "name": "Avenue Supermarts",
-      "earnings": "2026-07-11"
-    },
-    {
       "symbol": "LTM",
       "name": "LTM",
       "exDividend": "2026-05-25",
@@ -1466,6 +1462,13 @@
       "dividendRate": 1.0
     },
     {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "exDividend": "2026-06-05",
+      "earnings": "2026-07-17",
+      "dividendRate": 6.0
+    },
+    {
       "symbol": "JKCEMENT",
       "name": "J.K. Cement",
       "exDividend": "2026-07-10",
@@ -1485,6 +1488,12 @@
       "exDividend": "2026-06-12",
       "earnings": "2026-07-18",
       "dividendRate": 3.0
+    },
+    {
+      "symbol": "YESBANK",
+      "name": "Yes Bank",
+      "exDividend": "2019-06-03",
+      "earnings": "2026-07-18"
     },
     {
       "symbol": "CPPLUS",
@@ -1545,10 +1554,11 @@
       "dividendRate": 3.25
     },
     {
-      "symbol": "ABSLAMC",
-      "name": "Aditya Birla Sun Life AMC",
-      "exDividend": "2026-07-22",
-      "dividendRate": 25.5
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company",
+      "exDividend": "2026-03-30",
+      "earnings": "2026-07-21",
+      "dividendRate": 12.0
     },
     {
       "symbol": "BPCL",
@@ -2893,7 +2903,7 @@
     {
       "symbol": "NMDC",
       "name": "NMDC",
-      "exDividend": "2026-10-01",
+      "exDividend": "2026-10-05",
       "earnings": "2026-08-14",
       "dividendRate": 2.0
     },
@@ -2956,6 +2966,11 @@
       "earnings": "2026-10-09"
     },
     {
+      "symbol": "DMART",
+      "name": "Avenue Supermarts",
+      "earnings": "2026-10-10"
+    },
+    {
       "symbol": "HCLTECH",
       "name": "HCL Technologies",
       "exDividend": "2026-07-17",
@@ -2991,6 +3006,13 @@
       "dividendRate": 2.1
     },
     {
+      "symbol": "LTF",
+      "name": "L&T Finance",
+      "exDividend": "2026-05-22",
+      "earnings": "2026-10-15",
+      "dividendRate": 2.75
+    },
+    {
       "symbol": "NESTLEIND",
       "name": "Nestle India",
       "exDividend": "2026-07-10",
@@ -3012,13 +3034,6 @@
       "dividendRate": 8.0
     },
     {
-      "symbol": "RELIANCE",
-      "name": "Reliance Industries",
-      "exDividend": "2026-06-05",
-      "earnings": "2026-10-16",
-      "dividendRate": 6.0
-    },
-    {
       "symbol": "AXISBANK",
       "name": "Axis Bank",
       "exDividend": "2026-07-10",
@@ -3038,12 +3053,6 @@
       "exDividend": "2026-08-03",
       "earnings": "2026-10-17",
       "dividendRate": 12.0
-    },
-    {
-      "symbol": "YESBANK",
-      "name": "Yes Bank",
-      "exDividend": "2019-06-03",
-      "earnings": "2026-10-17"
     },
     {
       "symbol": "LTTS",
@@ -3075,13 +3084,6 @@
       "exDividend": "2026-07-13",
       "earnings": "2026-10-21",
       "dividendRate": 7.5
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "name": "TVS Motor Company",
-      "exDividend": "2026-03-30",
-      "earnings": "2026-10-21",
-      "dividendRate": 12.0
     },
     {
       "symbol": "UNITDSPR",
