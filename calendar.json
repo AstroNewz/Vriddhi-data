@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T00:18:15+05:30",
+  "lastUpdated": "2026-10-09T00:16:17+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -1378,13 +1378,6 @@
       "dividendRate": 0.5
     },
     {
-      "symbol": "LTM",
-      "name": "LTM",
-      "exDividend": "2026-05-25",
-      "earnings": "2026-07-11",
-      "dividendRate": 75.0
-    },
-    {
       "symbol": "UNIONBANK",
       "name": "Union Bank of India",
       "exDividend": "2026-07-03",
@@ -1557,13 +1550,6 @@
       "exDividend": "2026-04-23",
       "earnings": "2026-07-22",
       "dividendRate": 35.0
-    },
-    {
-      "symbol": "TATACOMM",
-      "name": "Tata Communications",
-      "exDividend": "2026-06-19",
-      "earnings": "2026-07-22",
-      "dividendRate": 17.5
     },
     {
       "symbol": "AFCONS",
@@ -2152,13 +2138,6 @@
       "dividendRate": 30.0
     },
     {
-      "symbol": "PERSISTENT",
-      "name": "Persistent Systems",
-      "exDividend": "2026-07-27",
-      "earnings": "2026-08-02",
-      "dividendRate": 36.0
-    },
-    {
       "symbol": "CAMS",
       "name": "Computer Age Management Services",
       "exDividend": "2026-08-12",
@@ -2323,13 +2302,6 @@
       "dividendRate": 4.0
     },
     {
-      "symbol": "NAVINFLUOR",
-      "name": "Navin Fluorine International",
-      "exDividend": "2026-06-12",
-      "earnings": "2026-08-05",
-      "dividendRate": 15.1
-    },
-    {
       "symbol": "POLICYBZR",
       "name": "PB Fintech",
       "earnings": "2026-08-05"
@@ -2436,13 +2408,6 @@
       "exDividend": "2026-07-31",
       "earnings": "2026-08-07",
       "dividendRate": 4.0
-    },
-    {
-      "symbol": "GODREJCP",
-      "name": "Godrej Consumer Products",
-      "exDividend": "2026-08-13",
-      "earnings": "2026-08-07",
-      "dividendRate": 20.0
     },
     {
       "symbol": "LEMONTREE",
@@ -2965,6 +2930,20 @@
       "dividendRate": 12.0
     },
     {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems",
+      "exDividend": "2026-07-27",
+      "earnings": "2026-10-15",
+      "dividendRate": 36.0
+    },
+    {
+      "symbol": "TATACOMM",
+      "name": "Tata Communications",
+      "exDividend": "2026-06-19",
+      "earnings": "2026-10-15",
+      "dividendRate": 17.5
+    },
+    {
       "symbol": "TECHM",
       "name": "Tech Mahindra",
       "exDividend": "2026-07-03",
@@ -2984,6 +2963,13 @@
       "exDividend": "2026-08-14",
       "earnings": "2026-10-16",
       "dividendRate": 1.2
+    },
+    {
+      "symbol": "LTM",
+      "name": "LTM",
+      "exDividend": "2026-05-25",
+      "earnings": "2026-10-16",
+      "dividendRate": 75.0
     },
     {
       "symbol": "RELIANCE",
@@ -3175,6 +3161,20 @@
       "exDividend": "2026-07-17",
       "earnings": "2026-10-29",
       "dividendRate": 8.5
+    },
+    {
+      "symbol": "GODREJCP",
+      "name": "Godrej Consumer Products",
+      "exDividend": "2026-08-13",
+      "earnings": "2026-10-29",
+      "dividendRate": 20.0
+    },
+    {
+      "symbol": "NAVINFLUOR",
+      "name": "Navin Fluorine International",
+      "exDividend": "2026-06-12",
+      "earnings": "2026-10-30",
+      "dividendRate": 15.1
     },
     {
       "symbol": "CUMMINSIND",
