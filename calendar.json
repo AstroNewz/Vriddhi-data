@@ -1,11 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T00:16:17+05:30",
+  "lastUpdated": "2026-10-09T23:46:40+05:30",
   "events": [
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19"
-    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -380,6 +375,13 @@
       "exDividend": "2026-07-17",
       "earnings": "2025-07-21",
       "dividendRate": 15.0
+    },
+    {
+      "symbol": "ABSLAMC",
+      "name": "Aditya Birla Sun Life AMC",
+      "exDividend": "2026-07-22",
+      "earnings": "2025-07-22",
+      "dividendRate": 25.5
     },
     {
       "symbol": "HFCL",
@@ -1272,6 +1274,12 @@
       "dividendRate": 2.5
     },
     {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19",
+      "earnings": "2025-08-12"
+    },
+    {
       "symbol": "NSLNISP",
       "name": "NMDC Steel",
       "earnings": "2025-08-13"
@@ -1385,31 +1393,10 @@
       "dividendRate": 5.0
     },
     {
-      "symbol": "360ONE",
-      "name": "360 ONE WAM",
-      "exDividend": "2026-04-27",
-      "earnings": "2026-07-16",
-      "dividendRate": 12.0
-    },
-    {
       "symbol": "CRAFTSMAN",
       "name": "Craftsman Automation",
       "exDividend": "2026-07-16",
       "dividendRate": 11.25
-    },
-    {
-      "symbol": "POLYCAB",
-      "name": "Polycab India",
-      "exDividend": "2026-06-19",
-      "earnings": "2026-07-16",
-      "dividendRate": 47.0
-    },
-    {
-      "symbol": "HAVELLS",
-      "name": "Havells India",
-      "exDividend": "2026-05-22",
-      "earnings": "2026-07-17",
-      "dividendRate": 12.0
     },
     {
       "symbol": "OBEROIRLTY",
@@ -1419,18 +1406,11 @@
       "dividendRate": 8.0
     },
     {
-      "symbol": "JKCEMENT",
-      "name": "J.K. Cement",
-      "exDividend": "2026-07-10",
-      "earnings": "2026-07-18",
-      "dividendRate": 20.0
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "name": "Kotak Mahindra Bank",
-      "exDividend": "2026-07-17",
-      "earnings": "2026-07-18",
-      "dividendRate": 0.65
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "exDividend": "2026-06-05",
+      "earnings": "2026-07-17",
+      "dividendRate": 6.0
     },
     {
       "symbol": "PNB",
@@ -1449,20 +1429,6 @@
       "symbol": "PAYTM",
       "name": "One 97 Communications",
       "earnings": "2026-07-20"
-    },
-    {
-      "symbol": "ATGL",
-      "name": "Adani Total Gas",
-      "exDividend": "2026-06-12",
-      "earnings": "2026-07-21",
-      "dividendRate": 0.25
-    },
-    {
-      "symbol": "BAJAJ-AUTO",
-      "name": "Bajaj Auto",
-      "exDividend": "2026-05-29",
-      "earnings": "2026-07-21",
-      "dividendRate": 150.0
     },
     {
       "symbol": "BANDHANBNK",
@@ -1486,10 +1452,11 @@
       "dividendRate": 3.25
     },
     {
-      "symbol": "ABSLAMC",
-      "name": "Aditya Birla Sun Life AMC",
-      "exDividend": "2026-07-22",
-      "dividendRate": 25.5
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company",
+      "exDividend": "2026-03-30",
+      "earnings": "2026-07-21",
+      "dividendRate": 12.0
     },
     {
       "symbol": "BPCL",
@@ -1515,13 +1482,6 @@
       "exDividend": "2026-08-14",
       "earnings": "2026-07-22",
       "dividendRate": 24.25
-    },
-    {
-      "symbol": "IIFL",
-      "name": "IIFL Finance",
-      "exDividend": "2026-01-29",
-      "earnings": "2026-07-22",
-      "dividendRate": 4.0
     },
     {
       "symbol": "JSWENERGY",
@@ -1563,13 +1523,6 @@
       "exDividend": "2026-07-16",
       "earnings": "2026-07-23",
       "dividendRate": 11.0
-    },
-    {
-      "symbol": "CYIENT",
-      "name": "Cyient",
-      "exDividend": "2025-10-24",
-      "earnings": "2026-07-23",
-      "dividendRate": 32.0
     },
     {
       "symbol": "IEX",
@@ -2888,6 +2841,13 @@
       "dividendRate": 14.0
     },
     {
+      "symbol": "360ONE",
+      "name": "360 ONE WAM",
+      "exDividend": "2026-04-27",
+      "earnings": "2026-10-15",
+      "dividendRate": 12.0
+    },
+    {
       "symbol": "HDFCAMC",
       "name": "HDFC Asset Management Company",
       "exDividend": "2026-06-05",
@@ -2900,6 +2860,13 @@
       "exDividend": "2026-06-19",
       "earnings": "2026-10-15",
       "dividendRate": 2.1
+    },
+    {
+      "symbol": "IIFL",
+      "name": "IIFL Finance",
+      "exDividend": "2026-01-29",
+      "earnings": "2026-10-15",
+      "dividendRate": 4.0
     },
     {
       "symbol": "IRFC",
@@ -2937,6 +2904,13 @@
       "dividendRate": 36.0
     },
     {
+      "symbol": "POLYCAB",
+      "name": "Polycab India",
+      "exDividend": "2026-06-19",
+      "earnings": "2026-10-15",
+      "dividendRate": 47.0
+    },
+    {
       "symbol": "TATACOMM",
       "name": "Tata Communications",
       "exDividend": "2026-06-19",
@@ -2970,13 +2944,6 @@
       "exDividend": "2026-05-25",
       "earnings": "2026-10-16",
       "dividendRate": 75.0
-    },
-    {
-      "symbol": "RELIANCE",
-      "name": "Reliance Industries",
-      "exDividend": "2026-06-05",
-      "earnings": "2026-10-16",
-      "dividendRate": 6.0
     },
     {
       "symbol": "AXISBANK",
@@ -3037,16 +3004,30 @@
       "dividendRate": 7.5
     },
     {
-      "symbol": "TVSMOTOR",
-      "name": "TVS Motor Company",
-      "exDividend": "2026-03-30",
-      "earnings": "2026-10-21",
-      "dividendRate": 12.0
-    },
-    {
       "symbol": "ADANIENSOL",
       "name": "Adani Energy Solutions",
       "earnings": "2026-10-22"
+    },
+    {
+      "symbol": "ATGL",
+      "name": "Adani Total Gas",
+      "exDividend": "2026-06-12",
+      "earnings": "2026-10-22",
+      "dividendRate": 0.25
+    },
+    {
+      "symbol": "CYIENT",
+      "name": "Cyient",
+      "exDividend": "2025-10-24",
+      "earnings": "2026-10-22",
+      "dividendRate": 32.0
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India",
+      "exDividend": "2026-05-22",
+      "earnings": "2026-10-22",
+      "dividendRate": 12.0
     },
     {
       "symbol": "UNITDSPR",
@@ -3115,6 +3096,27 @@
       "exDividend": "2026-08-07",
       "earnings": "2026-10-24",
       "dividendRate": 0.25
+    },
+    {
+      "symbol": "JKCEMENT",
+      "name": "J.K. Cement",
+      "exDividend": "2026-07-10",
+      "earnings": "2026-10-24",
+      "dividendRate": 20.0
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank",
+      "exDividend": "2026-07-17",
+      "earnings": "2026-10-24",
+      "dividendRate": 0.65
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto",
+      "exDividend": "2026-05-29",
+      "earnings": "2026-10-27",
+      "dividendRate": 150.0
     },
     {
       "symbol": "CIPLA",
