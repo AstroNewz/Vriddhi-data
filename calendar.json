@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-10-14T22:29:59+05:30",
+  "lastUpdated": "2026-10-15T22:17:37+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -228,7 +233,7 @@
     {
       "symbol": "ELECON",
       "name": "Elecon Engineering Co",
-      "exDividend": "2026-06-12",
+      "exDividend": "2026-10-21",
       "earnings": "2025-07-15"
     },
     {
@@ -1120,12 +1125,6 @@
       "earnings": "2025-08-12"
     },
     {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
-    },
-    {
       "symbol": "NSLNISP",
       "name": "NMDC Steel",
       "earnings": "2025-08-13"
@@ -1187,11 +1186,6 @@
       "exDividend": "2026-06-12"
     },
     {
-      "symbol": "HDBFS",
-      "name": "HDB Financial Services",
-      "exDividend": "2026-06-18"
-    },
-    {
       "symbol": "ANTHEM",
       "name": "Anthem Biosciences",
       "exDividend": "2026-06-25"
@@ -1210,12 +1204,6 @@
       "symbol": "CRAFTSMAN",
       "name": "Craftsman Automation",
       "exDividend": "2026-07-16"
-    },
-    {
-      "symbol": "RELIANCE",
-      "name": "Reliance Industries",
-      "exDividend": "2026-06-05",
-      "earnings": "2026-07-17"
     },
     {
       "symbol": "CPPLUS",
@@ -1246,12 +1234,6 @@
       "earnings": "2026-07-21"
     },
     {
-      "symbol": "TVSMOTOR",
-      "name": "TVS Motor Company",
-      "exDividend": "2026-03-30",
-      "earnings": "2026-07-21"
-    },
-    {
       "symbol": "ABSLAMC",
       "name": "Aditya Birla Sun Life AMC",
       "exDividend": "2026-07-22"
@@ -1260,12 +1242,6 @@
       "symbol": "HEGAM",
       "name": "HEG Advanced Materials",
       "exDividend": "2026-07-22"
-    },
-    {
-      "symbol": "HINDPETRO",
-      "name": "Hindustan Petroleum Corporation",
-      "exDividend": "2026-08-14",
-      "earnings": "2026-07-22"
     },
     {
       "symbol": "JSWENERGY",
@@ -1322,12 +1298,6 @@
       "earnings": "2026-07-23"
     },
     {
-      "symbol": "SONACOMS",
-      "name": "Sona BLW Precision Forgings",
-      "exDividend": "2026-06-25",
-      "earnings": "2026-07-23"
-    },
-    {
       "symbol": "ACC",
       "name": "ACC",
       "exDividend": "2026-06-12",
@@ -1366,12 +1336,6 @@
       "symbol": "LALPATHLAB",
       "name": "Dr. Lal Path Labs",
       "exDividend": "2026-07-30",
-      "earnings": "2026-07-24"
-    },
-    {
-      "symbol": "HINDZINC",
-      "name": "Hindustan Zinc",
-      "exDividend": "2026-04-30",
       "earnings": "2026-07-24"
     },
     {
@@ -1488,21 +1452,9 @@
       "earnings": "2026-07-28"
     },
     {
-      "symbol": "LT",
-      "name": "Larsen & Toubro",
-      "exDividend": "2026-05-22",
-      "earnings": "2026-07-28"
-    },
-    {
       "symbol": "PHOENIXLTD",
       "name": "Phoenix Mills",
       "exDividend": "2026-09-11",
-      "earnings": "2026-07-28"
-    },
-    {
-      "symbol": "RADICO",
-      "name": "Radico Khaitan",
-      "exDividend": "2026-07-24",
       "earnings": "2026-07-28"
     },
     {
@@ -1527,12 +1479,6 @@
       "symbol": "BALKRISIND",
       "name": "Balkrishna Industries",
       "exDividend": "2026-08-04",
-      "earnings": "2026-07-29"
-    },
-    {
-      "symbol": "COLPAL",
-      "name": "Colgate Palmolive (India)",
-      "exDividend": "2026-06-01",
       "earnings": "2026-07-29"
     },
     {
@@ -1726,12 +1672,6 @@
       "name": "Muthoot Finance",
       "exDividend": "2026-04-17",
       "earnings": "2026-08-01"
-    },
-    {
-      "symbol": "CAMS",
-      "name": "Computer Age Management Services",
-      "exDividend": "2026-08-12",
-      "earnings": "2026-08-03"
     },
     {
       "symbol": "DLF",
@@ -2500,6 +2440,12 @@
       "earnings": "2026-10-19"
     },
     {
+      "symbol": "HINDZINC",
+      "name": "Hindustan Zinc",
+      "exDividend": "2026-04-30",
+      "earnings": "2026-10-19"
+    },
+    {
       "symbol": "LTTS",
       "name": "L&T Technology Services",
       "exDividend": "2026-05-22",
@@ -2550,6 +2496,18 @@
       "earnings": "2026-10-21"
     },
     {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "exDividend": "2026-06-05",
+      "earnings": "2026-10-21"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company",
+      "exDividend": "2026-03-30",
+      "earnings": "2026-10-21"
+    },
+    {
       "symbol": "ADANIENSOL",
       "name": "Adani Energy Solutions",
       "earnings": "2026-10-22"
@@ -2558,6 +2516,12 @@
       "symbol": "ATGL",
       "name": "Adani Total Gas",
       "exDividend": "2026-06-12",
+      "earnings": "2026-10-22"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India)",
+      "exDividend": "2026-06-01",
       "earnings": "2026-10-22"
     },
     {
@@ -2570,6 +2534,12 @@
       "symbol": "HAVELLS",
       "name": "Havells India",
       "exDividend": "2026-05-22",
+      "earnings": "2026-10-22"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation",
+      "exDividend": "2026-08-14",
       "earnings": "2026-10-22"
     },
     {
@@ -2606,6 +2576,11 @@
       "name": "Dr. Reddy's Laboratories",
       "exDividend": "2026-07-10",
       "earnings": "2026-10-23"
+    },
+    {
+      "symbol": "HDBFS",
+      "name": "HDB Financial Services",
+      "exDividend": "2026-10-23"
     },
     {
       "symbol": "INDUSINDBK",
@@ -2656,6 +2631,12 @@
       "earnings": "2026-10-24"
     },
     {
+      "symbol": "SONACOMS",
+      "name": "Sona BLW Precision Forgings",
+      "exDividend": "2026-06-25",
+      "earnings": "2026-10-26"
+    },
+    {
       "symbol": "BAJAJ-AUTO",
       "name": "Bajaj Auto",
       "exDividend": "2026-05-29",
@@ -2674,6 +2655,12 @@
       "earnings": "2026-10-27"
     },
     {
+      "symbol": "LT",
+      "name": "Larsen & Toubro",
+      "exDividend": "2026-05-22",
+      "earnings": "2026-10-27"
+    },
+    {
       "symbol": "MARUTI",
       "name": "Maruti Suzuki India",
       "exDividend": "2026-08-07",
@@ -2683,6 +2670,12 @@
       "symbol": "MFSL",
       "name": "Max Financial Services",
       "exDividend": "2016-09-19",
+      "earnings": "2026-10-27"
+    },
+    {
+      "symbol": "RADICO",
+      "name": "Radico Khaitan",
+      "exDividend": "2026-07-24",
       "earnings": "2026-10-27"
     },
     {
@@ -2736,6 +2729,12 @@
       "symbol": "BLUESTARCO",
       "name": "Blue Star",
       "exDividend": "2026-07-17",
+      "earnings": "2026-10-29"
+    },
+    {
+      "symbol": "CAMS",
+      "name": "Computer Age Management Services",
+      "exDividend": "2026-08-12",
       "earnings": "2026-10-29"
     },
     {
