@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T00:09:06+05:30",
+  "lastUpdated": "2026-10-20T22:15:46+05:30",
   "stocks": [
     {
       "symbol": "360ONE",
@@ -13,7 +13,7 @@
       "roe": 12.7,
       "eps": 29.6,
       "bookValue": 254.4,
-      "dividendYield": 1.12,
+      "dividendYield": 1.14,
       "profitTrend": [
         658,
         804,
@@ -40,7 +40,7 @@
       "roe": 19.1,
       "eps": 73.4,
       "bookValue": 440.6,
-      "dividendYield": 0.44,
+      "dividendYield": 0.42,
       "profitTrend": [
         1016,
         1242,
@@ -67,7 +67,7 @@
       "roe": 0.0,
       "eps": 101.4,
       "bookValue": 1094.4,
-      "dividendYield": 0.63,
+      "dividendYield": 0.64,
       "profitTrend": [
         649,
         2335,
@@ -121,7 +121,7 @@
       "roe": 0.0,
       "eps": 135.7,
       "bookValue": 860.1,
-      "dividendYield": 0.43,
+      "dividendYield": 0.44,
       "profitTrend": [
         1056,
         1136,
@@ -148,7 +148,7 @@
       "roe": 0.0,
       "eps": 44.3,
       "bookValue": 190.7,
-      "dividendYield": 0.39,
+      "dividendYield": 0.4,
       "profitTrend": [
         642,
         732,
@@ -202,7 +202,7 @@
       "roe": 0.0,
       "eps": 8.9,
       "bookValue": 80.7,
-      "dividendYield": 0.53,
+      "dividendYield": 0.55,
       "profitTrend": [
         582,
         148,
@@ -256,7 +256,7 @@
       "roe": 0.0,
       "eps": 14.6,
       "bookValue": 164.7,
-      "dividendYield": 0.2,
+      "dividendYield": 0.21,
       "profitTrend": [
         545,
         416,
@@ -310,7 +310,7 @@
       "roe": 0.0,
       "eps": 759.9,
       "bookValue": 2246.8,
-      "dividendYield": 2.01,
+      "dividendYield": 2.03,
       "profitTrend": [
         949,
         1201,
@@ -472,7 +472,7 @@
       "roe": 0.0,
       "eps": 58.6,
       "bookValue": 416.5,
-      "dividendYield": 0.43,
+      "dividendYield": 0.42,
       "profitTrend": [
         5309,
         8111,
@@ -580,7 +580,7 @@
       "roe": 0.0,
       "eps": -31.8,
       "bookValue": 334.6,
-      "dividendYield": 0.22,
+      "dividendYield": 0.23,
       "profitTrend": [
         272,
         51,
@@ -607,7 +607,7 @@
       "roe": 0.0,
       "eps": 34.8,
       "bookValue": 139.9,
-      "dividendYield": 2.62,
+      "dividendYield": 2.66,
       "profitTrend": [
         596,
         780,
@@ -661,7 +661,7 @@
       "roe": 0.0,
       "eps": 35.6,
       "bookValue": 172.5,
-      "dividendYield": 0.98,
+      "dividendYield": 1.01,
       "profitTrend": [
         463,
         569,
@@ -688,7 +688,7 @@
       "roe": 0.0,
       "eps": 2.3,
       "bookValue": 38.7,
-      "dividendYield": 0.07,
+      "dividendYield": 0.08,
       "profitTrend": [
         0,
         87,
@@ -796,7 +796,7 @@
       "roe": 0.0,
       "eps": 90.8,
       "bookValue": 362.4,
-      "dividendYield": 1.92,
+      "dividendYield": 1.94,
       "profitTrend": [
         588,
         816,
@@ -850,7 +850,7 @@
       "roe": 0.0,
       "eps": 7.8,
       "bookValue": 59.4,
-      "dividendYield": 0.72,
+      "dividendYield": 0.73,
       "profitTrend": [
         2,
         2,
@@ -877,7 +877,7 @@
       "roe": 0.0,
       "eps": 50.4,
       "bookValue": 442.5,
-      "dividendYield": 1.43,
+      "dividendYield": 1.45,
       "profitTrend": [
         731,
         934,
@@ -931,7 +931,7 @@
       "roe": 0.0,
       "eps": 17.7,
       "bookValue": 240.1,
-      "dividendYield": 0.56,
+      "dividendYield": 0.55,
       "profitTrend": [
         1938,
         3573,
@@ -1012,7 +1012,7 @@
       "roe": 18.4,
       "eps": 12.4,
       "bookValue": 73.0,
-      "dividendYield": 1.68,
+      "dividendYield": 1.67,
       "profitTrend": [
         890,
         1126,
@@ -1039,7 +1039,7 @@
       "roe": 0.0,
       "eps": 10.2,
       "bookValue": 54.2,
-      "dividendYield": 0.24,
+      "dividendYield": 0.25,
       "profitTrend": [
         385,
         367,
@@ -1066,7 +1066,7 @@
       "roe": 0.0,
       "eps": 15.4,
       "bookValue": 293.1,
-      "dividendYield": 0.13,
+      "dividendYield": 0.14,
       "profitTrend": [
         181,
         129,
@@ -1093,7 +1093,7 @@
       "roe": 0.0,
       "eps": 293.4,
       "bookValue": 1342.6,
-      "dividendYield": 0.37,
+      "dividendYield": 0.38,
       "profitTrend": [
         638,
         825,
@@ -1120,7 +1120,7 @@
       "roe": 0.0,
       "eps": 145.3,
       "bookValue": 659.3,
-      "dividendYield": 0.25,
+      "dividendYield": 0.26,
       "profitTrend": [
         819,
         899,
@@ -1147,7 +1147,7 @@
       "roe": 0.0,
       "eps": 27.0,
       "bookValue": 264.2,
-      "dividendYield": 1.47,
+      "dividendYield": 1.44,
       "profitTrend": [
         1046,
         1722,
@@ -1174,7 +1174,7 @@
       "roe": 0.0,
       "eps": 19.6,
       "bookValue": 101.1,
-      "dividendYield": 2.25,
+      "dividendYield": 2.34,
       "profitTrend": [
         503,
         612,
@@ -1228,7 +1228,7 @@
       "roe": 0.0,
       "eps": 5.9,
       "bookValue": 24.2,
-      "dividendYield": 2.35,
+      "dividendYield": 2.37,
       "profitTrend": [
         1239,
         2484,
@@ -1282,7 +1282,7 @@
       "roe": 0.0,
       "eps": 6.2,
       "bookValue": 88.8,
-      "dividendYield": 0.44,
+      "dividendYield": 0.45,
       "profitTrend": [
         425,
         129,
@@ -1363,7 +1363,7 @@
       "roe": 0.0,
       "eps": 270.2,
       "bookValue": 2113.3,
-      "dividendYield": 0.48,
+      "dividendYield": 0.49,
       "profitTrend": [
         514,
         323,
@@ -1493,11 +1493,11 @@
       "price": 1236.0,
       "changePct": -4.19,
       "marketCap": 384862,
-      "pe": 13.9,
+      "pe": 12.9,
       "debtToEquity": 0.0,
-      "roe": 13.4,
-      "eps": 88.9,
-      "bookValue": 691.8,
+      "roe": 13.9,
+      "eps": 95.8,
+      "bookValue": 742.9,
       "dividendYield": 0.08,
       "profitTrend": [
         10818,
@@ -1552,7 +1552,7 @@
       "roe": 0.0,
       "eps": 71.4,
       "bookValue": 352.2,
-      "dividendYield": 0.9,
+      "dividendYield": 0.91,
       "profitTrend": [
         158,
         282,
@@ -1579,7 +1579,7 @@
       "roe": 0.0,
       "eps": 17.1,
       "bookValue": 59.9,
-      "dividendYield": 1.1,
+      "dividendYield": 1.13,
       "profitTrend": [
         201,
         313,
@@ -1633,7 +1633,7 @@
       "roe": 0.0,
       "eps": 420.5,
       "bookValue": 1389.3,
-      "dividendYield": 1.44,
+      "dividendYield": 1.46,
       "profitTrend": [
         6060,
         7708,
@@ -1656,11 +1656,11 @@
       "changePct": -2.52,
       "marketCap": 595845,
       "pe": 29.4,
-      "debtToEquity": 3.15,
-      "roe": 0.0,
+      "debtToEquity": 3.42,
+      "roe": 19.0,
       "eps": 32.6,
       "bookValue": 183.3,
-      "dividendYield": 0.55,
+      "dividendYield": 0.56,
       "profitTrend": [
         11508,
         14451,
@@ -1714,7 +1714,7 @@
       "roe": 11.6,
       "eps": 795.9,
       "bookValue": 6572.8,
-      "dividendYield": 1.16,
+      "dividendYield": 1.15,
       "profitTrend": [
         4851,
         7267,
@@ -1768,7 +1768,7 @@
       "roe": 0.0,
       "eps": 72.7,
       "bookValue": 566.7,
-      "dividendYield": 0.78,
+      "dividendYield": 0.77,
       "profitTrend": [
         1057,
         1471,
@@ -1795,7 +1795,7 @@
       "roe": 0.0,
       "eps": 18.2,
       "bookValue": 204.9,
-      "dividendYield": 0.97,
+      "dividendYield": 1.0,
       "profitTrend": [
         284,
         534,
@@ -1822,7 +1822,7 @@
       "roe": 0.0,
       "eps": 8.4,
       "bookValue": 159.0,
-      "dividendYield": 0.9,
+      "dividendYield": 0.92,
       "profitTrend": [
         2195,
         2230,
@@ -1849,7 +1849,7 @@
       "roe": 11.3,
       "eps": 35.1,
       "bookValue": 326.0,
-      "dividendYield": 3.69,
+      "dividendYield": 3.57,
       "profitTrend": [
         14905,
         18767,
@@ -1876,7 +1876,7 @@
       "roe": 13.7,
       "eps": 25.9,
       "bookValue": 199.7,
-      "dividendYield": 3.51,
+      "dividendYield": 3.4,
       "profitTrend": [
         3838,
         6564,
@@ -1903,7 +1903,7 @@
       "roe": 23.0,
       "eps": 9.8,
       "bookValue": 46.4,
-      "dividendYield": 2.76,
+      "dividendYield": 2.72,
       "profitTrend": [
         2605,
         4072,
@@ -1930,7 +1930,7 @@
       "roe": 0.0,
       "eps": 11.4,
       "bookValue": 124.1,
-      "dividendYield": 5.32,
+      "dividendYield": 5.35,
       "profitTrend": [
         323,
         263,
@@ -1984,7 +1984,7 @@
       "roe": 0.0,
       "eps": 10.4,
       "bookValue": 59.3,
-      "dividendYield": 0.84,
+      "dividendYield": 0.85,
       "profitTrend": [
         859,
         1168,
@@ -2038,7 +2038,7 @@
       "roe": 0.0,
       "eps": 14.2,
       "bookValue": 115.8,
-      "dividendYield": 0.44,
+      "dividendYield": 0.45,
       "profitTrend": [
         352,
         613,
@@ -2092,7 +2092,7 @@
       "roe": 0.0,
       "eps": 14.8,
       "bookValue": 200.4,
-      "dividendYield": 0.46,
+      "dividendYield": 0.47,
       "profitTrend": [
         528,
         951,
@@ -2118,8 +2118,8 @@
       "debtToEquity": 0.22,
       "roe": 11.3,
       "eps": 8.3,
-      "bookValue": 75.1,
-      "dividendYield": 0.32,
+      "bookValue": 76.9,
+      "dividendYield": 0.33,
       "profitTrend": [
         637,
         282,
@@ -2146,7 +2146,7 @@
       "roe": 0.0,
       "eps": 40.1,
       "bookValue": 234.4,
-      "dividendYield": 6.81,
+      "dividendYield": 6.8,
       "profitTrend": [
         2131,
         26859,
@@ -2173,7 +2173,7 @@
       "roe": 20.2,
       "eps": 47.8,
       "bookValue": 259.5,
-      "dividendYield": 1.26,
+      "dividendYield": 1.28,
       "profitTrend": [
         8346,
         7467,
@@ -2200,7 +2200,7 @@
       "roe": 0.0,
       "eps": 36.5,
       "bookValue": 143.3,
-      "dividendYield": 1.11,
+      "dividendYield": 1.1,
       "profitTrend": [
         549,
         504,
@@ -2251,7 +2251,7 @@
       "roe": 0.0,
       "eps": 3.4,
       "bookValue": 210.1,
-      "dividendYield": 0.14,
+      "dividendYield": 0.15,
       "profitTrend": [
         463,
         1022,
@@ -2278,7 +2278,7 @@
       "roe": 0.0,
       "eps": 20.3,
       "bookValue": 147.2,
-      "dividendYield": 2.04,
+      "dividendYield": 2.08,
       "profitTrend": [
         332,
         624,
@@ -2359,7 +2359,7 @@
       "roe": 0.0,
       "eps": 801.3,
       "bookValue": 5033.4,
-      "dividendYield": 0.59,
+      "dividendYield": 0.6,
       "profitTrend": [
         1426,
         2491,
@@ -2440,7 +2440,7 @@
       "roe": 0.0,
       "eps": 108.1,
       "bookValue": 212.0,
-      "dividendYield": 1.9,
+      "dividendYield": 1.92,
       "profitTrend": [
         2322,
         2140,
@@ -2490,11 +2490,11 @@
       "changePct": -2.13,
       "marketCap": 13158,
       "pe": 28.5,
-      "debtToEquity": 0.56,
-      "roe": 0.0,
+      "debtToEquity": 0.46,
+      "roe": 19.4,
       "eps": 34.6,
       "bookValue": 176.0,
-      "dividendYield": 0.57,
+      "dividendYield": 0.58,
       "profitTrend": [
         284,
         250,
@@ -2521,7 +2521,7 @@
       "roe": 0.0,
       "eps": 11.7,
       "bookValue": 94.5,
-      "dividendYield": 4.42,
+      "dividendYield": 4.5,
       "profitTrend": [
         1343,
         1376,
@@ -2575,7 +2575,7 @@
       "roe": 12.2,
       "eps": 23.6,
       "bookValue": 204.1,
-      "dividendYield": 1.86,
+      "dividendYield": 1.88,
       "profitTrend": [
         -136,
         1125,
@@ -2656,7 +2656,7 @@
       "roe": 15.1,
       "eps": 22.5,
       "bookValue": 141.1,
-      "dividendYield": 3.55,
+      "dividendYield": 3.44,
       "profitTrend": [
         11255,
         15279,
@@ -2762,7 +2762,7 @@
       "roe": 0.0,
       "eps": 11.1,
       "bookValue": 204.7,
-      "dividendYield": 0.36,
+      "dividendYield": 0.37,
       "profitTrend": [
         414,
         461,
@@ -2816,7 +2816,7 @@
       "roe": 57.0,
       "eps": 10.7,
       "bookValue": 19.3,
-      "dividendYield": 6.32,
+      "dividendYield": 6.35,
       "profitTrend": [
         815,
         864,
@@ -2870,7 +2870,7 @@
       "roe": 0.0,
       "eps": 35.0,
       "bookValue": 139.7,
-      "dividendYield": 0.25,
+      "dividendYield": 0.26,
       "profitTrend": [
         124,
         274,
@@ -2897,7 +2897,7 @@
       "roe": 12.0,
       "eps": 5.0,
       "bookValue": 46.0,
-      "dividendYield": 3.24,
+      "dividendYield": 3.23,
       "profitTrend": [
         1679,
         2668,
@@ -2924,7 +2924,7 @@
       "roe": 0.0,
       "eps": 22.6,
       "bookValue": 93.8,
-      "dividendYield": 0.99,
+      "dividendYield": 1.0,
       "profitTrend": [
         276,
         419,
@@ -2951,7 +2951,7 @@
       "roe": 0.0,
       "eps": 9.2,
       "bookValue": 32.0,
-      "dividendYield": 0.52,
+      "dividendYield": 0.54,
       "profitTrend": [
         297,
         503,
@@ -2978,7 +2978,7 @@
       "roe": 0.0,
       "eps": 48.1,
       "bookValue": 260.1,
-      "dividendYield": 3.09,
+      "dividendYield": 3.13,
       "profitTrend": [
         1034,
         1276,
@@ -3005,7 +3005,7 @@
       "roe": 0.0,
       "eps": 280.3,
       "bookValue": 746.0,
-      "dividendYield": 4.41,
+      "dividendYield": 4.33,
       "profitTrend": [
         3532,
         2745,
@@ -3135,12 +3135,12 @@
       "price": 230.95,
       "changePct": 1.57,
       "marketCap": 22882,
-      "pe": 16.3,
+      "pe": 16.4,
       "debtToEquity": 0.0,
       "roe": 0.0,
       "eps": 14.1,
       "bookValue": 106.6,
-      "dividendYield": 0.88,
+      "dividendYield": 0.87,
       "profitTrend": [
         937,
         1016,
@@ -3194,7 +3194,7 @@
       "roe": 0.0,
       "eps": 21.9,
       "bookValue": 148.9,
-      "dividendYield": 0.77,
+      "dividendYield": 0.79,
       "profitTrend": [
         295,
         244,
@@ -3221,7 +3221,7 @@
       "roe": 0.0,
       "eps": 50.6,
       "bookValue": 193.3,
-      "dividendYield": 6.35,
+      "dividendYield": 6.44,
       "profitTrend": [
         31763,
         37402,
@@ -3248,7 +3248,7 @@
       "roe": 0.0,
       "eps": 25.9,
       "bookValue": 223.2,
-      "dividendYield": 0.9,
+      "dividendYield": 0.92,
       "profitTrend": [
         305,
         783,
@@ -3275,7 +3275,7 @@
       "roe": 0.0,
       "eps": 48.8,
       "bookValue": 284.0,
-      "dividendYield": 0.82,
+      "dividendYield": 0.83,
       "profitTrend": [
         694,
         808,
@@ -3329,7 +3329,7 @@
       "roe": 0.0,
       "eps": 49.5,
       "bookValue": 58.2,
-      "dividendYield": 2.71,
+      "dividendYield": 2.76,
       "profitTrend": [
         1047,
         1324,
@@ -3356,7 +3356,7 @@
       "roe": 0.0,
       "eps": 19.9,
       "bookValue": 53.3,
-      "dividendYield": 1.83,
+      "dividendYield": 1.86,
       "profitTrend": [
         285,
         354,
@@ -3383,7 +3383,7 @@
       "roe": 0.0,
       "eps": 29.0,
       "bookValue": 192.8,
-      "dividendYield": 0.56,
+      "dividendYield": 0.59,
       "profitTrend": [
         240,
         308,
@@ -3410,7 +3410,7 @@
       "roe": 0.0,
       "eps": 16.4,
       "bookValue": 169.9,
-      "dividendYield": 1.92,
+      "dividendYield": 1.95,
       "profitTrend": [
         1174,
         1247,
@@ -3437,7 +3437,7 @@
       "roe": 0.0,
       "eps": 62.1,
       "bookValue": 426.4,
-      "dividendYield": 0.63,
+      "dividendYield": 0.62,
       "profitTrend": [
         2013,
         1642,
@@ -3518,7 +3518,7 @@
       "roe": -4.4,
       "eps": -2.7,
       "bookValue": 47.0,
-      "dividendYield": 1.39,
+      "dividendYield": 1.44,
       "profitTrend": [
         463,
         440,
@@ -3599,7 +3599,7 @@
       "roe": 0.0,
       "eps": 34.0,
       "bookValue": 514.3,
-      "dividendYield": 2.68,
+      "dividendYield": 2.73,
       "profitTrend": [
         514,
         683,
@@ -3653,7 +3653,7 @@
       "roe": 0.0,
       "eps": 35.7,
       "bookValue": 201.0,
-      "dividendYield": 0.17,
+      "dividendYield": 0.18,
       "profitTrend": [
         96,
         153,
@@ -3680,7 +3680,7 @@
       "roe": 0.0,
       "eps": 11.1,
       "bookValue": 64.4,
-      "dividendYield": 2.14,
+      "dividendYield": 2.18,
       "profitTrend": [
         1707,
         1843,
@@ -3707,7 +3707,7 @@
       "roe": 0.0,
       "eps": 49.9,
       "bookValue": 958.5,
-      "dividendYield": 0.59,
+      "dividendYield": 0.62,
       "profitTrend": [
         1035,
         826,
@@ -3761,7 +3761,7 @@
       "roe": 0.0,
       "eps": 78.0,
       "bookValue": 542.1,
-      "dividendYield": 0.74,
+      "dividendYield": 0.8,
       "profitTrend": [
         1210,
         453,
@@ -3788,7 +3788,7 @@
       "roe": 0.0,
       "eps": 57.4,
       "bookValue": 427.9,
-      "dividendYield": 0.47,
+      "dividendYield": 0.48,
       "profitTrend": [
         852,
         811,
@@ -3950,7 +3950,7 @@
       "roe": 8.8,
       "eps": 39.7,
       "bookValue": 460.3,
-      "dividendYield": 0.65,
+      "dividendYield": 0.64,
       "profitTrend": [
         4507,
         5568,
@@ -3972,10 +3972,10 @@
       "price": 674.05,
       "changePct": -2.9,
       "marketCap": 11995,
-      "pe": 25.9,
+      "pe": 25.1,
       "debtToEquity": 0.24,
       "roe": 0.0,
-      "eps": 26.0,
+      "eps": 26.8,
       "bookValue": 494.3,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -4004,7 +4004,7 @@
       "roe": 0.0,
       "eps": 11.4,
       "bookValue": 84.1,
-      "dividendYield": 0.5,
+      "dividendYield": 0.49,
       "profitTrend": [
         315,
         639,
@@ -4058,7 +4058,7 @@
       "roe": 0.0,
       "eps": 210.2,
       "bookValue": 915.0,
-      "dividendYield": 1.13,
+      "dividendYield": 1.12,
       "profitTrend": [
         2914,
         4001,
@@ -4085,7 +4085,7 @@
       "roe": 10.3,
       "eps": 10.9,
       "bookValue": 111.7,
-      "dividendYield": 0.42,
+      "dividendYield": 0.43,
       "profitTrend": [
         238,
         356,
@@ -4112,7 +4112,7 @@
       "roe": 0.0,
       "eps": 14.2,
       "bookValue": 70.8,
-      "dividendYield": 0.47,
+      "dividendYield": 0.5,
       "profitTrend": [
         371,
         312,
@@ -4139,7 +4139,7 @@
       "roe": 0.0,
       "eps": 17.1,
       "bookValue": 67.0,
-      "dividendYield": 2.66,
+      "dividendYield": 2.67,
       "profitTrend": [
         640,
         724,
@@ -4193,7 +4193,7 @@
       "roe": 53.1,
       "eps": 20.8,
       "bookValue": 63.4,
-      "dividendYield": 0.36,
+      "dividendYield": 0.37,
       "profitTrend": [
         9,
         29,
@@ -4220,7 +4220,7 @@
       "roe": 0.0,
       "eps": 69.0,
       "bookValue": 486.3,
-      "dividendYield": 0.48,
+      "dividendYield": 0.49,
       "profitTrend": [
         480,
         680,
@@ -4247,7 +4247,7 @@
       "roe": 0.0,
       "eps": 13.9,
       "bookValue": 55.8,
-      "dividendYield": 1.83,
+      "dividendYield": 1.85,
       "profitTrend": [
         346,
         445,
@@ -4274,7 +4274,7 @@
       "roe": 0.0,
       "eps": 125.7,
       "bookValue": 1105.9,
-      "dividendYield": 1.2,
+      "dividendYield": 1.22,
       "profitTrend": [
         637,
         1077,
@@ -4328,7 +4328,7 @@
       "roe": 0.0,
       "eps": 11.0,
       "bookValue": 163.6,
-      "dividendYield": 0.54,
+      "dividendYield": 0.56,
       "profitTrend": [
         823,
         877,
@@ -4382,7 +4382,7 @@
       "roe": 13.3,
       "eps": 20.5,
       "bookValue": 173.2,
-      "dividendYield": 0.36,
+      "dividendYield": 0.34,
       "profitTrend": [
         3165,
         3880,
@@ -4436,7 +4436,7 @@
       "roe": 0.0,
       "eps": 52.3,
       "bookValue": 397.8,
-      "dividendYield": 0.66,
+      "dividendYield": 0.7,
       "profitTrend": [
         504,
         652,
@@ -4463,7 +4463,7 @@
       "roe": 0.0,
       "eps": 9.5,
       "bookValue": 63.5,
-      "dividendYield": 1.95,
+      "dividendYield": 1.99,
       "profitTrend": [
         514,
         515,
@@ -4598,7 +4598,7 @@
       "roe": 0.0,
       "eps": 15.0,
       "bookValue": 135.5,
-      "dividendYield": 3.27,
+      "dividendYield": 3.29,
       "profitTrend": [
         5616,
         9899,
@@ -4679,7 +4679,7 @@
       "roe": 0.0,
       "eps": 19.3,
       "bookValue": 95.1,
-      "dividendYield": 0.35,
+      "dividendYield": 0.34,
       "profitTrend": [
         132,
         179,
@@ -4706,7 +4706,7 @@
       "roe": 0.0,
       "eps": 18.0,
       "bookValue": 137.4,
-      "dividendYield": 0.33,
+      "dividendYield": 0.32,
       "profitTrend": [
         141,
         225,
@@ -4733,7 +4733,7 @@
       "roe": 0.0,
       "eps": 69.9,
       "bookValue": 229.3,
-      "dividendYield": 0.92,
+      "dividendYield": 0.94,
       "profitTrend": [
         228,
         357,
@@ -4786,7 +4786,7 @@
       "roe": 0.0,
       "eps": 205.0,
       "bookValue": 290.5,
-      "dividendYield": 2.49,
+      "dividendYield": 2.48,
       "profitTrend": [
         289,
         356,
@@ -4840,7 +4840,7 @@
       "roe": 0.0,
       "eps": 63.0,
       "bookValue": 133.8,
-      "dividendYield": 2.22,
+      "dividendYield": 2.28,
       "profitTrend": [
         611,
         590,
@@ -4921,7 +4921,7 @@
       "roe": 0.0,
       "eps": 12.7,
       "bookValue": 94.6,
-      "dividendYield": 0.47,
+      "dividendYield": 0.48,
       "profitTrend": [
         793,
         935,
@@ -4948,7 +4948,7 @@
       "roe": 0.0,
       "eps": 87.7,
       "bookValue": 398.3,
-      "dividendYield": 2.7,
+      "dividendYield": 2.77,
       "profitTrend": [
         690,
         883,
@@ -4975,7 +4975,7 @@
       "roe": 0.0,
       "eps": 18.7,
       "bookValue": 123.6,
-      "dividendYield": 2.34,
+      "dividendYield": 2.36,
       "profitTrend": [
         1702,
         -561,
@@ -5029,7 +5029,7 @@
       "roe": 0.0,
       "eps": 53.1,
       "bookValue": 636.0,
-      "dividendYield": 0.62,
+      "dividendYield": 0.63,
       "profitTrend": [
         571,
         725,
@@ -5056,7 +5056,7 @@
       "roe": 0.0,
       "eps": 26.9,
       "bookValue": 205.2,
-      "dividendYield": 0.21,
+      "dividendYield": 0.22,
       "profitTrend": [
         517,
         405,
@@ -5083,7 +5083,7 @@
       "roe": 0.0,
       "eps": 10.9,
       "bookValue": 299.9,
-      "dividendYield": 0.91,
+      "dividendYield": 0.94,
       "profitTrend": [
         199,
         808,
@@ -5110,7 +5110,7 @@
       "roe": 0.0,
       "eps": 83.8,
       "bookValue": 1525.5,
-      "dividendYield": 0.34,
+      "dividendYield": 0.35,
       "profitTrend": [
         6827,
         5624,
@@ -5164,7 +5164,7 @@
       "roe": 0.0,
       "eps": 261.9,
       "bookValue": 1188.1,
-      "dividendYield": 3.82,
+      "dividendYield": 3.79,
       "profitTrend": [
         2575,
         2614,
@@ -5218,7 +5218,7 @@
       "roe": 0.0,
       "eps": 30.1,
       "bookValue": 222.3,
-      "dividendYield": 2.02,
+      "dividendYield": 2.07,
       "profitTrend": [
         1204,
         597,
@@ -5245,7 +5245,7 @@
       "roe": 0.0,
       "eps": 28.2,
       "bookValue": 80.6,
-      "dividendYield": 0.36,
+      "dividendYield": 0.37,
       "profitTrend": [
         99,
         281,
@@ -5271,7 +5271,7 @@
       "debtToEquity": 0.08,
       "roe": 24.6,
       "eps": 67.6,
-      "bookValue": 278.6,
+      "bookValue": 278.7,
       "dividendYield": 3.48,
       "profitTrend": [
         14851,
@@ -5299,7 +5299,7 @@
       "roe": 14.3,
       "eps": 35.6,
       "bookValue": 266.6,
-      "dividendYield": 0.78,
+      "dividendYield": 0.79,
       "profitTrend": [
         1959,
         2461,
@@ -5326,7 +5326,7 @@
       "roe": 36.4,
       "eps": 69.2,
       "bookValue": 201.0,
-      "dividendYield": 2.25,
+      "dividendYield": 2.3,
       "profitTrend": [
         1423,
         1943,
@@ -5349,10 +5349,10 @@
       "marketCap": 1097796,
       "pe": 15.6,
       "debtToEquity": 0.0,
-      "roe": 13.8,
+      "roe": 11.0,
       "eps": 45.8,
-      "bookValue": 380.7,
-      "dividendYield": 1.78,
+      "bookValue": 394.8,
+      "dividendYield": 1.83,
       "profitTrend": [
         49545,
         62266,
@@ -5379,7 +5379,7 @@
       "roe": 11.3,
       "eps": 9.5,
       "bookValue": 87.3,
-      "dividendYield": 0.38,
+      "dividendYield": 0.39,
       "profitTrend": [
         1368,
         1574,
@@ -5406,7 +5406,7 @@
       "roe": 0.0,
       "eps": 18.3,
       "bookValue": 246.6,
-      "dividendYield": 1.51,
+      "dividendYield": 1.55,
       "profitTrend": [
         532,
         312,
@@ -5428,12 +5428,12 @@
       "price": 268.81,
       "changePct": 5.0,
       "marketCap": 41135,
-      "pe": 70.0,
-      "debtToEquity": 0.38,
-      "roe": 0.0,
-      "eps": 3.8,
-      "bookValue": 33.2,
-      "dividendYield": 0.08,
+      "pe": 46.9,
+      "debtToEquity": 0.34,
+      "roe": 18.7,
+      "eps": 5.7,
+      "bookValue": 36.9,
+      "dividendYield": 0.07,
       "profitTrend": [
         301,
         330,
@@ -5460,7 +5460,7 @@
       "roe": 0.0,
       "eps": 25.8,
       "bookValue": 150.7,
-      "dividendYield": 1.07,
+      "dividendYield": 1.09,
       "profitTrend": [
         1072,
         1271,
@@ -5514,7 +5514,7 @@
       "roe": 21.5,
       "eps": 21.8,
       "bookValue": 110.1,
-      "dividendYield": 1.46,
+      "dividendYield": 1.48,
       "profitTrend": [
         884,
         998,
@@ -5541,7 +5541,7 @@
       "roe": 18.5,
       "eps": 17.0,
       "bookValue": 101.8,
-      "dividendYield": 0.12,
+      "dividendYield": 0.13,
       "profitTrend": [
         216,
         411,
@@ -5568,7 +5568,7 @@
       "roe": 0.0,
       "eps": 73.7,
       "bookValue": 615.3,
-      "dividendYield": 0.55,
+      "dividendYield": 0.56,
       "profitTrend": [
         10097,
         10155,
@@ -5595,7 +5595,7 @@
       "roe": 0.0,
       "eps": 139.4,
       "bookValue": 613.7,
-      "dividendYield": 0.9,
+      "dividendYield": 0.91,
       "profitTrend": [
         5828,
         7621,
@@ -5622,7 +5622,7 @@
       "roe": 0.0,
       "eps": 11.7,
       "bookValue": 34.5,
-      "dividendYield": 0.62,
+      "dividendYield": 0.65,
       "profitTrend": [
         295,
         295,
@@ -5649,7 +5649,7 @@
       "roe": 0.0,
       "eps": 7.8,
       "bookValue": 308.0,
-      "dividendYield": 7.01,
+      "dividendYield": 6.96,
       "profitTrend": [
         -6980,
         16015,
@@ -5676,7 +5676,7 @@
       "roe": 0.0,
       "eps": 44.6,
       "bookValue": 207.4,
-      "dividendYield": 2.32,
+      "dividendYield": 2.37,
       "profitTrend": [
         10120,
         10277,
@@ -5698,10 +5698,10 @@
       "price": 538.4,
       "changePct": -0.3,
       "marketCap": 227491,
-      "pe": 13.3,
+      "pe": 10.9,
       "debtToEquity": 0.39,
       "roe": 0.0,
-      "eps": 40.4,
+      "eps": 49.3,
       "bookValue": 53.6,
       "dividendYield": 2.04,
       "profitTrend": [
@@ -5757,7 +5757,7 @@
       "roe": 0.0,
       "eps": 55.3,
       "bookValue": 417.6,
-      "dividendYield": 0.47,
+      "dividendYield": 0.49,
       "profitTrend": [
         228,
         306,
@@ -5784,7 +5784,7 @@
       "roe": 0.0,
       "eps": 7.6,
       "bookValue": 43.5,
-      "dividendYield": 0.66,
+      "dividendYield": 0.68,
       "profitTrend": [
         -143,
         112,
@@ -5809,9 +5809,9 @@
       "pe": 50.8,
       "debtToEquity": 0.02,
       "roe": 0.0,
-      "eps": 623.2,
+      "eps": 623.3,
       "bookValue": 5047.4,
-      "dividendYield": 0.34,
+      "dividendYield": 0.35,
       "profitTrend": [
         438,
         501,
@@ -5838,7 +5838,7 @@
       "roe": 0.0,
       "eps": 21.3,
       "bookValue": 109.8,
-      "dividendYield": 3.72,
+      "dividendYield": 3.84,
       "profitTrend": [
         1701,
         2117,
@@ -5865,7 +5865,7 @@
       "roe": 0.0,
       "eps": 60.9,
       "bookValue": 246.3,
-      "dividendYield": 1.06,
+      "dividendYield": 1.07,
       "profitTrend": [
         4709,
         6060,
@@ -5892,7 +5892,7 @@
       "roe": 16.5,
       "eps": 77.4,
       "bookValue": 507.1,
-      "dividendYield": 0.86,
+      "dividendYield": 0.87,
       "profitTrend": [
         34037,
         44256,
@@ -5919,7 +5919,7 @@
       "roe": 13.6,
       "eps": 50.9,
       "bookValue": 418.2,
-      "dividendYield": 0.83,
+      "dividendYield": 0.85,
       "profitTrend": [
         1729,
         1919,
@@ -5945,7 +5945,7 @@
       "roe": 76.2,
       "eps": 71.5,
       "bookValue": 108.1,
-      "dividendYield": 0.97,
+      "dividendYield": 0.98,
       "profitTrend": [
         1516,
         2050,
@@ -5971,7 +5971,7 @@
       "roe": 12.9,
       "eps": 12.1,
       "bookValue": 100.9,
-      "dividendYield": 0.37,
+      "dividendYield": 0.38,
       "profitTrend": [
         813,
         851,
@@ -5993,10 +5993,10 @@
       "price": 82.24,
       "changePct": -2.23,
       "marketCap": 88428,
-      "pe": 9.5,
+      "pe": 10.6,
       "debtToEquity": 0.0,
       "roe": 11.8,
-      "eps": 8.7,
+      "eps": 7.7,
       "bookValue": 67.4,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -6025,7 +6025,7 @@
       "roe": 5.3,
       "eps": 2.6,
       "bookValue": 56.5,
-      "dividendYield": 0.32,
+      "dividendYield": 0.33,
       "profitTrend": [
         2485,
         2942,
@@ -6133,7 +6133,7 @@
       "roe": 0.0,
       "eps": 0.8,
       "bookValue": 17.7,
-      "dividendYield": 1.14,
+      "dividendYield": 1.15,
       "profitTrend": [
         720,
         606,
@@ -6160,7 +6160,7 @@
       "roe": 0.0,
       "eps": 6.6,
       "bookValue": 70.7,
-      "dividendYield": 1.78,
+      "dividendYield": 1.82,
       "profitTrend": [
         765,
         930,
@@ -6187,7 +6187,7 @@
       "roe": 0.0,
       "eps": 4.2,
       "bookValue": 56.0,
-      "dividendYield": 0.62,
+      "dividendYield": 0.63,
       "profitTrend": [
         635,
         817
@@ -6212,7 +6212,7 @@
       "roe": 0.0,
       "eps": 15.8,
       "bookValue": 57.9,
-      "dividendYield": 6.07,
+      "dividendYield": 6.14,
       "profitTrend": [
         19192,
         20459,
@@ -6261,11 +6261,11 @@
       "price": 294.35,
       "changePct": -2.63,
       "marketCap": 13683,
-      "pe": 98.8,
-      "debtToEquity": 0.13,
-      "roe": 0.0,
-      "eps": 3.0,
-      "bookValue": 326.7,
+      "pe": 74.5,
+      "debtToEquity": 0.16,
+      "roe": 1.2,
+      "eps": 4.0,
+      "bookValue": 328.1,
       "dividendYield": 0.0,
       "profitTrend": [
         -127,
@@ -6293,7 +6293,7 @@
       "roe": 23.1,
       "eps": 81.8,
       "bookValue": 369.1,
-      "dividendYield": 1.84,
+      "dividendYield": 1.88,
       "profitTrend": [
         284,
         334,
@@ -6320,7 +6320,7 @@
       "roe": 16.1,
       "eps": 98.1,
       "bookValue": 645.0,
-      "dividendYield": 2.14,
+      "dividendYield": 2.13,
       "profitTrend": [
         5572,
         8419,
@@ -6347,7 +6347,7 @@
       "roe": 0.0,
       "eps": 5.7,
       "bookValue": 15.2,
-      "dividendYield": 3.72,
+      "dividendYield": 3.82,
       "profitTrend": [
         306,
         351,
@@ -6374,7 +6374,7 @@
       "roe": 0.0,
       "eps": 15.1,
       "bookValue": 91.7,
-      "dividendYield": 0.42,
+      "dividendYield": 0.43,
       "profitTrend": [
         1003,
         1259,
@@ -6401,7 +6401,7 @@
       "roe": 0.0,
       "eps": 24.4,
       "bookValue": 159.4,
-      "dividendYield": 2.49,
+      "dividendYield": 2.5,
       "profitTrend": [
         9792,
         41730,
@@ -6455,7 +6455,7 @@
       "roe": 0.0,
       "eps": 17.4,
       "bookValue": 53.9,
-      "dividendYield": 1.93,
+      "dividendYield": 1.98,
       "profitTrend": [
         1006,
         1111,
@@ -6482,7 +6482,7 @@
       "roe": 12.6,
       "eps": 5.6,
       "bookValue": 46.4,
-      "dividendYield": 2.62,
+      "dividendYield": 2.68,
       "profitTrend": [
         6167,
         6412,
@@ -6509,7 +6509,7 @@
       "roe": 0.0,
       "eps": 7.0,
       "bookValue": 49.1,
-      "dividendYield": 1.38,
+      "dividendYield": 1.41,
       "profitTrend": [
         865,
         1252,
@@ -6563,7 +6563,7 @@
       "roe": 18.9,
       "eps": 27.1,
       "bookValue": 156.9,
-      "dividendYield": 3.65,
+      "dividendYield": 3.66,
       "profitTrend": [
         2040,
         6036,
@@ -6617,7 +6617,7 @@
       "roe": 0.0,
       "eps": 24.7,
       "bookValue": 585.3,
-      "dividendYield": 1.14,
+      "dividendYield": 1.18,
       "profitTrend": [
         -107,
         575,
@@ -6643,8 +6643,8 @@
       "debtToEquity": 0.1,
       "roe": 32.0,
       "eps": 73.4,
-      "bookValue": 225.5,
-      "dividendYield": 4.31,
+      "bookValue": 225.6,
+      "dividendYield": 4.42,
       "profitTrend": [
         298,
         317,
@@ -6752,7 +6752,7 @@
       "roe": 0.0,
       "eps": 13.6,
       "bookValue": 34.4,
-      "dividendYield": 1.56,
+      "dividendYield": 1.58,
       "profitTrend": [
         242,
         331,
@@ -6887,7 +6887,7 @@
       "roe": 0.0,
       "eps": 23.2,
       "bookValue": 210.2,
-      "dividendYield": 1.18,
+      "dividendYield": 1.2,
       "profitTrend": [
         262,
         786,
@@ -6914,7 +6914,7 @@
       "roe": 0.0,
       "eps": 10.9,
       "bookValue": 111.4,
-      "dividendYield": 1.44,
+      "dividendYield": 1.49,
       "profitTrend": [
         597,
         410,
@@ -6941,7 +6941,7 @@
       "roe": 0.0,
       "eps": 5.7,
       "bookValue": 48.8,
-      "dividendYield": 0.44,
+      "dividendYield": 0.43,
       "profitTrend": [
         137,
         90,
@@ -6995,7 +6995,7 @@
       "roe": 0.0,
       "eps": 7.1,
       "bookValue": 52.2,
-      "dividendYield": 0.26,
+      "dividendYield": 0.27,
       "profitTrend": [
         740,
         1156,
@@ -7022,7 +7022,7 @@
       "roe": 0.0,
       "eps": 101.3,
       "bookValue": 409.9,
-      "dividendYield": 0.58,
+      "dividendYield": 0.57,
       "profitTrend": [
         4144,
         8812,
@@ -7071,10 +7071,10 @@
       "price": 14.91,
       "changePct": -0.4,
       "marketCap": 10219,
-      "pe": 21.0,
+      "pe": 27.1,
       "debtToEquity": 0.27,
       "roe": 0.0,
-      "eps": 0.7,
+      "eps": 0.6,
       "bookValue": 13.0,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -7130,7 +7130,7 @@
       "roe": 4.1,
       "eps": 8.6,
       "bookValue": 198.4,
-      "dividendYield": 0.66,
+      "dividendYield": 0.68,
       "profitTrend": [
         644,
         1677,
@@ -7265,7 +7265,7 @@
       "roe": 0.0,
       "eps": 19.4,
       "bookValue": 197.8,
-      "dividendYield": 0.79,
+      "dividendYield": 0.8,
       "profitTrend": [
         307,
         183,
@@ -7346,7 +7346,7 @@
       "roe": 0.0,
       "eps": 26.7,
       "bookValue": 166.7,
-      "dividendYield": 0.45,
+      "dividendYield": 0.47,
       "profitTrend": [
         814,
         805,
@@ -7400,7 +7400,7 @@
       "roe": 0.0,
       "eps": 21.3,
       "bookValue": 130.1,
-      "dividendYield": 1.35,
+      "dividendYield": 1.4,
       "profitTrend": [
         381,
         595,
@@ -7427,7 +7427,7 @@
       "roe": 15.2,
       "eps": 14.1,
       "bookValue": 97.6,
-      "dividendYield": 0.56,
+      "dividendYield": 0.58,
       "profitTrend": [
         183,
         209,
@@ -7481,7 +7481,7 @@
       "roe": 0.0,
       "eps": 66.5,
       "bookValue": 455.4,
-      "dividendYield": 0.81,
+      "dividendYield": 0.82,
       "profitTrend": [
         441,
         510,
@@ -7535,7 +7535,7 @@
       "roe": 21.0,
       "eps": 30.6,
       "bookValue": 159.3,
-      "dividendYield": 0.73,
+      "dividendYield": 0.7,
       "profitTrend": [
         1106,
         1605,
@@ -7589,7 +7589,7 @@
       "roe": 0.0,
       "eps": 20.8,
       "bookValue": 231.4,
-      "dividendYield": 1.56,
+      "dividendYield": 1.6,
       "profitTrend": [
         176,
         347,
@@ -7616,7 +7616,7 @@
       "roe": 0.0,
       "eps": 19.7,
       "bookValue": 97.0,
-      "dividendYield": 1.35,
+      "dividendYield": 1.38,
       "profitTrend": [
         196,
         246,
@@ -7643,7 +7643,7 @@
       "roe": 0.0,
       "eps": 47.0,
       "bookValue": 310.3,
-      "dividendYield": 0.42,
+      "dividendYield": 0.41,
       "profitTrend": [
         235,
         348,
@@ -7751,7 +7751,7 @@
       "roe": 12.3,
       "eps": 13.6,
       "bookValue": 116.8,
-      "dividendYield": 1.08,
+      "dividendYield": 1.09,
       "profitTrend": [
         1623,
         2320,
@@ -7773,10 +7773,10 @@
       "price": 3611.3,
       "changePct": -2.78,
       "marketCap": 38311,
-      "pe": 29.4,
+      "pe": 28.3,
       "debtToEquity": 0.09,
       "roe": 0.0,
-      "eps": 122.7,
+      "eps": 127.5,
       "bookValue": 610.6,
       "dividendYield": 1.56,
       "profitTrend": [
@@ -7829,7 +7829,7 @@
       "roe": 0.0,
       "eps": 104.3,
       "bookValue": 753.1,
-      "dividendYield": 1.92,
+      "dividendYield": 1.96,
       "profitTrend": [
         2891,
         4763,
@@ -7856,7 +7856,7 @@
       "roe": 0.0,
       "eps": 18.4,
       "bookValue": 130.3,
-      "dividendYield": 0.96,
+      "dividendYield": 0.99,
       "profitTrend": [
         403,
         593,
@@ -7883,7 +7883,7 @@
       "roe": 21.0,
       "eps": 176.2,
       "bookValue": 872.7,
-      "dividendYield": 1.71,
+      "dividendYield": 1.76,
       "profitTrend": [
         4408,
         4582,
@@ -7910,7 +7910,7 @@
       "roe": 0.0,
       "eps": 120.5,
       "bookValue": 794.5,
-      "dividendYield": 1.05,
+      "dividendYield": 1.04,
       "profitTrend": [
         10471,
         13059,
@@ -8016,7 +8016,7 @@
       "roe": 0.0,
       "eps": 47.5,
       "bookValue": 139.6,
-      "dividendYield": 2.51,
+      "dividendYield": 2.54,
       "profitTrend": [
         35997,
         40916,
@@ -8042,7 +8042,7 @@
       "roe": 0.0,
       "eps": 64.1,
       "bookValue": 500.3,
-      "dividendYield": 0.06,
+      "dividendYield": 0.07,
       "profitTrend": [
         439,
         434,
@@ -8069,7 +8069,7 @@
       "roe": 0.0,
       "eps": 85.3,
       "bookValue": 246.5,
-      "dividendYield": 0.05,
+      "dividendYield": 0.06,
       "profitTrend": [
         -289,
         1243,
@@ -8096,7 +8096,7 @@
       "roe": 0.0,
       "eps": 41.2,
       "bookValue": 233.1,
-      "dividendYield": 0.4,
+      "dividendYield": 0.41,
       "profitTrend": [
         487,
         1549,
@@ -8123,7 +8123,7 @@
       "roe": 0.0,
       "eps": 120.7,
       "bookValue": 491.0,
-      "dividendYield": 0.92,
+      "dividendYield": 0.93,
       "profitTrend": [
         430,
         1914,
@@ -8231,7 +8231,7 @@
       "roe": 0.0,
       "eps": 72.4,
       "bookValue": 650.7,
-      "dividendYield": 3.42,
+      "dividendYield": 3.46,
       "profitTrend": [
         790,
         1285,
@@ -8258,7 +8258,7 @@
       "roe": 0.0,
       "eps": 23.4,
       "bookValue": 191.8,
-      "dividendYield": 2.41,
+      "dividendYield": 2.46,
       "profitTrend": [
         2072,
         1933,
@@ -8285,7 +8285,7 @@
       "roe": 0.0,
       "eps": 164.3,
       "bookValue": 833.0,
-      "dividendYield": 1.13,
+      "dividendYield": 1.14,
       "profitTrend": [
         10282,
         11269,
@@ -8312,7 +8312,7 @@
       "roe": 0.0,
       "eps": 16.2,
       "bookValue": 170.9,
-      "dividendYield": 1.23,
+      "dividendYield": 1.25,
       "profitTrend": [
         1496,
         2189,
@@ -8339,7 +8339,7 @@
       "roe": 0.0,
       "eps": 25.2,
       "bookValue": 81.3,
-      "dividendYield": 3.47,
+      "dividendYield": 3.45,
       "profitTrend": [
         2655,
         3597,
@@ -8501,7 +8501,7 @@
       "roe": 0.0,
       "eps": 70.8,
       "bookValue": 241.8,
-      "dividendYield": 0.87,
+      "dividendYield": 0.88,
       "profitTrend": [
         1119,
         1937,
@@ -8609,7 +8609,7 @@
       "roe": 0.0,
       "eps": 32.3,
       "bookValue": 214.1,
-      "dividendYield": 0.57,
+      "dividendYield": 0.59,
       "profitTrend": [
         932,
         2441,
@@ -8690,7 +8690,7 @@
       "roe": 31.7,
       "eps": 283.3,
       "bookValue": 1011.3,
-      "dividendYield": 1.15,
+      "dividendYield": 1.17,
       "profitTrend": [
         3612,
         4324,
@@ -8717,7 +8717,7 @@
       "roe": 0.0,
       "eps": 63.4,
       "bookValue": 514.9,
-      "dividendYield": 0.76,
+      "dividendYield": 0.74,
       "profitTrend": [
         715,
         1388,
@@ -8744,7 +8744,7 @@
       "roe": 0.0,
       "eps": 2.7,
       "bookValue": 11.1,
-      "dividendYield": 1.24,
+      "dividendYield": 1.28,
       "profitTrend": [
         267,
         402,
@@ -8771,7 +8771,7 @@
       "roe": 0.0,
       "eps": 11.1,
       "bookValue": 125.3,
-      "dividendYield": 1.75,
+      "dividendYield": 1.72,
       "profitTrend": [
         609,
         711,
@@ -8798,7 +8798,7 @@
       "roe": 0.0,
       "eps": 3.8,
       "bookValue": 41.1,
-      "dividendYield": 2.25,
+      "dividendYield": 2.28,
       "profitTrend": [
         3903,
         3596,
@@ -8825,7 +8825,7 @@
       "roe": 0.0,
       "eps": 23.6,
       "bookValue": 155.2,
-      "dividendYield": 1.52,
+      "dividendYield": 1.58,
       "profitTrend": [
         1396,
         1854,
@@ -8852,7 +8852,7 @@
       "roe": 0.0,
       "eps": 8.5,
       "bookValue": 38.8,
-      "dividendYield": 2.79,
+      "dividendYield": 2.84,
       "profitTrend": [
         5601,
         5575,
@@ -8933,7 +8933,7 @@
       "roe": 0.0,
       "eps": 28.6,
       "bookValue": 209.4,
-      "dividendYield": 3.92,
+      "dividendYield": 4.0,
       "profitTrend": [
         16913,
         20812,
@@ -8987,7 +8987,7 @@
       "roe": 0.0,
       "eps": 36.8,
       "bookValue": 117.6,
-      "dividendYield": 1.23,
+      "dividendYield": 1.26,
       "profitTrend": [
         1435,
         1988,
@@ -9014,7 +9014,7 @@
       "roe": 0.0,
       "eps": 26.7,
       "bookValue": 309.0,
-      "dividendYield": 1.56,
+      "dividendYield": 1.59,
       "profitTrend": [
         928,
         944,
@@ -9041,7 +9041,7 @@
       "roe": 0.0,
       "eps": 154.0,
       "bookValue": 775.5,
-      "dividendYield": 0.18,
+      "dividendYield": 0.19,
       "profitTrend": [
         375,
         270,
@@ -9068,7 +9068,7 @@
       "roe": 79.9,
       "eps": 21.1,
       "bookValue": 30.0,
-      "dividendYield": 0.95,
+      "dividendYield": 0.97,
       "profitTrend": [
         2118,
         2391,
@@ -9118,7 +9118,7 @@
       "roe": 0.0,
       "eps": 388.0,
       "bookValue": 1461.0,
-      "dividendYield": 0.17,
+      "dividendYield": 0.18,
       "profitTrend": [
         164,
         300,
@@ -9145,7 +9145,7 @@
       "roe": 0.0,
       "eps": 25.2,
       "bookValue": 73.0,
-      "dividendYield": 2.02,
+      "dividendYield": 2.07,
       "profitTrend": [
         723,
         1107,
@@ -9172,7 +9172,7 @@
       "roe": 0.0,
       "eps": 58.0,
       "bookValue": 226.4,
-      "dividendYield": 1.64,
+      "dividendYield": 1.66,
       "profitTrend": [
         305,
         625,
@@ -9226,7 +9226,7 @@
       "roe": 14.7,
       "eps": 72.3,
       "bookValue": 525.1,
-      "dividendYield": 0.47,
+      "dividendYield": 0.48,
       "profitTrend": [
         1905,
         1927,
@@ -9253,7 +9253,7 @@
       "roe": 0.0,
       "eps": 34.6,
       "bookValue": 295.5,
-      "dividendYield": 6.53,
+      "dividendYield": 6.44,
       "profitTrend": [
         36709,
         49144,
@@ -9280,7 +9280,7 @@
       "roe": 0.0,
       "eps": 51.4,
       "bookValue": 356.6,
-      "dividendYield": 2.92,
+      "dividendYield": 2.9,
       "profitTrend": [
         8729,
         6335,
@@ -9415,7 +9415,7 @@
       "roe": 49.9,
       "eps": 391.3,
       "bookValue": 795.6,
-      "dividendYield": 3.85,
+      "dividendYield": 3.92,
       "profitTrend": [
         1806,
         2219,
@@ -9469,7 +9469,7 @@
       "roe": 0.0,
       "eps": 6.6,
       "bookValue": 101.8,
-      "dividendYield": 1.45,
+      "dividendYield": 1.49,
       "profitTrend": [
         442,
         491,
@@ -9523,7 +9523,7 @@
       "roe": 0.0,
       "eps": 76.8,
       "bookValue": 740.3,
-      "dividendYield": 0.68,
+      "dividendYield": 0.69,
       "profitTrend": [
         1230,
         1682,
@@ -9550,7 +9550,7 @@
       "roe": 0.0,
       "eps": 88.7,
       "bookValue": 737.6,
-      "dividendYield": 0.69,
+      "dividendYield": 0.7,
       "profitTrend": [
         1046,
         1508,
@@ -9629,9 +9629,9 @@
       "pe": 52.8,
       "debtToEquity": 0.18,
       "roe": 0.0,
-      "eps": 677.6,
+      "eps": 677.7,
       "bookValue": 1347.2,
-      "dividendYield": 2.21,
+      "dividendYield": 2.24,
       "profitTrend": [
         571,
         569,
@@ -9658,7 +9658,7 @@
       "roe": 0.0,
       "eps": 10.3,
       "bookValue": 65.4,
-      "dividendYield": 1.02,
+      "dividendYield": 1.04,
       "profitTrend": [
         304,
         100,
@@ -9685,7 +9685,7 @@
       "roe": 0.0,
       "eps": 18.1,
       "bookValue": 120.5,
-      "dividendYield": 1.1,
+      "dividendYield": 1.11,
       "profitTrend": [
         886,
         765,
@@ -9820,7 +9820,7 @@
       "roe": 0.0,
       "eps": 26.0,
       "bookValue": 106.4,
-      "dividendYield": 0.77,
+      "dividendYield": 0.78,
       "profitTrend": [
         1273,
         1729,
@@ -9868,11 +9868,11 @@
       "sector": "Financial Services",
       "price": 1948.7,
       "changePct": -0.08,
-      "marketCap": 46018,
-      "pe": 26.2,
+      "marketCap": 46092,
+      "pe": 23.3,
       "debtToEquity": 2.87,
       "roe": 6.0,
-      "eps": 74.3,
+      "eps": 83.6,
       "bookValue": 1271.7,
       "dividendYield": 0.56,
       "profitTrend": [
@@ -9928,7 +9928,7 @@
       "roe": 0.0,
       "eps": 31.1,
       "bookValue": 306.4,
-      "dividendYield": 0.22,
+      "dividendYield": 0.23,
       "profitTrend": [
         179,
         258,
@@ -9955,7 +9955,7 @@
       "roe": 26.8,
       "eps": 209.9,
       "bookValue": 868.9,
-      "dividendYield": 0.57,
+      "dividendYield": 0.59,
       "profitTrend": [
         1271,
         1784,
@@ -10009,7 +10009,7 @@
       "roe": 0.0,
       "eps": 78.9,
       "bookValue": 433.1,
-      "dividendYield": 4.68,
+      "dividendYield": 4.69,
       "profitTrend": [
         15889,
         19761,
@@ -10036,7 +10036,7 @@
       "roe": 0.0,
       "eps": 17.1,
       "bookValue": 108.1,
-      "dividendYield": 3.59,
+      "dividendYield": 3.6,
       "profitTrend": [
         15420,
         15573,
@@ -10090,7 +10090,7 @@
       "roe": 7.8,
       "eps": 26.4,
       "bookValue": 377.8,
-      "dividendYield": 0.13,
+      "dividendYield": 0.14,
       "profitTrend": [
         942,
         1374,
@@ -10171,7 +10171,7 @@
       "roe": 15.1,
       "eps": 19.9,
       "bookValue": 140.0,
-      "dividendYield": 2.58,
+      "dividendYield": 2.46,
       "profitTrend": [
         3348,
         9107,
@@ -10225,7 +10225,7 @@
       "roe": 4.0,
       "eps": 13.8,
       "bookValue": 280.8,
-      "dividendYield": 0.26,
+      "dividendYield": 0.27,
       "profitTrend": [
         920,
         1260,
@@ -10252,7 +10252,7 @@
       "roe": 0.0,
       "eps": 60.8,
       "bookValue": 319.8,
-      "dividendYield": 4.42,
+      "dividendYield": 4.5,
       "profitTrend": [
         11167,
         14145,
@@ -10279,7 +10279,7 @@
       "roe": 0.0,
       "eps": -17.1,
       "bookValue": 172.4,
-      "dividendYield": 0.68,
+      "dividendYield": 0.69,
       "profitTrend": [
         -466,
         -100,
@@ -10306,7 +10306,7 @@
       "roe": 0.0,
       "eps": 8.7,
       "bookValue": 55.7,
-      "dividendYield": 5.24,
+      "dividendYield": 5.4,
       "profitTrend": [
         542,
         455,
@@ -10360,7 +10360,7 @@
       "roe": 0.0,
       "eps": 4.3,
       "bookValue": 47.1,
-      "dividendYield": 0.86,
+      "dividendYield": 0.88,
       "profitTrend": [
         1342,
         1551,
@@ -10387,7 +10387,7 @@
       "roe": 16.3,
       "eps": 10.8,
       "bookValue": 70.5,
-      "dividendYield": 1.27,
+      "dividendYield": 1.3,
       "profitTrend": [
         188,
         246,
@@ -10441,7 +10441,7 @@
       "roe": 0.0,
       "eps": 5.8,
       "bookValue": 181.8,
-      "dividendYield": 0.14,
+      "dividendYield": 0.15,
       "profitTrend": [
         248,
         291,
@@ -10468,7 +10468,7 @@
       "roe": 0.0,
       "eps": 21.8,
       "bookValue": 130.0,
-      "dividendYield": 1.56,
+      "dividendYield": 1.62,
       "profitTrend": [
         1393,
         1219,
@@ -10626,7 +10626,7 @@
       "roe": 0.0,
       "eps": 1.6,
       "bookValue": 36.2,
-      "dividendYield": 2.78,
+      "dividendYield": 2.93,
       "profitTrend": [
         1359,
         911,
@@ -10680,7 +10680,7 @@
       "roe": 0.0,
       "eps": 73.2,
       "bookValue": 473.7,
-      "dividendYield": 0.4,
+      "dividendYield": 0.41,
       "profitTrend": [
         2162,
         1336,
@@ -10707,7 +10707,7 @@
       "roe": 0.0,
       "eps": 2.1,
       "bookValue": 21.0,
-      "dividendYield": 0.44,
+      "dividendYield": 0.45,
       "profitTrend": [
         144,
         228,
@@ -10788,7 +10788,7 @@
       "roe": 0.0,
       "eps": 4.2,
       "bookValue": 38.9,
-      "dividendYield": 0.31,
+      "dividendYield": 0.32,
       "profitTrend": [
         1496,
         2716,
@@ -10842,7 +10842,7 @@
       "roe": 0.0,
       "eps": 32.0,
       "bookValue": 209.0,
-      "dividendYield": 0.41,
+      "dividendYield": 0.42,
       "profitTrend": [
         602,
         523,
@@ -10869,7 +10869,7 @@
       "roe": 21.6,
       "eps": 80.2,
       "bookValue": 392.5,
-      "dividendYield": 0.95,
+      "dividendYield": 0.97,
       "profitTrend": [
         879,
         899,
@@ -10923,7 +10923,7 @@
       "roe": 0.0,
       "eps": 34.7,
       "bookValue": 195.4,
-      "dividendYield": 2.63,
+      "dividendYield": 2.72,
       "profitTrend": [
         870,
         679,
@@ -10950,7 +10950,7 @@
       "roe": 0.0,
       "eps": 451.8,
       "bookValue": 6448.7,
-      "dividendYield": 0.62,
+      "dividendYield": 0.63,
       "profitTrend": [
         1271,
         2396,
@@ -10977,7 +10977,7 @@
       "roe": 18.5,
       "eps": 56.6,
       "bookValue": 350.3,
-      "dividendYield": 1.15,
+      "dividendYield": 1.17,
       "profitTrend": [
         6011,
         7366,
@@ -11004,7 +11004,7 @@
       "roe": 0.0,
       "eps": 40.1,
       "bookValue": 404.4,
-      "dividendYield": 0.38,
+      "dividendYield": 0.37,
       "profitTrend": [
         853,
         1035,
@@ -11105,12 +11105,12 @@
       "price": 1176.0,
       "changePct": -1.04,
       "marketCap": 12578,
-      "pe": 54.5,
+      "pe": 65.8,
       "debtToEquity": 0.25,
       "roe": 0.0,
-      "eps": 21.6,
+      "eps": 17.9,
       "bookValue": 441.3,
-      "dividendYield": 0.5,
+      "dividendYield": 0.51,
       "profitTrend": [
         104,
         49,
@@ -11218,7 +11218,7 @@
       "roe": 15.2,
       "eps": 93.3,
       "bookValue": 673.8,
-      "dividendYield": 1.8,
+      "dividendYield": 1.78,
       "profitTrend": [
         55648,
         67085,
@@ -11245,7 +11245,7 @@
       "roe": 0.0,
       "eps": 10.3,
       "bookValue": 146.0,
-      "dividendYield": 1.37,
+      "dividendYield": 1.39,
       "profitTrend": [
         2177,
         3067,
@@ -11299,7 +11299,7 @@
       "roe": 0.0,
       "eps": 11.6,
       "bookValue": 67.9,
-      "dividendYield": 0.32,
+      "dividendYield": 0.33,
       "profitTrend": [
         502,
         370,
@@ -11326,7 +11326,7 @@
       "roe": 0.0,
       "eps": 50.4,
       "bookValue": 348.3,
-      "dividendYield": 0.91,
+      "dividendYield": 0.92,
       "profitTrend": [
         8474,
         9576,
@@ -11380,7 +11380,7 @@
       "roe": 0.0,
       "eps": 201.4,
       "bookValue": 1340.5,
-      "dividendYield": 0.94,
+      "dividendYield": 0.95,
       "profitTrend": [
         1328,
         1436,
@@ -11407,7 +11407,7 @@
       "roe": 0.0,
       "eps": 81.3,
       "bookValue": 485.7,
-      "dividendYield": 1.0,
+      "dividendYield": 0.99,
       "profitTrend": [
         865,
         1070,
@@ -11515,7 +11515,7 @@
       "roe": 0.0,
       "eps": 5.5,
       "bookValue": 120.4,
-      "dividendYield": 0.32,
+      "dividendYield": 0.31,
       "profitTrend": [
         464,
         510,
@@ -11542,7 +11542,7 @@
       "roe": 0.0,
       "eps": 19.2,
       "bookValue": 149.6,
-      "dividendYield": 0.09,
+      "dividendYield": 0.1,
       "profitTrend": [
         119,
         107,
@@ -11674,7 +11674,7 @@
       "roe": 0.0,
       "eps": -85.0,
       "bookValue": 832.4,
-      "dividendYield": 1.74,
+      "dividendYield": 1.73,
       "profitTrend": [
         2317,
         268,
@@ -11701,7 +11701,7 @@
       "roe": 33.8,
       "eps": 38.7,
       "bookValue": 119.3,
-      "dividendYield": 1.0,
+      "dividendYield": 1.02,
       "profitTrend": [
         1796,
         968,
@@ -11755,7 +11755,7 @@
       "roe": 0.0,
       "eps": 16.5,
       "bookValue": 220.2,
-      "dividendYield": 1.02,
+      "dividendYield": 1.03,
       "profitTrend": [
         1204,
         1150,
@@ -11782,7 +11782,7 @@
       "roe": 23.9,
       "eps": 107.6,
       "bookValue": 467.6,
-      "dividendYield": 1.95,
+      "dividendYield": 1.98,
       "profitTrend": [
         755,
         792,
@@ -11809,7 +11809,7 @@
       "roe": 0.0,
       "eps": 5.9,
       "bookValue": 577.5,
-      "dividendYield": 0.55,
+      "dividendYield": 0.56,
       "profitTrend": [
         252,
         385,
@@ -11836,7 +11836,7 @@
       "roe": 0.0,
       "eps": 11.3,
       "bookValue": 34.6,
-      "dividendYield": 0.95,
+      "dividendYield": 0.96,
       "profitTrend": [
         32045,
         3195,
@@ -11862,7 +11862,7 @@
       "roe": 0.0,
       "eps": -9.2,
       "bookValue": 304.3,
-      "dividendYield": 1.05,
+      "dividendYield": 1.08,
       "profitTrend": [
         2414,
         31399,
@@ -11916,7 +11916,7 @@
       "roe": 0.0,
       "eps": 8.8,
       "bookValue": 81.8,
-      "dividendYield": 2.28,
+      "dividendYield": 2.3,
       "profitTrend": [
         8760,
         -4437,
@@ -11943,7 +11943,7 @@
       "roe": 15.2,
       "eps": 13.9,
       "bookValue": 94.3,
-      "dividendYield": 1.15,
+      "dividendYield": 1.18,
       "profitTrend": [
         624,
         679,
@@ -11997,7 +11997,7 @@
       "roe": 19.2,
       "eps": 62.2,
       "bookValue": 334.9,
-      "dividendYield": 2.85,
+      "dividendYield": 2.87,
       "profitTrend": [
         4831,
         2358,
@@ -12051,7 +12051,7 @@
       "roe": 0.0,
       "eps": 3.8,
       "bookValue": 453.5,
-      "dividendYield": 0.1,
+      "dividendYield": 0.11,
       "profitTrend": [
         184,
         194,
@@ -12132,7 +12132,7 @@
       "roe": 0.0,
       "eps": 125.8,
       "bookValue": 455.6,
-      "dividendYield": 0.35,
+      "dividendYield": 0.36,
       "profitTrend": [
         80,
         123,
@@ -12159,7 +12159,7 @@
       "roe": 0.0,
       "eps": 4.7,
       "bookValue": 233.9,
-      "dividendYield": 0.84,
+      "dividendYield": 0.86,
       "profitTrend": [
         1048,
         1116,
@@ -12185,7 +12185,7 @@
       "roe": 0.0,
       "eps": 27.3,
       "bookValue": 342.5,
-      "dividendYield": 0.31,
+      "dividendYield": 0.32,
       "profitTrend": [
         315,
         360,
@@ -12212,7 +12212,7 @@
       "roe": 0.0,
       "eps": 52.7,
       "bookValue": 492.6,
-      "dividendYield": 0.42,
+      "dividendYield": 0.43,
       "profitTrend": [
         450,
         645,
@@ -12266,7 +12266,7 @@
       "roe": 0.0,
       "eps": 14.0,
       "bookValue": 180.7,
-      "dividendYield": 0.13,
+      "dividendYield": 0.14,
       "profitTrend": [
         130,
         286,
@@ -12347,7 +12347,7 @@
       "roe": 0.0,
       "eps": 46.1,
       "bookValue": 378.6,
-      "dividendYield": 1.63,
+      "dividendYield": 1.65,
       "profitTrend": [
         2117,
         1833,
@@ -12428,7 +12428,7 @@
       "roe": 0.0,
       "eps": 0.8,
       "bookValue": 9.4,
-      "dividendYield": 2.25,
+      "dividendYield": 2.28,
       "profitTrend": [
         441,
         350,
@@ -12455,7 +12455,7 @@
       "roe": 0.0,
       "eps": 10.6,
       "bookValue": 45.6,
-      "dividendYield": 0.81,
+      "dividendYield": 0.83,
       "profitTrend": [
         193,
         269,
@@ -12509,7 +12509,7 @@
       "roe": 8.9,
       "eps": 2.4,
       "bookValue": 27.7,
-      "dividendYield": 1.85,
+      "dividendYield": 1.86,
       "profitTrend": [
         1826,
         1672,
@@ -12563,7 +12563,7 @@
       "roe": 0.0,
       "eps": 24.9,
       "bookValue": 411.0,
-      "dividendYield": 1.12,
+      "dividendYield": 1.13,
       "profitTrend": [
         3570,
         -1200,
@@ -12590,7 +12590,7 @@
       "roe": 0.0,
       "eps": 35.8,
       "bookValue": 350.5,
-      "dividendYield": 4.6,
+      "dividendYield": 4.61,
       "profitTrend": [
         437,
         766,
@@ -12612,12 +12612,12 @@
       "price": 10650.0,
       "changePct": -2.36,
       "marketCap": 313179,
-      "pe": 36.7,
-      "debtToEquity": 0.29,
-      "roe": 0.0,
-      "eps": 290.1,
-      "bookValue": 2605.1,
-      "dividendYield": 2.2,
+      "pe": 35.6,
+      "debtToEquity": 0.38,
+      "roe": 11.5,
+      "eps": 299.0,
+      "bookValue": 2501.6,
+      "dividendYield": 2.25,
       "profitTrend": [
         5064,
         7005,
@@ -12639,12 +12639,12 @@
       "price": 180.7,
       "changePct": 5.25,
       "marketCap": 137939,
-      "pe": 6.7,
+      "pe": 6.3,
       "debtToEquity": 0.0,
-      "roe": 15.8,
-      "eps": 27.1,
-      "bookValue": 182.8,
-      "dividendYield": 2.91,
+      "roe": 16.3,
+      "eps": 28.8,
+      "bookValue": 186.9,
+      "dividendYield": 2.77,
       "profitTrend": [
         8512,
         13797,
@@ -12698,7 +12698,7 @@
       "roe": 0.0,
       "eps": 23.8,
       "bookValue": 126.1,
-      "dividendYield": 1.23,
+      "dividendYield": 1.25,
       "profitTrend": [
         1137,
         1408,
@@ -12752,7 +12752,7 @@
       "roe": 0.0,
       "eps": 17.5,
       "bookValue": 108.5,
-      "dividendYield": 0.76,
+      "dividendYield": 0.77,
       "profitTrend": [
         350,
         424,
@@ -12779,7 +12779,7 @@
       "roe": 0.0,
       "eps": 29.8,
       "bookValue": 369.4,
-      "dividendYield": 0.94,
+      "dividendYield": 0.95,
       "profitTrend": [
         795,
         632,
@@ -12806,7 +12806,7 @@
       "roe": 16.9,
       "eps": 10.0,
       "bookValue": 64.4,
-      "dividendYield": 0.46,
+      "dividendYield": 0.48,
       "profitTrend": [
         1497,
         2056,
@@ -12833,7 +12833,7 @@
       "roe": 0.0,
       "eps": 9.8,
       "bookValue": 0.0,
-      "dividendYield": 4.3,
+      "dividendYield": 4.31,
       "profitTrend": [
         0,
         0,
@@ -12884,7 +12884,7 @@
       "roe": 0.0,
       "eps": 23.8,
       "bookValue": 127.2,
-      "dividendYield": 6.5,
+      "dividendYield": 6.58,
       "profitTrend": [
         10574,
         4239,
@@ -12965,7 +12965,7 @@
       "roe": 0.0,
       "eps": 18.2,
       "bookValue": 93.1,
-      "dividendYield": 0.14,
+      "dividendYield": 0.15,
       "profitTrend": [
         85,
         119,
@@ -13154,7 +13154,7 @@
       "roe": 0.0,
       "eps": 19.8,
       "bookValue": 327.9,
-      "dividendYield": 0.59,
+      "dividendYield": 0.6,
       "profitTrend": [
         219,
         217,
@@ -13181,7 +13181,7 @@
       "roe": 15.9,
       "eps": 12.7,
       "bookValue": 80.3,
-      "dividendYield": 4.34,
+      "dividendYield": 4.39,
       "profitTrend": [
         11350,
         11045,
@@ -13230,11 +13230,11 @@
       "price": 16.88,
       "changePct": -3.54,
       "marketCap": 52986,
-      "pe": 14.2,
+      "pe": 12.8,
       "debtToEquity": 0.0,
-      "roe": 7.5,
-      "eps": 1.2,
-      "bookValue": 16.3,
+      "roe": 8.2,
+      "eps": 1.3,
+      "bookValue": 17.2,
       "dividendYield": 0.0,
       "profitTrend": [
         736,
@@ -13289,7 +13289,7 @@
       "roe": 0.0,
       "eps": 2.1,
       "bookValue": 123.7,
-      "dividendYield": 2.78,
+      "dividendYield": 2.73,
       "profitTrend": [
         48,
         141,
@@ -13343,7 +13343,7 @@
       "roe": 0.0,
       "eps": 33.7,
       "bookValue": 207.4,
-      "dividendYield": 2.95,
+      "dividendYield": 2.92,
       "profitTrend": [
         328,
         665,

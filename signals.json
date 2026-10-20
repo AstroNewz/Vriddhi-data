@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T00:09:06+05:30",
+  "lastUpdated": "2026-10-20T22:15:46+05:30",
   "reportType": "daily",
   "signals": [
     {
@@ -47,7 +47,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 16.3 vs Financial Services median 20.9",
+        "Very cheap: P/E 16.4 vs Financial Services median 20.9",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -118,7 +118,7 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Overbought (RSI 71) — may be due a pullback"
+        "Overbought (RSI 84) — may be due a pullback"
       ]
     },
     {
@@ -127,7 +127,7 @@
       "score": 10.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 6.7 vs Financial Services median 20.9",
+        "Very cheap: P/E 6.3 vs Financial Services median 20.9",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -276,7 +276,7 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Overbought (RSI 81) — may be due a pullback"
+        "Overbought (RSI 82) — may be due a pullback"
       ]
     },
     {
@@ -291,7 +291,7 @@
         "Trading above its 200-day average (uptrend)"
       ],
       "cautions": [
-        "Overbought (RSI 70) — may be due a pullback"
+        "Overbought (RSI 72) — may be due a pullback"
       ]
     },
     {
@@ -422,7 +422,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 9.5 vs Financial Services median 20.9",
+        "Very cheap: P/E 10.6 vs Financial Services median 20.9",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years"
       ],
