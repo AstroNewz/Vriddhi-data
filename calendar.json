@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T22:15:46+05:30",
+  "lastUpdated": "2026-10-21T22:32:36+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -1423,13 +1423,6 @@
       "earnings": "2026-07-23"
     },
     {
-      "symbol": "BANKBARODA",
-      "name": "Bank of Baroda",
-      "exDividend": "2026-06-05",
-      "earnings": "2026-07-24",
-      "dividendRate": 8.5
-    },
-    {
       "symbol": "CONCOR",
       "name": "Container Corporation of India",
       "exDividend": "2026-09-21",
@@ -1469,13 +1462,6 @@
       "exDividend": "2026-09-30",
       "earnings": "2026-07-24",
       "dividendRate": 2.35
-    },
-    {
-      "symbol": "TATACONSUM",
-      "name": "Tata Consumer Products",
-      "exDividend": "2026-05-25",
-      "earnings": "2026-07-24",
-      "dividendRate": 10.0
     },
     {
       "symbol": "NIACL",
@@ -1524,12 +1510,6 @@
       "exDividend": "2026-09-11",
       "earnings": "2026-07-28",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "SUZLON",
-      "name": "Suzlon Energy",
-      "exDividend": "2008-07-17",
-      "earnings": "2026-07-28"
     },
     {
       "symbol": "VBL",
@@ -1586,13 +1566,6 @@
       "dividendRate": 6.0
     },
     {
-      "symbol": "SYNGENE",
-      "name": "Syngene International",
-      "exDividend": "2026-06-25",
-      "earnings": "2026-07-29",
-      "dividendRate": 1.25
-    },
-    {
       "symbol": "AARTIIND",
       "name": "Aarti Industries",
       "exDividend": "2026-09-11",
@@ -1614,13 +1587,6 @@
       "dividendRate": 2.0
     },
     {
-      "symbol": "LICHSGFIN",
-      "name": "LIC Housing Finance",
-      "exDividend": "2026-08-21",
-      "earnings": "2026-07-30",
-      "dividendRate": 10.0
-    },
-    {
       "symbol": "MGL",
       "name": "Mahanagar Gas",
       "exDividend": "2026-08-18",
@@ -1633,20 +1599,6 @@
       "exDividend": "2025-08-08",
       "earnings": "2026-07-30",
       "dividendRate": 2.0
-    },
-    {
-      "symbol": "TATASTEEL",
-      "name": "Tata Steel",
-      "exDividend": "2026-06-12",
-      "earnings": "2026-07-30",
-      "dividendRate": 4.0
-    },
-    {
-      "symbol": "THERMAX",
-      "name": "Thermax",
-      "exDividend": "2026-07-03",
-      "earnings": "2026-07-30",
-      "dividendRate": 14.0
     },
     {
       "symbol": "VEDL",
@@ -1729,13 +1681,6 @@
       "exDividend": "2026-07-17",
       "earnings": "2026-08-03",
       "dividendRate": 6.0
-    },
-    {
-      "symbol": "DEEPAKNTR",
-      "name": "Deepak Nitrite",
-      "exDividend": "2026-07-27",
-      "earnings": "2026-08-04",
-      "dividendRate": 7.5
     },
     {
       "symbol": "EMAMILTD",
@@ -1830,13 +1775,6 @@
       "dividendRate": 1.0
     },
     {
-      "symbol": "HEROMOTOCO",
-      "name": "Hero MotoCorp",
-      "exDividend": "2026-07-24",
-      "earnings": "2026-08-06",
-      "dividendRate": 185.0
-    },
-    {
       "symbol": "NCC",
       "name": "NCC",
       "exDividend": "2026-08-14",
@@ -1896,13 +1834,6 @@
       "dividendRate": 2.5
     },
     {
-      "symbol": "TITAN",
-      "name": "Titan Company",
-      "exDividend": "2026-07-09",
-      "earnings": "2026-08-07",
-      "dividendRate": 15.0
-    },
-    {
       "symbol": "DELHIVERY",
       "name": "Delhivery",
       "earnings": "2026-08-08"
@@ -1926,13 +1857,6 @@
       "exDividend": "2026-08-11",
       "earnings": "2026-08-10",
       "dividendRate": 20.0
-    },
-    {
-      "symbol": "NAUKRI",
-      "name": "Info Edge (India)",
-      "exDividend": "2026-07-24",
-      "earnings": "2026-08-10",
-      "dividendRate": 14.4
     },
     {
       "symbol": "IDEA",
@@ -2762,6 +2686,13 @@
       "dividendRate": 36.0
     },
     {
+      "symbol": "TATACONSUM",
+      "name": "Tata Consumer Products",
+      "exDividend": "2026-05-25",
+      "earnings": "2026-10-26",
+      "dividendRate": 10.0
+    },
+    {
       "symbol": "ACC",
       "name": "ACC",
       "exDividend": "2026-06-12",
@@ -2850,6 +2781,20 @@
       "earnings": "2026-10-27"
     },
     {
+      "symbol": "SYNGENE",
+      "name": "Syngene International",
+      "exDividend": "2026-06-25",
+      "earnings": "2026-10-27",
+      "dividendRate": 1.25
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel",
+      "exDividend": "2026-06-12",
+      "earnings": "2026-10-27",
+      "dividendRate": 4.0
+    },
+    {
       "symbol": "UBL",
       "name": "United Breweries",
       "exDividend": "2026-08-07",
@@ -2892,11 +2837,25 @@
       "dividendRate": 2.0
     },
     {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp",
+      "exDividend": "2026-07-24",
+      "earnings": "2026-10-28",
+      "dividendRate": 185.0
+    },
+    {
       "symbol": "HINDUNILVR",
       "name": "Hindustan Unilever",
       "exDividend": "2026-06-23",
       "earnings": "2026-10-28",
       "dividendRate": 44.0
+    },
+    {
+      "symbol": "NAUKRI",
+      "name": "Info Edge (India)",
+      "exDividend": "2026-07-24",
+      "earnings": "2026-10-28",
+      "dividendRate": 14.4
     },
     {
       "symbol": "KPRMILL",
@@ -2962,6 +2921,13 @@
       "dividendRate": 12.8
     },
     {
+      "symbol": "DEEPAKNTR",
+      "name": "Deepak Nitrite",
+      "exDividend": "2026-07-27",
+      "earnings": "2026-10-29",
+      "dividendRate": 7.5
+    },
+    {
       "symbol": "GODREJCP",
       "name": "Godrej Consumer Products",
       "exDividend": "2026-08-13",
@@ -2974,6 +2940,12 @@
       "exDividend": "2026-05-08",
       "earnings": "2026-10-29",
       "dividendRate": 2.4
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy",
+      "exDividend": "2008-07-17",
+      "earnings": "2026-10-29"
     },
     {
       "symbol": "TIMKEN",
@@ -2995,6 +2967,13 @@
       "earnings": "2026-10-30"
     },
     {
+      "symbol": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "exDividend": "2026-06-05",
+      "earnings": "2026-10-30",
+      "dividendRate": 8.5
+    },
+    {
       "symbol": "BEL",
       "name": "Bharat Electronics",
       "exDividend": "2026-08-13",
@@ -3014,6 +2993,13 @@
       "exDividend": "2026-08-14",
       "earnings": "2026-10-30",
       "dividendRate": 3.25
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "name": "LIC Housing Finance",
+      "exDividend": "2026-08-21",
+      "earnings": "2026-10-30",
+      "dividendRate": 10.0
     },
     {
       "symbol": "MSUMI",
@@ -3189,6 +3175,20 @@
       "exDividend": "2026-07-08",
       "earnings": "2026-11-05",
       "dividendRate": 62.0
+    },
+    {
+      "symbol": "THERMAX",
+      "name": "Thermax",
+      "exDividend": "2026-07-03",
+      "earnings": "2026-11-05",
+      "dividendRate": 14.0
+    },
+    {
+      "symbol": "TITAN",
+      "name": "Titan Company",
+      "exDividend": "2026-07-09",
+      "earnings": "2026-11-05",
+      "dividendRate": 15.0
     },
     {
       "symbol": "BOSCHLTD",
