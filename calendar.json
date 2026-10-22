@@ -1,11 +1,6 @@
 {
-  "lastUpdated": "2026-10-21T22:32:36+05:30",
+  "lastUpdated": "2026-10-22T22:31:35+05:30",
   "events": [
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19"
-    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -1272,6 +1267,12 @@
       "dividendRate": 2.5
     },
     {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19",
+      "earnings": "2025-08-12"
+    },
+    {
       "symbol": "NSLNISP",
       "name": "NMDC Steel",
       "earnings": "2025-08-13"
@@ -1309,12 +1310,6 @@
       "name": "ACME Solar Holdings",
       "exDividend": "2026-02-06",
       "dividendRate": 0.2
-    },
-    {
-      "symbol": "HEXT",
-      "name": "Hexaware Technologies",
-      "exDividend": "2026-05-05",
-      "dividendRate": 8.5
     },
     {
       "symbol": "NUVAMA",
@@ -1383,13 +1378,6 @@
       "dividendRate": 3.4
     },
     {
-      "symbol": "JSWENERGY",
-      "name": "JSW Energy",
-      "exDividend": "2026-06-05",
-      "earnings": "2026-07-22",
-      "dividendRate": 2.0
-    },
-    {
       "symbol": "AFCONS",
       "name": "Afcons Infrastructure",
       "exDividend": "2026-07-23",
@@ -1415,12 +1403,6 @@
       "exDividend": "2025-08-13",
       "earnings": "2026-07-23",
       "dividendRate": 10.0
-    },
-    {
-      "symbol": "PVRINOX",
-      "name": "PVR INOX",
-      "exDividend": "2020-03-05",
-      "earnings": "2026-07-23"
     },
     {
       "symbol": "CONCOR",
@@ -1455,13 +1437,6 @@
       "exDividend": "2026-08-14",
       "earnings": "2026-07-24",
       "dividendRate": 13.6
-    },
-    {
-      "symbol": "SAIL",
-      "name": "Steel Authority of India",
-      "exDividend": "2026-09-30",
-      "earnings": "2026-07-24",
-      "dividendRate": 2.35
     },
     {
       "symbol": "NIACL",
@@ -2667,6 +2642,12 @@
       "dividendRate": 10.0
     },
     {
+      "symbol": "HEXT",
+      "name": "Hexaware Technologies",
+      "exDividend": "2026-10-26",
+      "dividendRate": 8.5
+    },
+    {
       "symbol": "PAYTM",
       "name": "One 97 Communications",
       "earnings": "2026-10-26"
@@ -2735,6 +2716,13 @@
       "dividendRate": 14.0
     },
     {
+      "symbol": "JSWENERGY",
+      "name": "JSW Energy",
+      "exDividend": "2026-06-05",
+      "earnings": "2026-10-27",
+      "dividendRate": 2.0
+    },
+    {
       "symbol": "LT",
       "name": "Larsen & Toubro",
       "exDividend": "2026-05-22",
@@ -2779,6 +2767,13 @@
       "symbol": "STARHEALTH",
       "name": "Star Health and Allied Insurance Company",
       "earnings": "2026-10-27"
+    },
+    {
+      "symbol": "SAIL",
+      "name": "Steel Authority of India",
+      "exDividend": "2026-09-30",
+      "earnings": "2026-10-27",
+      "dividendRate": 2.35
     },
     {
       "symbol": "SYNGENE",
@@ -2863,6 +2858,12 @@
       "exDividend": "2026-07-20",
       "earnings": "2026-10-28",
       "dividendRate": 5.0
+    },
+    {
+      "symbol": "PVRINOX",
+      "name": "PVR INOX",
+      "exDividend": "2020-03-05",
+      "earnings": "2026-10-28"
     },
     {
       "symbol": "PIDILITIND",
