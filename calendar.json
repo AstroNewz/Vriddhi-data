@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-10-23T22:24:11+05:30",
+  "lastUpdated": "2026-10-27T00:06:27+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -113,9 +118,9 @@
     {
       "symbol": "SAGILITY",
       "name": "Sagility",
-      "exDividend": "2026-08-07",
+      "exDividend": "2026-10-30",
       "earnings": "2025-05-14",
-      "dividendRate": 0.2
+      "dividendRate": 0.3
     },
     {
       "symbol": "ABDL",
@@ -210,7 +215,7 @@
       "name": "Angel One",
       "exDividend": "2026-10-22",
       "earnings": "2025-07-14",
-      "dividendRate": 5.05
+      "dividendRate": 6.45
     },
     {
       "symbol": "MAHABANK",
@@ -1267,12 +1272,6 @@
       "dividendRate": 2.5
     },
     {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
-    },
-    {
       "symbol": "NSLNISP",
       "name": "NMDC Steel",
       "earnings": "2025-08-13"
@@ -1390,27 +1389,6 @@
       "dividendRate": 10.0
     },
     {
-      "symbol": "LODHA",
-      "name": "Lodha Developers",
-      "exDividend": "2026-08-07",
-      "earnings": "2026-07-24",
-      "dividendRate": 4.25
-    },
-    {
-      "symbol": "NTPC",
-      "name": "NTPC",
-      "exDividend": "2026-09-02",
-      "earnings": "2026-07-24",
-      "dividendRate": 9.0
-    },
-    {
-      "symbol": "NIACL",
-      "name": "The New India Assurance Company",
-      "exDividend": "2026-07-10",
-      "earnings": "2026-07-24",
-      "dividendRate": 1.5
-    },
-    {
       "symbol": "CANBK",
       "name": "Canara Bank",
       "exDividend": "2026-06-12",
@@ -1431,13 +1409,6 @@
       "dividendRate": 11.0
     },
     {
-      "symbol": "BSOFT",
-      "name": "Birlasoft",
-      "exDividend": "2026-07-10",
-      "earnings": "2026-07-28",
-      "dividendRate": 6.5
-    },
-    {
       "symbol": "BALKRISIND",
       "name": "Balkrishna Industries",
       "exDividend": "2026-08-04",
@@ -1445,23 +1416,11 @@
       "dividendRate": 16.0
     },
     {
-      "symbol": "DEVYANI",
-      "name": "Devyani International",
-      "earnings": "2026-07-29"
-    },
-    {
       "symbol": "EICHERMOT",
       "name": "Eicher Motors",
       "exDividend": "2026-07-31",
       "earnings": "2026-07-29",
       "dividendRate": 82.0
-    },
-    {
-      "symbol": "KPITTECH",
-      "name": "KPIT Technologies",
-      "exDividend": "2026-08-12",
-      "earnings": "2026-07-29",
-      "dividendRate": 7.5
     },
     {
       "symbol": "PPLPHARMA",
@@ -1485,25 +1444,11 @@
       "dividendRate": 6.0
     },
     {
-      "symbol": "AARTIIND",
-      "name": "Aarti Industries",
-      "exDividend": "2026-09-11",
-      "earnings": "2026-07-30",
-      "dividendRate": 1.0
-    },
-    {
       "symbol": "EXIDEIND",
       "name": "Exide Industries",
       "exDividend": "2026-07-03",
       "earnings": "2026-07-30",
       "dividendRate": 2.0
-    },
-    {
-      "symbol": "MGL",
-      "name": "Mahanagar Gas",
-      "exDividend": "2026-08-18",
-      "earnings": "2026-07-30",
-      "dividendRate": 36.0
     },
     {
       "symbol": "MANKIND",
@@ -1518,13 +1463,6 @@
       "exDividend": "2026-08-31",
       "earnings": "2026-07-31",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "NATIONALUM",
-      "name": "National Aluminium Co",
-      "exDividend": "2026-08-24",
-      "earnings": "2026-07-31",
-      "dividendRate": 4.0
     },
     {
       "symbol": "MUTHOOTFIN",
@@ -1572,13 +1510,6 @@
       "exDividend": "2026-07-17",
       "earnings": "2026-08-03",
       "dividendRate": 6.0
-    },
-    {
-      "symbol": "EMAMILTD",
-      "name": "Emami",
-      "exDividend": "2026-02-10",
-      "earnings": "2026-08-04",
-      "dividendRate": 10.0
     },
     {
       "symbol": "NYKAA",
@@ -1645,13 +1576,6 @@
       "dividendRate": 6.0
     },
     {
-      "symbol": "BRITANNIA",
-      "name": "Britannia Industries",
-      "exDividend": "2026-07-31",
-      "earnings": "2026-08-06",
-      "dividendRate": 90.5
-    },
-    {
       "symbol": "CROMPTON",
       "name": "Crompton Greaves Consumer Electricals",
       "exDividend": "2026-07-24",
@@ -1666,20 +1590,6 @@
       "dividendRate": 1.0
     },
     {
-      "symbol": "NCC",
-      "name": "NCC",
-      "exDividend": "2026-08-14",
-      "earnings": "2026-08-06",
-      "dividendRate": 2.2
-    },
-    {
-      "symbol": "MOTHERSON",
-      "name": "Samvardhana Motherson International",
-      "exDividend": "2026-07-14",
-      "earnings": "2026-08-06",
-      "dividendRate": 0.5
-    },
-    {
       "symbol": "LEMONTREE",
       "name": "Lemon Tree Hotels",
       "earnings": "2026-08-07"
@@ -1689,7 +1599,7 @@
       "name": "Oil India",
       "exDividend": "2026-09-04",
       "earnings": "2026-08-07",
-      "dividendRate": 13.0
+      "dividendRate": 11.5
     },
     {
       "symbol": "PFC",
@@ -1718,29 +1628,11 @@
       "dividendRate": 17.35
     },
     {
-      "symbol": "RAMCOCEM",
-      "name": "The Ramco Cements",
-      "exDividend": "2026-08-13",
-      "earnings": "2026-08-07",
-      "dividendRate": 2.5
-    },
-    {
-      "symbol": "DELHIVERY",
-      "name": "Delhivery",
-      "earnings": "2026-08-08"
-    },
-    {
       "symbol": "BHARATFORG",
       "name": "Bharat Forge",
       "exDividend": "2026-07-03",
       "earnings": "2026-08-10",
       "dividendRate": 8.5
-    },
-    {
-      "symbol": "CMPDI",
-      "name": "Central Mine Planning & Design Institute",
-      "exDividend": "2026-08-10",
-      "dividendRate": 1.06
     },
     {
       "symbol": "IDEA",
@@ -1805,13 +1697,6 @@
       "dividendRate": 18.0
     },
     {
-      "symbol": "AIAENG",
-      "name": "AIA Engineering",
-      "exDividend": "2026-09-04",
-      "earnings": "2026-08-12",
-      "dividendRate": 16.0
-    },
-    {
       "symbol": "ABBOTINDIA",
       "name": "Abbott India",
       "exDividend": "2026-07-24",
@@ -1874,13 +1759,6 @@
       "dividendRate": 6.0
     },
     {
-      "symbol": "ELGIEQUIP",
-      "name": "Elgi Equipments",
-      "exDividend": "2026-07-17",
-      "earnings": "2026-08-13",
-      "dividendRate": 2.7
-    },
-    {
       "symbol": "GODREJIND",
       "name": "Godrej Industries",
       "exDividend": "2019-08-02",
@@ -1892,13 +1770,6 @@
       "exDividend": "2026-10-01",
       "earnings": "2026-08-13",
       "dividendRate": 3.0
-    },
-    {
-      "symbol": "IPCALAB",
-      "name": "Ipca Laboratories",
-      "exDividend": "2026-08-07",
-      "earnings": "2026-08-13",
-      "dividendRate": 6.0
     },
     {
       "symbol": "JUBLFOOD",
@@ -1933,13 +1804,6 @@
       "exDividend": "2026-07-28",
       "earnings": "2026-08-13",
       "dividendRate": 11.0
-    },
-    {
-      "symbol": "TMPV",
-      "name": "Tata Motors Passenger Vehicles",
-      "exDividend": "2026-06-19",
-      "earnings": "2026-08-13",
-      "dividendRate": 3.0
     },
     {
       "symbol": "ALKEM",
@@ -1988,13 +1852,6 @@
       "exDividend": "2026-08-21",
       "earnings": "2026-08-14",
       "dividendRate": 4.05
-    },
-    {
-      "symbol": "TIINDIA",
-      "name": "Tube Investments of India",
-      "exDividend": "2026-08-07",
-      "earnings": "2026-08-14",
-      "dividendRate": 3.5
     },
     {
       "symbol": "VOLTAS",
@@ -2085,7 +1942,7 @@
       "name": "360 ONE WAM",
       "exDividend": "2026-10-23",
       "earnings": "2026-10-15",
-      "dividendRate": 12.0
+      "dividendRate": 13.5
     },
     {
       "symbol": "HDFCAMC",
@@ -2120,7 +1977,7 @@
       "name": "Indian Railway Finance Corporation",
       "exDividend": "2026-10-23",
       "earnings": "2026-10-15",
-      "dividendRate": 2.1
+      "dividendRate": 3.25
     },
     {
       "symbol": "KARURVYSYA",
@@ -2190,7 +2047,7 @@
       "name": "LTM",
       "exDividend": "2026-10-23",
       "earnings": "2026-10-16",
-      "dividendRate": 75.0
+      "dividendRate": 78.0
     },
     {
       "symbol": "OBEROIRLTY",
@@ -2257,7 +2114,7 @@
     {
       "symbol": "LTTS",
       "name": "L&T Technology Services",
-      "exDividend": "2026-05-22",
+      "exDividend": "2026-10-27",
       "earnings": "2026-10-19",
       "dividendRate": 58.0
     },
@@ -2336,9 +2193,9 @@
     {
       "symbol": "CYIENT",
       "name": "Cyient",
-      "exDividend": "2025-10-24",
+      "exDividend": "2026-10-28",
       "earnings": "2026-10-22",
-      "dividendRate": 32.0
+      "dividendRate": 24.0
     },
     {
       "symbol": "HAVELLS",
@@ -2417,9 +2274,9 @@
     {
       "symbol": "INFY",
       "name": "Infosys",
-      "exDividend": "2026-06-10",
+      "exDividend": "2026-11-03",
       "earnings": "2026-10-23",
-      "dividendRate": 50.0
+      "dividendRate": 52.0
     },
     {
       "symbol": "JSWSTEEL",
@@ -2459,7 +2316,7 @@
     {
       "symbol": "SHRIRAMFIN",
       "name": "Shriram Finance",
-      "exDividend": "2026-07-03",
+      "exDividend": "2026-10-29",
       "earnings": "2026-10-23",
       "dividendRate": 10.8
     },
@@ -2640,13 +2497,6 @@
       "dividendRate": 9.0
     },
     {
-      "symbol": "RELIANCE",
-      "name": "Reliance Industries",
-      "exDividend": "2026-06-05",
-      "earnings": "2026-10-27",
-      "dividendRate": 6.0
-    },
-    {
       "symbol": "SBILIFE",
       "name": "SBI Life Insurance Company",
       "exDividend": "2026-03-06",
@@ -2680,13 +2530,6 @@
       "dividendRate": 1.25
     },
     {
-      "symbol": "TATASTEEL",
-      "name": "Tata Steel",
-      "exDividend": "2026-06-12",
-      "earnings": "2026-10-27",
-      "dividendRate": 4.0
-    },
-    {
       "symbol": "UBL",
       "name": "United Breweries",
       "exDividend": "2026-08-07",
@@ -2713,6 +2556,13 @@
       "exDividend": "2026-08-17",
       "earnings": "2026-10-28",
       "dividendRate": 1.5
+    },
+    {
+      "symbol": "BSOFT",
+      "name": "Birlasoft",
+      "exDividend": "2026-07-10",
+      "earnings": "2026-10-28",
+      "dividendRate": 6.5
     },
     {
       "symbol": "CHOLAFIN",
@@ -2762,6 +2612,13 @@
       "exDividend": "2026-07-20",
       "earnings": "2026-10-28",
       "dividendRate": 5.0
+    },
+    {
+      "symbol": "KPITTECH",
+      "name": "KPIT Technologies",
+      "exDividend": "2026-08-12",
+      "earnings": "2026-10-28",
+      "dividendRate": 7.5
     },
     {
       "symbol": "PVRINOX",
@@ -2826,6 +2683,12 @@
       "dividendRate": 2.0
     },
     {
+      "symbol": "CMPDI",
+      "name": "Central Mine Planning & Design Institute",
+      "exDividend": "2026-10-29",
+      "dividendRate": 1.06
+    },
+    {
       "symbol": "COALINDIA",
       "name": "Coal India",
       "exDividend": "2026-09-04",
@@ -2882,6 +2745,27 @@
       "dividendRate": 2.4
     },
     {
+      "symbol": "LODHA",
+      "name": "Lodha Developers",
+      "exDividend": "2026-08-07",
+      "earnings": "2026-10-29",
+      "dividendRate": 4.25
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC",
+      "exDividend": "2026-09-02",
+      "earnings": "2026-10-29",
+      "dividendRate": 9.0
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "exDividend": "2026-06-05",
+      "earnings": "2026-10-29",
+      "dividendRate": 6.0
+    },
+    {
       "symbol": "SUZLON",
       "name": "Suzlon Energy",
       "exDividend": "2008-07-17",
@@ -2902,6 +2786,13 @@
       "dividendRate": 4.0
     },
     {
+      "symbol": "AARTIIND",
+      "name": "Aarti Industries",
+      "exDividend": "2026-09-11",
+      "earnings": "2026-10-30",
+      "dividendRate": 1.0
+    },
+    {
       "symbol": "ABCAPITAL",
       "name": "Aditya Birla Capital",
       "earnings": "2026-10-30"
@@ -2919,6 +2810,11 @@
       "exDividend": "2026-08-13",
       "earnings": "2026-10-30",
       "dividendRate": 2.5
+    },
+    {
+      "symbol": "DELHIVERY",
+      "name": "Delhivery",
+      "earnings": "2026-10-30"
     },
     {
       "symbol": "DIXON",
@@ -3005,6 +2901,11 @@
       "dividendRate": 8.6
     },
     {
+      "symbol": "DEVYANI",
+      "name": "Devyani International",
+      "earnings": "2026-11-02"
+    },
+    {
       "symbol": "ESCORTS",
       "name": "Escorts Kubota",
       "exDividend": "2026-07-03",
@@ -3026,11 +2927,25 @@
       "dividendRate": 4.0
     },
     {
+      "symbol": "NATIONALUM",
+      "name": "National Aluminium Co",
+      "exDividend": "2026-08-24",
+      "earnings": "2026-11-02",
+      "dividendRate": 4.0
+    },
+    {
       "symbol": "PETRONET",
       "name": "Petronet LNG",
       "exDividend": "2026-06-12",
       "earnings": "2026-11-02",
       "dividendRate": 10.0
+    },
+    {
+      "symbol": "AIAENG",
+      "name": "AIA Engineering",
+      "exDividend": "2026-09-04",
+      "earnings": "2026-11-03",
+      "dividendRate": 16.0
     },
     {
       "symbol": "BAJAJFINSV",
@@ -3068,6 +2983,13 @@
       "dividendRate": 18.0
     },
     {
+      "symbol": "MGL",
+      "name": "Mahanagar Gas",
+      "exDividend": "2026-08-18",
+      "earnings": "2026-11-03",
+      "dividendRate": 36.0
+    },
+    {
       "symbol": "MCX",
       "name": "Multi Commodity Exchange of India",
       "exDividend": "2026-08-28",
@@ -3080,6 +3002,13 @@
       "exDividend": "2026-08-14",
       "earnings": "2026-11-04",
       "dividendRate": 20.0
+    },
+    {
+      "symbol": "BIOCON",
+      "name": "Biocon",
+      "exDividend": "2026-07-03",
+      "earnings": "2026-11-04",
+      "dividendRate": 0.5
     },
     {
       "symbol": "CUMMINSIND",
@@ -3131,6 +3060,27 @@
       "dividendRate": 24.0
     },
     {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries",
+      "exDividend": "2026-07-31",
+      "earnings": "2026-11-05",
+      "dividendRate": 90.5
+    },
+    {
+      "symbol": "EMAMILTD",
+      "name": "Emami",
+      "exDividend": "2026-02-10",
+      "earnings": "2026-11-05",
+      "dividendRate": 10.0
+    },
+    {
+      "symbol": "IPCALAB",
+      "name": "Ipca Laboratories",
+      "exDividend": "2026-08-07",
+      "earnings": "2026-11-05",
+      "dividendRate": 6.0
+    },
+    {
       "symbol": "LICI",
       "name": "Life Insurance Corporation of India",
       "exDividend": "2026-06-25",
@@ -3152,6 +3102,27 @@
       "dividendRate": 62.0
     },
     {
+      "symbol": "NCC",
+      "name": "NCC",
+      "exDividend": "2026-08-14",
+      "earnings": "2026-11-05",
+      "dividendRate": 2.2
+    },
+    {
+      "symbol": "MOTHERSON",
+      "name": "Samvardhana Motherson International",
+      "exDividend": "2026-07-14",
+      "earnings": "2026-11-05",
+      "dividendRate": 0.5
+    },
+    {
+      "symbol": "RAMCOCEM",
+      "name": "The Ramco Cements",
+      "exDividend": "2026-08-13",
+      "earnings": "2026-11-05",
+      "dividendRate": 2.5
+    },
+    {
       "symbol": "THERMAX",
       "name": "Thermax",
       "exDividend": "2026-07-03",
@@ -3166,6 +3137,13 @@
       "dividendRate": 15.0
     },
     {
+      "symbol": "TIINDIA",
+      "name": "Tube Investments of India",
+      "exDividend": "2026-08-07",
+      "earnings": "2026-11-05",
+      "dividendRate": 3.5
+    },
+    {
       "symbol": "BOSCHLTD",
       "name": "Bosch",
       "exDividend": "2026-08-04",
@@ -3178,6 +3156,13 @@
       "exDividend": "2026-08-07",
       "earnings": "2026-11-06",
       "dividendRate": 1.3
+    },
+    {
+      "symbol": "ELGIEQUIP",
+      "name": "Elgi Equipments",
+      "exDividend": "2026-07-17",
+      "earnings": "2026-11-06",
+      "dividendRate": 2.7
     },
     {
       "symbol": "GLAND",
@@ -3201,11 +3186,11 @@
       "dividendRate": 30.0
     },
     {
-      "symbol": "BIOCON",
-      "name": "Biocon",
-      "exDividend": "2026-07-03",
-      "earnings": "2026-11-11",
-      "dividendRate": 0.5
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel",
+      "exDividend": "2026-06-12",
+      "earnings": "2026-11-07",
+      "dividendRate": 4.0
     },
     {
       "symbol": "TATAPOWER",
@@ -3215,6 +3200,13 @@
       "dividendRate": 2.5
     },
     {
+      "symbol": "NIACL",
+      "name": "The New India Assurance Company",
+      "exDividend": "2026-07-10",
+      "earnings": "2026-11-12",
+      "dividendRate": 1.5
+    },
+    {
       "symbol": "ABB",
       "name": "ABB India",
       "exDividend": "2026-08-07",
@@ -3222,9 +3214,18 @@
       "dividendRate": 29.59
     },
     {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles",
+      "exDividend": "2026-06-19",
+      "earnings": "2026-11-13",
+      "dividendRate": 3.0
+    },
+    {
       "symbol": "ICICILIFE",
       "name": "ICICI Life Insurance",
-      "earnings": "2027-01-12"
+      "exDividend": "2026-06-05",
+      "earnings": "2027-01-12",
+      "dividendRate": 1.65
     },
     {
       "symbol": "ADANIGREEN",
