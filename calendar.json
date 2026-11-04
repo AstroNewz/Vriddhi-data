@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-11-04T00:53:39+05:30",
+  "lastUpdated": "2026-11-05T01:09:13+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -30,7 +35,7 @@
       "name": "Concord Biotech",
       "exDividend": "2026-07-24",
       "earnings": "2024-08-09",
-      "dividendRate": 7.55
+      "dividendRate": 3.78
     },
     {
       "symbol": "IREDA",
@@ -311,7 +316,8 @@
       "symbol": "GRAVITA",
       "name": "Gravita India",
       "exDividend": "2026-11-03",
-      "earnings": "2025-07-18"
+      "earnings": "2025-07-18",
+      "dividendRate": 7.7
     },
     {
       "symbol": "NETWEB",
@@ -1256,7 +1262,7 @@
       "name": "Mazagoan Dock Shipbuilders",
       "exDividend": "2026-11-03",
       "earnings": "2025-08-12",
-      "dividendRate": 18.12
+      "dividendRate": 23.12
     },
     {
       "symbol": "RHIM",
@@ -1264,12 +1270,6 @@
       "exDividend": "2026-09-11",
       "earnings": "2025-08-12",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
     },
     {
       "symbol": "NSLNISP",
@@ -1437,13 +1437,6 @@
       "name": "Vodafone Idea",
       "exDividend": "2016-09-22",
       "earnings": "2026-08-10"
-    },
-    {
-      "symbol": "FINCABLES",
-      "name": "Finolex Cables",
-      "exDividend": "2026-09-04",
-      "earnings": "2026-08-11",
-      "dividendRate": 9.0
     },
     {
       "symbol": "MANAPPURAM",
@@ -1956,7 +1949,7 @@
       "name": "Oracle Financial Services Software",
       "exDividend": "2026-05-07",
       "earnings": "2026-10-23",
-      "dividendRate": 400.0
+      "dividendRate": 270.0
     },
     {
       "symbol": "SBICARD",
@@ -2594,7 +2587,7 @@
     {
       "symbol": "CONCOR",
       "name": "Container Corporation of India",
-      "exDividend": "2026-09-21",
+      "exDividend": "2026-11-11",
       "earnings": "2026-11-02",
       "dividendRate": 8.6
     },
@@ -2627,14 +2620,14 @@
     {
       "symbol": "NATIONALUM",
       "name": "National Aluminium Co",
-      "exDividend": "2026-08-24",
+      "exDividend": "2026-11-06",
       "earnings": "2026-11-02",
-      "dividendRate": 4.0
+      "dividendRate": 11.5
     },
     {
       "symbol": "PETRONET",
       "name": "Petronet LNG",
-      "exDividend": "2026-06-12",
+      "exDividend": "2026-11-06",
       "earnings": "2026-11-02",
       "dividendRate": 10.0
     },
@@ -3093,6 +3086,13 @@
       "exDividend": "2026-07-24",
       "earnings": "2026-11-07",
       "dividendRate": 30.0
+    },
+    {
+      "symbol": "FINCABLES",
+      "name": "Finolex Cables",
+      "exDividend": "2026-09-04",
+      "earnings": "2026-11-07",
+      "dividendRate": 9.0
     },
     {
       "symbol": "TATACHEM",
