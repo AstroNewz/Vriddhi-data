@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-11-06T01:19:04+05:30",
+  "lastUpdated": "2026-11-07T00:44:21+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -500,7 +505,7 @@
     {
       "symbol": "IRB",
       "name": "IRB Infrastructure Developers",
-      "exDividend": "2026-08-05",
+      "exDividend": "2026-11-12",
       "earnings": "2025-07-24",
       "dividendRate": 0.2
     },
@@ -709,9 +714,9 @@
     {
       "symbol": "RITES",
       "name": "RITES",
-      "exDividend": "2026-09-18",
+      "exDividend": "2026-11-11",
       "earnings": "2025-07-29",
-      "dividendRate": 11.0
+      "dividendRate": 7.6
     },
     {
       "symbol": "TATAINVEST",
@@ -723,9 +728,9 @@
     {
       "symbol": "APTUS",
       "name": "Aptus Value Housing Finance India",
-      "exDividend": "2026-05-15",
+      "exDividend": "2026-11-13",
       "earnings": "2025-07-30",
-      "dividendRate": 5.0
+      "dividendRate": 4.5
     },
     {
       "symbol": "GESHIP",
@@ -1065,7 +1070,7 @@
       "name": "Engineers India",
       "exDividend": "2026-11-05",
       "earnings": "2025-08-07",
-      "dividendRate": 5.0
+      "dividendRate": 6.5
     },
     {
       "symbol": "GICRE",
@@ -1207,9 +1212,9 @@
     {
       "symbol": "NBCC",
       "name": "NBCC (India)",
-      "exDividend": "2026-08-28",
+      "exDividend": "2026-11-11",
       "earnings": "2025-08-11",
-      "dividendRate": 0.94
+      "dividendRate": 1.0
     },
     {
       "symbol": "OLECTRA",
@@ -1265,12 +1270,6 @@
       "exDividend": "2026-09-11",
       "earnings": "2025-08-12",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
     },
     {
       "symbol": "NSLNISP",
@@ -1408,13 +1407,6 @@
       "dividendRate": 16.0
     },
     {
-      "symbol": "CROMPTON",
-      "name": "Crompton Greaves Consumer Electricals",
-      "exDividend": "2026-07-24",
-      "earnings": "2026-08-06",
-      "dividendRate": 3.0
-    },
-    {
       "symbol": "RUBICON",
       "name": "Rubicon Research",
       "exDividend": "2026-08-07",
@@ -1484,13 +1476,6 @@
       "name": "Canara HSBC Life Insurance Company",
       "exDividend": "2026-08-14",
       "dividendRate": 0.4
-    },
-    {
-      "symbol": "NMDC",
-      "name": "NMDC",
-      "exDividend": "2026-10-05",
-      "earnings": "2026-08-14",
-      "dividendRate": 2.0
     },
     {
       "symbol": "PATANJALI",
@@ -2194,7 +2179,7 @@
       "name": "Birlasoft",
       "exDividend": "2026-11-05",
       "earnings": "2026-10-28",
-      "dividendRate": 6.5
+      "dividendRate": 7.0
     },
     {
       "symbol": "CHOLAFIN",
@@ -2726,9 +2711,9 @@
     {
       "symbol": "AUROPHARMA",
       "name": "Aurobindo Pharma",
-      "exDividend": "2025-08-08",
+      "exDividend": "2026-11-11",
       "earnings": "2026-11-04",
-      "dividendRate": 4.0
+      "dividendRate": 14.0
     },
     {
       "symbol": "BALKRISIND",
@@ -2834,7 +2819,7 @@
     {
       "symbol": "ASTRAL",
       "name": "Astral",
-      "exDividend": "2026-08-14",
+      "exDividend": "2026-11-13",
       "earnings": "2026-11-05",
       "dividendRate": 4.0
     },
@@ -2853,13 +2838,6 @@
       "dividendRate": 8.5
     },
     {
-      "symbol": "BHARTIARTL",
-      "name": "Bharti Airtel",
-      "exDividend": "2026-07-24",
-      "earnings": "2026-11-05",
-      "dividendRate": 24.0
-    },
-    {
       "symbol": "BRITANNIA",
       "name": "Britannia Industries",
       "exDividend": "2026-07-31",
@@ -2874,9 +2852,16 @@
       "dividendRate": 6.0
     },
     {
+      "symbol": "CROMPTON",
+      "name": "Crompton Greaves Consumer Electricals",
+      "exDividend": "2026-07-24",
+      "earnings": "2026-11-05",
+      "dividendRate": 3.0
+    },
+    {
       "symbol": "EMAMILTD",
       "name": "Emami",
-      "exDividend": "2026-02-10",
+      "exDividend": "2026-11-13",
       "earnings": "2026-11-05",
       "dividendRate": 10.0
     },
@@ -3131,6 +3116,13 @@
       "dividendRate": 45.0
     },
     {
+      "symbol": "NMDC",
+      "name": "NMDC",
+      "exDividend": "2026-10-05",
+      "earnings": "2026-11-12",
+      "dividendRate": 2.0
+    },
+    {
       "symbol": "OIL",
       "name": "Oil India",
       "exDividend": "2026-09-04",
@@ -3225,6 +3217,13 @@
       "exDividend": "2026-06-12",
       "earnings": "2027-01-28",
       "dividendRate": 7.5
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel",
+      "exDividend": "2026-07-24",
+      "earnings": "2027-02-03",
+      "dividendRate": 24.0
     },
     {
       "symbol": "BIOCON",
