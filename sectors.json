@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T03:43:49+05:30",
+  "lastUpdated": "2026-11-11T01:06:51+05:30",
   "sectors": [
     {
       "name": "Automobile and Auto Components",
@@ -8,11 +8,9 @@
         "MARUTI",
         "M&M",
         "BAJAJ-AUTO",
-        "TVSMOTOR",
         "EICHERMOT",
         "MOTHERSON",
         "HYUNDAI",
-        "BOSCHLTD",
         "TMPV",
         "HEROMOTOCO",
         "BHARATFORG",
@@ -44,7 +42,9 @@
         "RKFORGE",
         "JBMA",
         "JKTYRE",
-        "OLECTRA"
+        "OLECTRA",
+        "BOSCHLTD",
+        "TVSMOTOR"
       ]
     },
     {
@@ -62,7 +62,6 @@
         "POLYCAB",
         "CUMMINSIND",
         "GVT&D",
-        "ASHOKLEY",
         "ENRIN",
         "MAZDOCK",
         "WAAREEENER",
@@ -80,7 +79,6 @@
         "ASTRAL",
         "COCHINSHIP",
         "THERMAX",
-        "AIAENG",
         "SYRMA",
         "ESCORTS",
         "HONAUT",
@@ -119,7 +117,9 @@
         "TITAGARH",
         "TARIL",
         "JWL",
-        "RHIM"
+        "RHIM",
+        "AIAENG",
+        "ASHOKLEY"
       ]
     },
     {
@@ -229,7 +229,6 @@
         "ITCHOTELS",
         "PWL",
         "IRCTC",
-        "JUBLFOOD",
         "URBANCO",
         "EIHOTEL",
         "TBOTEK",
@@ -238,7 +237,8 @@
         "INDIAMART",
         "LEMONTREE",
         "BLS",
-        "FIRSTCRY"
+        "FIRSTCRY",
+        "JUBLFOOD"
       ]
     },
     {
@@ -290,10 +290,10 @@
         "ICICIBANK",
         "SBIN",
         "BAJFINANCE",
+        "LICI",
         "KOTAKBANK",
         "AXISBANK",
         "BAJAJFINSV",
-        "LICI",
         "SHRIRAMFIN",
         "SBILIFE",
         "JIOFIN",
@@ -315,11 +315,9 @@
         "PFC",
         "ABCAPITAL",
         "IRFC",
-        "MCX",
         "IDBI",
         "FEDERALBNK",
         "ICICIGI",
-        "RECLTD",
         "INDUSINDBK",
         "AUBANK",
         "MOTILALOFS",
@@ -383,7 +381,9 @@
         "CANFINHOME",
         "IEX",
         "AAVAS",
-        "APTUS"
+        "APTUS",
+        "MCX",
+        "RECLTD"
       ]
     },
     {
@@ -440,7 +440,6 @@
       "name": "Information Technology",
       "medianPe": 27.8,
       "members": [
-        "TCS",
         "INFY",
         "HCLTECH",
         "WIPRO",
@@ -464,12 +463,13 @@
         "ZENSARTECH",
         "CYIENT",
         "BSOFT",
-        "INTELLECT"
+        "INTELLECT",
+        "TCS"
       ]
     },
     {
       "name": "Media Entertainment & Publication",
-      "medianPe": 39.0,
+      "medianPe": 37.2,
       "members": [
         "SUNTV",
         "PFOCUS",
@@ -507,10 +507,8 @@
       "name": "Oil Gas & Consumable Fuels",
       "medianPe": 16.8,
       "members": [
-        "RELIANCE",
         "ONGC",
         "COALINDIA",
-        "IOC",
         "BPCL",
         "GAIL",
         "HINDPETRO",
@@ -525,7 +523,9 @@
         "CASTROLIND",
         "VOGL",
         "MGL",
-        "BHARATCOAL"
+        "BHARATCOAL",
+        "IOC",
+        "RELIANCE"
       ]
     },
     {
@@ -555,7 +555,7 @@
     },
     {
       "name": "Realty",
-      "medianPe": 36.5,
+      "medianPe": 36.6,
       "members": [
         "DLF",
         "LODHA",

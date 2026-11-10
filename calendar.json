@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-11-10T03:43:49+05:30",
+  "lastUpdated": "2026-11-11T01:06:51+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -1114,7 +1119,7 @@
     {
       "symbol": "SCI",
       "name": "Shipping Corporation of India",
-      "exDividend": "2026-09-04",
+      "exDividend": "2026-11-16",
       "earnings": "2025-08-07",
       "dividendRate": 7.5
     },
@@ -1265,12 +1270,6 @@
       "exDividend": "2026-09-11",
       "earnings": "2025-08-12",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
     },
     {
       "symbol": "NSLNISP",
@@ -2689,7 +2688,7 @@
       "name": "Dabur India",
       "exDividend": "2026-11-09",
       "earnings": "2026-11-04",
-      "dividendRate": 8.25
+      "dividendRate": 9.0
     },
     {
       "symbol": "LALPATHLAB",

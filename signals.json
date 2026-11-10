@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T03:43:49+05:30",
+  "lastUpdated": "2026-11-11T01:06:51+05:30",
   "reportType": "daily",
   "signals": [
     {
@@ -170,7 +170,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 34.7 vs Healthcare median 51.8",
+        "Very cheap: P/E 34.3 vs Healthcare median 51.8",
         "Low debt (D/E 0.04)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -211,7 +211,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 18.9 vs median 23.3",
+        "Cheaper than peers: P/E 18.8 vs median 23.3",
         "Effectively debt-free — strong balance sheet",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -321,7 +321,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 27.5 vs Realty median 36.5",
+        "Very cheap: P/E 27.5 vs Realty median 36.6",
         "Low debt (D/E 0.41)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -336,7 +336,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 24.5 vs Realty median 36.5",
+        "Very cheap: P/E 24.5 vs Realty median 36.6",
         "Low debt (D/E 0.14)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -362,7 +362,7 @@
       "score": 9.0,
       "verdict": "Strong",
       "reasons": [
-        "Very cheap: P/E 20.5 vs Information Technology median 27.8",
+        "Very cheap: P/E 20.3 vs Information Technology median 27.8",
         "Low debt (D/E 0.09)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"
@@ -537,7 +537,7 @@
       "score": 8.0,
       "verdict": "Strong",
       "reasons": [
-        "Cheaper than peers: P/E 57.5 vs median 58.0",
+        "Cheaper than peers: P/E 57.4 vs median 58.0",
         "Low debt (D/E 0.22)",
         "Net profit rose every year for 4 years",
         "Trading above its 200-day average (uptrend)"

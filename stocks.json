@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T03:43:49+05:30",
+  "lastUpdated": "2026-11-11T01:06:51+05:30",
   "stocks": [
     {
       "symbol": "360ONE",
@@ -35,10 +35,10 @@
       "price": 6915.0,
       "changePct": 0.81,
       "marketCap": 146535,
-      "pe": 95.4,
+      "pe": 94.2,
       "debtToEquity": 0.02,
       "roe": 19.1,
-      "eps": 72.5,
+      "eps": 73.4,
       "bookValue": 440.6,
       "dividendYield": 0.43,
       "profitTrend": [
@@ -53,7 +53,7 @@
         "Equity": 7836,
         "Cash": 1553
       },
-      "marketSharePct": 4.2
+      "marketSharePct": 4.4
     },
     {
       "symbol": "ACC",
@@ -67,7 +67,7 @@
       "roe": 4.3,
       "eps": 46.9,
       "bookValue": 1100.5,
-      "dividendYield": 0.6,
+      "dividendYield": 0.61,
       "profitTrend": [
         649,
         2335,
@@ -115,13 +115,13 @@
       "sector": "Capital Goods",
       "price": 3136.4,
       "changePct": -1.65,
-      "marketCap": 29269,
-      "pe": 24.2,
+      "marketCap": 0,
+      "pe": 23.6,
       "debtToEquity": 0.01,
       "roe": 15.6,
-      "eps": 129.6,
+      "eps": 132.7,
       "bookValue": 903.6,
-      "dividendYield": 0.5,
+      "dividendYield": 0.51,
       "profitTrend": [
         1056,
         1136,
@@ -134,7 +134,7 @@
         "Equity": 8025,
         "Cash": 215
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 0.0
     },
     {
       "symbol": "APLAPOLLO",
@@ -161,7 +161,7 @@
         "Equity": 5297,
         "Cash": 644
       },
-      "marketSharePct": 1.7
+      "marketSharePct": 1.8
     },
     {
       "symbol": "AUBANK",
@@ -202,7 +202,7 @@
       "roe": 11.1,
       "eps": 8.9,
       "bookValue": 84.3,
-      "dividendYield": 0.59,
+      "dividendYield": 0.6,
       "profitTrend": [
         582,
         148,
@@ -305,11 +305,11 @@
       "price": 26680.0,
       "changePct": -0.02,
       "marketCap": 56693,
-      "pe": 34.7,
+      "pe": 34.3,
       "debtToEquity": 0.04,
-      "roe": 0.0,
-      "eps": 767.9,
-      "bookValue": 2246.8,
+      "roe": 39.9,
+      "eps": 777.8,
+      "bookValue": 2009.5,
       "dividendYield": 1.97,
       "profitTrend": [
         949,
@@ -472,7 +472,7 @@
       "roe": 15.6,
       "eps": 59.9,
       "bookValue": 443.7,
-      "dividendYield": 0.38,
+      "dividendYield": 0.39,
       "profitTrend": [
         5309,
         8111,
@@ -512,7 +512,7 @@
         "Equity": 64937,
         "Cash": 883
       },
-      "marketSharePct": 20.3
+      "marketSharePct": 20.4
     },
     {
       "symbol": "ATGL",
@@ -539,7 +539,7 @@
         "Equity": 4865,
         "Cash": 253
       },
-      "marketSharePct": 1.9
+      "marketSharePct": 5.0
     },
     {
       "symbol": "ABCAPITAL",
@@ -578,7 +578,7 @@
       "pe": 0.0,
       "debtToEquity": 0.79,
       "roe": -3.4,
-      "eps": -17.6,
+      "eps": -17.9,
       "bookValue": 412.8,
       "dividendYield": 0.23,
       "profitTrend": [
@@ -607,7 +607,7 @@
       "roe": 26.5,
       "eps": 34.0,
       "bookValue": 134.2,
-      "dividendYield": 2.84,
+      "dividendYield": 2.88,
       "profitTrend": [
         596,
         780,
@@ -647,7 +647,7 @@
         "Equity": 1877,
         "Cash": 165
       },
-      "marketSharePct": 1.5
+      "marketSharePct": 1.6
     },
     {
       "symbol": "AEGISLOG",
@@ -661,7 +661,7 @@
       "roe": 17.3,
       "eps": 38.0,
       "bookValue": 189.6,
-      "dividendYield": 1.14,
+      "dividendYield": 1.09,
       "profitTrend": [
         463,
         569,
@@ -674,7 +674,7 @@
         "Equity": 6055,
         "Cash": 2512
       },
-      "marketSharePct": 1.3
+      "marketSharePct": 3.4
     },
     {
       "symbol": "AEGISVOPAK",
@@ -701,7 +701,7 @@
         "Equity": 4291,
         "Cash": 302
       },
-      "marketSharePct": 0.9
+      "marketSharePct": 2.3
     },
     {
       "symbol": "AETHER",
@@ -710,10 +710,10 @@
       "price": 1590.1,
       "changePct": -0.84,
       "marketCap": 21106,
-      "pe": 87.0,
+      "pe": 84.8,
       "debtToEquity": 0.26,
       "roe": 10.1,
-      "eps": 18.3,
+      "eps": 18.8,
       "bookValue": 195.4,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -738,11 +738,11 @@
       "changePct": -2.28,
       "marketCap": 7874,
       "pe": 99.6,
-      "debtToEquity": 0.67,
-      "roe": 0.0,
+      "debtToEquity": 0.89,
+      "roe": 1.5,
       "eps": 2.1,
-      "bookValue": 148.2,
-      "dividendYield": 0.95,
+      "bookValue": 148.4,
+      "dividendYield": 0.93,
       "profitTrend": [
         411,
         450,
@@ -782,7 +782,7 @@
         "Equity": 3652,
         "Cash": 1207
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 1.2
     },
     {
       "symbol": "AJANTPHARM",
@@ -796,7 +796,7 @@
       "roe": 27.5,
       "eps": 101.0,
       "bookValue": 388.9,
-      "dividendYield": 1.92,
+      "dividendYield": 1.91,
       "profitTrend": [
         588,
         816,
@@ -823,7 +823,7 @@
       "roe": 0.0,
       "eps": 180.4,
       "bookValue": 1155.9,
-      "dividendYield": 0.38,
+      "dividendYield": 0.37,
       "profitTrend": [
         984,
         1796,
@@ -850,7 +850,7 @@
       "roe": 13.3,
       "eps": 8.2,
       "bookValue": 58.8,
-      "dividendYield": 0.76,
+      "dividendYield": 0.75,
       "profitTrend": [
         2,
         2,
@@ -877,7 +877,7 @@
       "roe": 9.9,
       "eps": 43.6,
       "bookValue": 455.9,
-      "dividendYield": 1.16,
+      "dividendYield": 1.13,
       "profitTrend": [
         731,
         934,
@@ -890,7 +890,7 @@
         "Equity": 8099,
         "Cash": 226
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.5
     },
     {
       "symbol": "AMBER",
@@ -956,7 +956,7 @@
       "pe": 87.3,
       "debtToEquity": 0.05,
       "roe": 43.0,
-      "eps": 27.2,
+      "eps": 27.1,
       "bookValue": 77.6,
       "dividendYield": 0.32,
       "profitTrend": [
@@ -1012,7 +1012,7 @@
       "roe": 18.4,
       "eps": 12.4,
       "bookValue": 73.0,
-      "dividendYield": 1.94,
+      "dividendYield": 1.91,
       "profitTrend": [
         890,
         1126,
@@ -1061,10 +1061,10 @@
       "price": 1198.3,
       "changePct": 1.05,
       "marketCap": 13643,
-      "pe": 66.8,
+      "pe": 65.6,
       "debtToEquity": 0.41,
       "roe": 0.0,
-      "eps": 17.9,
+      "eps": 18.3,
       "bookValue": 290.0,
       "dividendYield": 0.13,
       "profitTrend": [
@@ -1093,7 +1093,7 @@
       "roe": 20.6,
       "eps": 339.4,
       "bookValue": 2034.9,
-      "dividendYield": 0.41,
+      "dividendYield": 0.42,
       "profitTrend": [
         638,
         825,
@@ -1106,7 +1106,7 @@
         "Equity": 5393,
         "Cash": 669
       },
-      "marketSharePct": 1.7
+      "marketSharePct": 1.8
     },
     {
       "symbol": "APOLLOHOSP",
@@ -1115,12 +1115,12 @@
       "price": 8549.5,
       "changePct": 1.42,
       "marketCap": 122929,
-      "pe": 54.6,
+      "pe": 54.7,
       "debtToEquity": 0.73,
       "roe": 22.5,
-      "eps": 156.7,
+      "eps": 156.4,
       "bookValue": 737.6,
-      "dividendYield": 0.24,
+      "dividendYield": 0.23,
       "profitTrend": [
         819,
         899,
@@ -1160,7 +1160,7 @@
         "Equity": 16715,
         "Cash": 1029
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 0.9
     },
     {
       "symbol": "APTUS",
@@ -1174,7 +1174,7 @@
       "roe": 20.3,
       "eps": 20.5,
       "bookValue": 109.2,
-      "dividendYield": 2.49,
+      "dividendYield": 2.56,
       "profitTrend": [
         503,
         612,
@@ -1214,7 +1214,7 @@
         "Equity": 3932,
         "Cash": 63
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 1.0
     },
     {
       "symbol": "ASHOKLEY",
@@ -1222,13 +1222,13 @@
       "sector": "Capital Goods",
       "price": 174.86,
       "changePct": -1.76,
-      "marketCap": 102710,
+      "marketCap": 0,
       "pe": 29.5,
       "debtToEquity": 3.45,
       "roe": 0.0,
       "eps": 5.9,
       "bookValue": 24.2,
-      "dividendYield": 1.97,
+      "dividendYield": 2.0,
       "profitTrend": [
         1239,
         2484,
@@ -1241,7 +1241,7 @@
         "Equity": 14242,
         "Cash": 6281
       },
-      "marketSharePct": 3.0
+      "marketSharePct": 0.0
     },
     {
       "symbol": "ASIANPAINT",
@@ -1255,7 +1255,7 @@
       "roe": 23.0,
       "eps": 50.5,
       "bookValue": 226.8,
-      "dividendYield": 1.14,
+      "dividendYield": 1.15,
       "profitTrend": [
         4106,
         5460,
@@ -1282,7 +1282,7 @@
       "roe": 8.1,
       "eps": 7.9,
       "bookValue": 94.8,
-      "dividendYield": 0.4,
+      "dividendYield": 0.41,
       "profitTrend": [
         425,
         129,
@@ -1309,7 +1309,7 @@
       "roe": 14.2,
       "eps": 21.1,
       "bookValue": 157.6,
-      "dividendYield": 0.32,
+      "dividendYield": 0.31,
       "profitTrend": [
         457,
         546,
@@ -1349,7 +1349,7 @@
         "Equity": 2573,
         "Cash": 112
       },
-      "marketSharePct": 2.3
+      "marketSharePct": 2.6
     },
     {
       "symbol": "ATUL",
@@ -1357,7 +1357,7 @@
       "sector": "Chemicals",
       "price": 5290.0,
       "changePct": -0.09,
-      "marketCap": 15550,
+      "marketCap": 15549,
       "pe": 20.2,
       "debtToEquity": 0.03,
       "roe": 12.4,
@@ -1390,7 +1390,7 @@
       "roe": 10.7,
       "eps": 69.0,
       "bookValue": 684.7,
-      "dividendYield": 0.78,
+      "dividendYield": 0.75,
       "profitTrend": [
         1928,
         3173,
@@ -1444,7 +1444,7 @@
       "roe": 0.0,
       "eps": 40.0,
       "bookValue": 241.2,
-      "dividendYield": 1.37,
+      "dividendYield": 1.38,
       "profitTrend": [
         279,
         357,
@@ -1484,7 +1484,7 @@
         "Equity": 24464,
         "Cash": 766
       },
-      "marketSharePct": 13.9
+      "marketSharePct": 14.2
     },
     {
       "symbol": "AXISBANK",
@@ -1579,7 +1579,7 @@
       "roe": 27.2,
       "eps": 17.4,
       "bookValue": 68.6,
-      "dividendYield": 1.11,
+      "dividendYield": 1.13,
       "profitTrend": [
         201,
         313,
@@ -1627,7 +1627,7 @@
       "sector": "Automobile and Auto Components",
       "price": 10979.0,
       "changePct": 0.63,
-      "marketCap": 301459,
+      "marketCap": 301707,
       "pe": 23.4,
       "debtToEquity": 0.7,
       "roe": 35.6,
@@ -1646,7 +1646,7 @@
         "Equity": 38832,
         "Cash": 2990
       },
-      "marketSharePct": 9.5
+      "marketSharePct": 10.7
     },
     {
       "symbol": "BAJFINANCE",
@@ -1660,7 +1660,7 @@
       "roe": 19.0,
       "eps": 34.8,
       "bookValue": 198.0,
-      "dividendYield": 0.5,
+      "dividendYield": 0.51,
       "profitTrend": [
         11508,
         14451,
@@ -1682,10 +1682,10 @@
       "price": 1836.9,
       "changePct": -0.98,
       "marketCap": 293949,
-      "pe": 27.6,
+      "pe": 27.8,
       "debtToEquity": 2.82,
       "roe": 15.2,
-      "eps": 66.5,
+      "eps": 66.2,
       "bookValue": 524.4,
       "dividendYield": 0.07,
       "profitTrend": [
@@ -1700,7 +1700,7 @@
         "Equity": 77915,
         "Cash": 3599
       },
-      "marketSharePct": 2.7
+      "marketSharePct": 2.6
     },
     {
       "symbol": "BAJAJHLDNG",
@@ -1714,7 +1714,7 @@
       "roe": 11.6,
       "eps": 834.9,
       "bookValue": 6630.3,
-      "dividendYield": 1.17,
+      "dividendYield": 1.19,
       "profitTrend": [
         4851,
         7267,
@@ -1736,10 +1736,10 @@
       "price": 81.16,
       "changePct": -0.67,
       "marketCap": 67598,
-      "pe": 24.6,
+      "pe": 24.1,
       "debtToEquity": 4.92,
       "roe": 12.4,
-      "eps": 3.3,
+      "eps": 3.4,
       "bookValue": 28.9,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -1768,7 +1768,7 @@
       "roe": 12.9,
       "eps": 73.7,
       "bookValue": 603.1,
-      "dividendYield": 0.67,
+      "dividendYield": 0.68,
       "profitTrend": [
         1057,
         1471,
@@ -1781,7 +1781,7 @@
         "Equity": 10955,
         "Cash": 61
       },
-      "marketSharePct": 1.4
+      "marketSharePct": 1.6
     },
     {
       "symbol": "BALRAMCHIN",
@@ -1794,8 +1794,8 @@
       "debtToEquity": 0.33,
       "roe": 9.7,
       "eps": 20.4,
-      "bookValue": 224.7,
-      "dividendYield": 0.6,
+      "bookValue": 224.4,
+      "dividendYield": 0.61,
       "profitTrend": [
         284,
         534,
@@ -1820,9 +1820,9 @@
       "pe": 14.6,
       "debtToEquity": 0.0,
       "roe": 7.3,
-      "eps": 11.5,
+      "eps": 11.6,
       "bookValue": 164.3,
-      "dividendYield": 0.91,
+      "dividendYield": 0.89,
       "profitTrend": [
         2195,
         2230,
@@ -1849,7 +1849,7 @@
       "roe": 11.9,
       "eps": 38.2,
       "bookValue": 338.0,
-      "dividendYield": 3.42,
+      "dividendYield": 3.27,
       "profitTrend": [
         14905,
         18767,
@@ -1876,7 +1876,7 @@
       "roe": 14.1,
       "eps": 27.5,
       "bookValue": 206.6,
-      "dividendYield": 3.35,
+      "dividendYield": 3.21,
       "profitTrend": [
         3838,
         6564,
@@ -1903,7 +1903,7 @@
       "roe": 23.3,
       "eps": 10.4,
       "bookValue": 48.6,
-      "dividendYield": 2.55,
+      "dividendYield": 2.51,
       "profitTrend": [
         2605,
         4072,
@@ -1925,12 +1925,12 @@
       "price": 639.25,
       "changePct": -0.51,
       "marketCap": 8216,
-      "pe": 55.0,
+      "pe": 54.6,
       "debtToEquity": 1.12,
       "roe": 10.9,
-      "eps": 11.6,
+      "eps": 11.7,
       "bookValue": 96.6,
-      "dividendYield": 5.29,
+      "dividendYield": 5.32,
       "profitTrend": [
         323,
         263,
@@ -1984,7 +1984,7 @@
       "roe": 18.4,
       "eps": 10.5,
       "bookValue": 60.7,
-      "dividendYield": 0.83,
+      "dividendYield": 0.85,
       "profitTrend": [
         859,
         1168,
@@ -2033,12 +2033,12 @@
       "price": 1109.65,
       "changePct": 3.8,
       "marketCap": 40676,
-      "pe": 78.8,
+      "pe": 78.1,
       "debtToEquity": 0.0,
       "roe": 0.0,
-      "eps": 14.1,
+      "eps": 14.2,
       "bookValue": 115.8,
-      "dividendYield": 0.46,
+      "dividendYield": 0.44,
       "profitTrend": [
         352,
         613,
@@ -2078,7 +2078,7 @@
         "Equity": 23988,
         "Cash": 1888
       },
-      "marketSharePct": 8.3
+      "marketSharePct": 8.6
     },
     {
       "symbol": "BHARATFORG",
@@ -2105,7 +2105,7 @@
         "Equity": 9580,
         "Cash": 848
       },
-      "marketSharePct": 2.6
+      "marketSharePct": 3.0
     },
     {
       "symbol": "BHEL",
@@ -2119,7 +2119,7 @@
       "roe": 11.3,
       "eps": 8.3,
       "bookValue": 76.9,
-      "dividendYield": 0.34,
+      "dividendYield": 0.33,
       "profitTrend": [
         637,
         282,
@@ -2132,7 +2132,7 @@
         "Equity": 26147,
         "Cash": 1083
       },
-      "marketSharePct": 4.2
+      "marketSharePct": 4.4
     },
     {
       "symbol": "BPCL",
@@ -2146,7 +2146,7 @@
       "roe": 16.2,
       "eps": 37.0,
       "bookValue": 237.4,
-      "dividendYield": 6.3,
+      "dividendYield": 6.33,
       "profitTrend": [
         2131,
         26859,
@@ -2159,7 +2159,7 @@
         "Equity": 100170,
         "Cash": 320
       },
-      "marketSharePct": 4.2
+      "marketSharePct": 10.9
     },
     {
       "symbol": "BHARTIARTL",
@@ -2170,10 +2170,10 @@
       "marketCap": 1293460,
       "pe": 40.8,
       "debtToEquity": 1.0,
-      "roe": 20.2,
+      "roe": 21.4,
       "eps": 50.8,
-      "bookValue": 259.5,
-      "dividendYield": 1.15,
+      "bookValue": 253.4,
+      "dividendYield": 1.16,
       "profitTrend": [
         8346,
         7467,
@@ -2200,7 +2200,7 @@
       "roe": 0.0,
       "eps": 39.4,
       "bookValue": 143.3,
-      "dividendYield": 1.05,
+      "dividendYield": 1.09,
       "profitTrend": [
         549,
         504,
@@ -2237,7 +2237,7 @@
         "Equity": 9651,
         "Cash": 1165
       },
-      "marketSharePct": 1.3
+      "marketSharePct": 1.2
     },
     {
       "symbol": "BIOCON",
@@ -2278,7 +2278,7 @@
       "roe": 15.3,
       "eps": 21.9,
       "bookValue": 155.0,
-      "dividendYield": 2.06,
+      "dividendYield": 2.11,
       "profitTrend": [
         332,
         624,
@@ -2291,7 +2291,7 @@
         "Equity": 4113,
         "Cash": 426
       },
-      "marketSharePct": 0.3
+      "marketSharePct": 0.5
     },
     {
       "symbol": "BBOX",
@@ -2300,10 +2300,10 @@
       "price": 814.75,
       "changePct": -3.09,
       "marketCap": 14470,
-      "pe": 64.8,
+      "pe": 62.5,
       "debtToEquity": 0.9,
       "roe": 0.0,
-      "eps": 12.6,
+      "eps": 13.0,
       "bookValue": 72.5,
       "dividendYield": 0.12,
       "profitTrend": [
@@ -2318,7 +2318,7 @@
         "Equity": 1287,
         "Cash": 528
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.7
     },
     {
       "symbol": "BLUESTARCO",
@@ -2327,10 +2327,10 @@
       "price": 1577.5,
       "changePct": 0.67,
       "marketCap": 32432,
-      "pe": 60.4,
+      "pe": 60.7,
       "debtToEquity": 0.22,
       "roe": 16.2,
-      "eps": 26.1,
+      "eps": 26.0,
       "bookValue": 169.7,
       "dividendYield": 0.54,
       "profitTrend": [
@@ -2353,13 +2353,13 @@
       "sector": "Automobile and Auto Components",
       "price": 49550.0,
       "changePct": -2.46,
-      "marketCap": 146153,
+      "marketCap": 0,
       "pe": 53.0,
       "debtToEquity": 0.03,
       "roe": 23.3,
-      "eps": 934.6,
+      "eps": 934.7,
       "bookValue": 2599.5,
-      "dividendYield": 0.53,
+      "dividendYield": 0.54,
       "profitTrend": [
         1426,
         2491,
@@ -2372,7 +2372,7 @@
         "Equity": 14845,
         "Cash": 396
       },
-      "marketSharePct": 4.6
+      "marketSharePct": 0.0
     },
     {
       "symbol": "FIRSTCRY",
@@ -2413,7 +2413,7 @@
       "roe": 11.1,
       "eps": 22.2,
       "bookValue": 219.5,
-      "dividendYield": 0.36,
+      "dividendYield": 0.37,
       "profitTrend": [
         291,
         452,
@@ -2521,7 +2521,7 @@
       "roe": 12.2,
       "eps": 11.7,
       "bookValue": 94.3,
-      "dividendYield": 4.58,
+      "dividendYield": 4.65,
       "profitTrend": [
         1343,
         1376,
@@ -2548,7 +2548,7 @@
       "roe": 16.4,
       "eps": 8.7,
       "bookValue": 55.6,
-      "dividendYield": 0.17,
+      "dividendYield": 0.16,
       "profitTrend": [
         963,
         1427,
@@ -2561,7 +2561,7 @@
         "Equity": 7970,
         "Cash": 301
       },
-      "marketSharePct": 3.6
+      "marketSharePct": 3.8
     },
     {
       "symbol": "CIEINDIA",
@@ -2575,7 +2575,7 @@
       "roe": 0.0,
       "eps": 24.4,
       "bookValue": 204.1,
-      "dividendYield": 1.93,
+      "dividendYield": 1.94,
       "profitTrend": [
         -136,
         1125,
@@ -2588,7 +2588,7 @@
         "Equity": 7459,
         "Cash": 228
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.5
     },
     {
       "symbol": "CRISIL",
@@ -2602,7 +2602,7 @@
       "roe": 0.0,
       "eps": 122.5,
       "bookValue": 447.3,
-      "dividendYield": 1.52,
+      "dividendYield": 1.55,
       "profitTrend": [
         564,
         658,
@@ -2629,7 +2629,7 @@
       "roe": 19.4,
       "eps": 86.6,
       "bookValue": 481.9,
-      "dividendYield": 2.1,
+      "dividendYield": 2.11,
       "profitTrend": [
         621,
         751,
@@ -2656,7 +2656,7 @@
       "roe": 15.1,
       "eps": 22.5,
       "bookValue": 141.1,
-      "dividendYield": 3.41,
+      "dividendYield": 3.28,
       "profitTrend": [
         11255,
         15279,
@@ -2669,7 +2669,7 @@
         "Equity": 117705,
         "Cash": 206330
       },
-      "marketSharePct": 1.1
+      "marketSharePct": 1.0
     },
     {
       "symbol": "CANHLIFE",
@@ -2678,7 +2678,7 @@
       "price": 119.63,
       "changePct": -0.72,
       "marketCap": 11316,
-      "pe": 83.7,
+      "pe": 84.8,
       "debtToEquity": 0.15,
       "roe": 8.4,
       "eps": 1.4,
@@ -2708,7 +2708,7 @@
       "roe": 0.0,
       "eps": 87.3,
       "bookValue": 462.0,
-      "dividendYield": 0.33,
+      "dividendYield": 0.32,
       "profitTrend": [
         376,
         457,
@@ -2816,7 +2816,7 @@
       "roe": 0.0,
       "eps": 10.2,
       "bookValue": 19.3,
-      "dividendYield": 6.53,
+      "dividendYield": 6.57,
       "profitTrend": [
         815,
         864,
@@ -2829,7 +2829,7 @@
         "Equity": 1900,
         "Cash": 427
       },
-      "marketSharePct": 0.6
+      "marketSharePct": 1.5
     },
     {
       "symbol": "CEATLTD",
@@ -2843,7 +2843,7 @@
       "roe": 10.8,
       "eps": 127.9,
       "bookValue": 1230.9,
-      "dividendYield": 1.0,
+      "dividendYield": 1.01,
       "profitTrend": [
         186,
         643,
@@ -2856,7 +2856,7 @@
         "Equity": 5046,
         "Cash": 40
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.5
     },
     {
       "symbol": "CEMPRO",
@@ -2868,7 +2868,7 @@
       "pe": 36.0,
       "debtToEquity": 0.35,
       "roe": 26.7,
-      "eps": 36.3,
+      "eps": 36.4,
       "bookValue": 152.4,
       "dividendYield": 0.23,
       "profitTrend": [
@@ -2897,7 +2897,7 @@
       "roe": 12.0,
       "eps": 5.3,
       "bookValue": 46.0,
-      "dividendYield": 3.24,
+      "dividendYield": 3.2,
       "profitTrend": [
         1679,
         2668,
@@ -2924,7 +2924,7 @@
       "roe": 26.4,
       "eps": 24.2,
       "bookValue": 94.9,
-      "dividendYield": 0.95,
+      "dividendYield": 0.94,
       "profitTrend": [
         276,
         419,
@@ -2946,12 +2946,12 @@
       "price": 182.92,
       "changePct": -0.29,
       "marketCap": 0,
-      "pe": 20.1,
+      "pe": 19.4,
       "debtToEquity": 0.0,
       "roe": 0.0,
-      "eps": 9.1,
+      "eps": 9.4,
       "bookValue": 34.2,
-      "dividendYield": 1.14,
+      "dividendYield": 1.15,
       "profitTrend": [
         297,
         503,
@@ -2978,7 +2978,7 @@
       "roe": 18.1,
       "eps": 47.7,
       "bookValue": 283.4,
-      "dividendYield": 2.8,
+      "dividendYield": 2.83,
       "profitTrend": [
         1034,
         1276,
@@ -3000,12 +3000,12 @@
       "price": 1460.9,
       "changePct": 0.3,
       "marketCap": 21754,
-      "pe": 3.9,
+      "pe": 3.8,
       "debtToEquity": 0.16,
       "roe": 50.9,
-      "eps": 379.0,
+      "eps": 382.9,
       "bookValue": 912.8,
-      "dividendYield": 5.42,
+      "dividendYield": 5.41,
       "profitTrend": [
         3532,
         2745,
@@ -3018,7 +3018,7 @@
         "Equity": 11109,
         "Cash": 905
       },
-      "marketSharePct": 0.7
+      "marketSharePct": 1.7
     },
     {
       "symbol": "CHOICEIN",
@@ -3113,7 +3113,7 @@
       "roe": 8.3,
       "eps": 35.8,
       "bookValue": 438.1,
-      "dividendYield": 0.92,
+      "dividendYield": 0.93,
       "profitTrend": [
         2802,
         4122,
@@ -3140,7 +3140,7 @@
       "roe": 14.1,
       "eps": 15.9,
       "bookValue": 113.0,
-      "dividendYield": 0.91,
+      "dividendYield": 0.89,
       "profitTrend": [
         937,
         1016,
@@ -3194,7 +3194,7 @@
       "roe": 14.7,
       "eps": 21.9,
       "bookValue": 157.2,
-      "dividendYield": 0.88,
+      "dividendYield": 0.86,
       "profitTrend": [
         295,
         244,
@@ -3221,7 +3221,7 @@
       "roe": 28.3,
       "eps": 54.1,
       "bookValue": 206.8,
-      "dividendYield": 10.22,
+      "dividendYield": 10.21,
       "profitTrend": [
         31763,
         37402,
@@ -3234,7 +3234,7 @@
         "Equity": 119102,
         "Cash": 8620
       },
-      "marketSharePct": 7.6
+      "marketSharePct": 19.8
     },
     {
       "symbol": "COCHINSHIP",
@@ -3248,7 +3248,7 @@
       "roe": 0.0,
       "eps": 25.9,
       "bookValue": 223.2,
-      "dividendYield": 0.73,
+      "dividendYield": 0.7,
       "profitTrend": [
         305,
         783,
@@ -3270,12 +3270,12 @@
       "price": 2047.0,
       "changePct": -1.21,
       "marketCap": 90695,
-      "pe": 40.1,
+      "pe": 40.2,
       "debtToEquity": 0.27,
       "roe": 13.3,
-      "eps": 51.1,
+      "eps": 51.0,
       "bookValue": 504.6,
-      "dividendYield": 0.77,
+      "dividendYield": 0.78,
       "profitTrend": [
         694,
         808,
@@ -3288,7 +3288,7 @@
         "Equity": 9538,
         "Cash": 1094
       },
-      "marketSharePct": 3.2
+      "marketSharePct": 4.6
     },
     {
       "symbol": "COHANCE",
@@ -3297,7 +3297,7 @@
       "price": 443.65,
       "changePct": 0.37,
       "marketCap": 16975,
-      "pe": 379.2,
+      "pe": 372.8,
       "debtToEquity": 0.1,
       "roe": 0.0,
       "eps": 1.2,
@@ -3329,7 +3329,7 @@
       "roe": 85.1,
       "eps": 50.1,
       "bookValue": 59.5,
-      "dividendYield": 2.84,
+      "dividendYield": 2.83,
       "profitTrend": [
         1047,
         1324,
@@ -3356,7 +3356,7 @@
       "roe": 38.2,
       "eps": 20.5,
       "bookValue": 58.1,
-      "dividendYield": 1.79,
+      "dividendYield": 1.8,
       "profitTrend": [
         285,
         354,
@@ -3381,9 +3381,9 @@
       "pe": 44.7,
       "debtToEquity": 0.0,
       "roe": 14.3,
-      "eps": 13.3,
+      "eps": 13.4,
       "bookValue": 97.7,
-      "dividendYield": 0.62,
+      "dividendYield": 0.63,
       "profitTrend": [
         240,
         308,
@@ -3410,7 +3410,7 @@
       "roe": 9.3,
       "eps": 16.0,
       "bookValue": 175.5,
-      "dividendYield": 1.95,
+      "dividendYield": 1.93,
       "profitTrend": [
         1174,
         1247,
@@ -3432,12 +3432,12 @@
       "price": 1879.2,
       "changePct": 2.85,
       "marketCap": 55350,
-      "pe": 35.6,
+      "pe": 35.5,
       "debtToEquity": 0.12,
       "roe": 11.3,
-      "eps": 52.8,
+      "eps": 52.9,
       "bookValue": 455.4,
-      "dividendYield": 0.6,
+      "dividendYield": 0.59,
       "profitTrend": [
         2013,
         1642,
@@ -3462,7 +3462,7 @@
       "pe": 49.0,
       "debtToEquity": 0.71,
       "roe": 12.3,
-      "eps": 214.4,
+      "eps": 214.3,
       "bookValue": 2107.1,
       "dividendYield": 0.11,
       "profitTrend": [
@@ -3477,7 +3477,7 @@
         "Equity": 3264,
         "Cash": 145
       },
-      "marketSharePct": 0.9
+      "marketSharePct": 1.0
     },
     {
       "symbol": "CREDITACC",
@@ -3518,7 +3518,7 @@
       "roe": -4.4,
       "eps": -2.7,
       "bookValue": 47.0,
-      "dividendYield": 1.38,
+      "dividendYield": 1.37,
       "profitTrend": [
         463,
         440,
@@ -3558,7 +3558,7 @@
         "Equity": 8475,
         "Cash": 500
       },
-      "marketSharePct": 3.3
+      "marketSharePct": 3.4
     },
     {
       "symbol": "CUPID",
@@ -3567,7 +3567,7 @@
       "price": 342.85,
       "changePct": 0.04,
       "marketCap": 46102,
-      "pe": 346.3,
+      "pe": 342.9,
       "debtToEquity": 0.13,
       "roe": 0.0,
       "eps": 1.0,
@@ -3599,7 +3599,7 @@
       "roe": 6.9,
       "eps": 34.0,
       "bookValue": 484.6,
-      "dividendYield": 2.12,
+      "dividendYield": 2.2,
       "profitTrend": [
         514,
         683,
@@ -3612,7 +3612,7 @@
         "Equity": 5682,
         "Cash": 1452
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.6
     },
     {
       "symbol": "DLF",
@@ -3621,12 +3621,12 @@
       "price": 755.0,
       "changePct": 1.21,
       "marketCap": 186886,
-      "pe": 40.6,
+      "pe": 40.9,
       "debtToEquity": 0.01,
       "roe": 10.3,
-      "eps": 18.6,
+      "eps": 18.4,
       "bookValue": 183.9,
-      "dividendYield": 1.07,
+      "dividendYield": 1.06,
       "profitTrend": [
         2036,
         2727,
@@ -3653,7 +3653,7 @@
       "roe": 15.9,
       "eps": 32.2,
       "bookValue": 211.3,
-      "dividendYield": 0.17,
+      "dividendYield": 0.18,
       "profitTrend": [
         96,
         153,
@@ -3680,7 +3680,7 @@
       "roe": 17.2,
       "eps": 11.4,
       "bookValue": 64.8,
-      "dividendYield": 2.16,
+      "dividendYield": 2.4,
       "profitTrend": [
         1707,
         1843,
@@ -3707,7 +3707,7 @@
       "roe": 2.8,
       "eps": 26.1,
       "bookValue": 951.7,
-      "dividendYield": 0.6,
+      "dividendYield": 0.61,
       "profitTrend": [
         1035,
         826,
@@ -3729,10 +3729,10 @@
       "price": 4025.0,
       "changePct": 8.67,
       "marketCap": 22534,
-      "pe": 92.2,
+      "pe": 93.8,
       "debtToEquity": 0.0,
       "roe": 0.0,
-      "eps": 43.7,
+      "eps": 42.9,
       "bookValue": 310.1,
       "dividendYield": 0.27,
       "profitTrend": [
@@ -3747,7 +3747,7 @@
         "Equity": 1736,
         "Cash": 57
       },
-      "marketSharePct": 0.6
+      "marketSharePct": 0.7
     },
     {
       "symbol": "DEEPAKFERT",
@@ -3761,7 +3761,7 @@
       "roe": 0.0,
       "eps": 78.0,
       "bookValue": 542.1,
-      "dividendYield": 0.87,
+      "dividendYield": 0.85,
       "profitTrend": [
         1210,
         453,
@@ -3788,7 +3788,7 @@
       "roe": 17.6,
       "eps": 77.9,
       "bookValue": 474.8,
-      "dividendYield": 0.48,
+      "dividendYield": 0.49,
       "profitTrend": [
         852,
         811,
@@ -3810,7 +3810,7 @@
       "price": 433.15,
       "changePct": 0.73,
       "marketCap": 32466,
-      "pe": 179.7,
+      "pe": 179.0,
       "debtToEquity": 0.15,
       "roe": 1.9,
       "eps": 2.4,
@@ -3864,12 +3864,12 @@
       "price": 11565.5,
       "changePct": 4.22,
       "marketCap": 307028,
-      "pe": 98.1,
+      "pe": 91.3,
       "debtToEquity": 0.0,
       "roe": 20.1,
-      "eps": 117.9,
+      "eps": 126.7,
       "bookValue": 678.5,
-      "dividendYield": 0.27,
+      "dividendYield": 0.26,
       "profitTrend": [
         1824,
         1600,
@@ -3923,7 +3923,7 @@
       "roe": 22.6,
       "eps": 34.9,
       "bookValue": 164.4,
-      "dividendYield": 1.0,
+      "dividendYield": 0.99,
       "profitTrend": [
         239,
         358,
@@ -3945,10 +3945,10 @@
       "price": 1385.0,
       "changePct": 1.09,
       "marketCap": 115462,
-      "pe": 41.1,
+      "pe": 41.2,
       "debtToEquity": 0.19,
       "roe": 7.3,
-      "eps": 33.7,
+      "eps": 33.6,
       "bookValue": 463.6,
       "dividendYield": 0.58,
       "profitTrend": [
@@ -4004,7 +4004,7 @@
       "roe": 0.0,
       "eps": 11.4,
       "bookValue": 84.1,
-      "dividendYield": 0.48,
+      "dividendYield": 0.49,
       "profitTrend": [
         315,
         639,
@@ -4026,7 +4026,7 @@
       "price": 369.92,
       "changePct": 0.0,
       "marketCap": 35064,
-      "pe": 93.9,
+      "pe": 92.7,
       "debtToEquity": 0.0,
       "roe": 0.0,
       "eps": 0.0,
@@ -4071,7 +4071,7 @@
         "Equity": 25100,
         "Cash": 234
       },
-      "marketSharePct": 6.6
+      "marketSharePct": 7.4
     },
     {
       "symbol": "ELECON",
@@ -4085,7 +4085,7 @@
       "roe": 10.3,
       "eps": 10.9,
       "bookValue": 111.7,
-      "dividendYield": 0.46,
+      "dividendYield": 0.47,
       "profitTrend": [
         238,
         356,
@@ -4139,7 +4139,7 @@
       "roe": 25.5,
       "eps": 17.1,
       "bookValue": 67.0,
-      "dividendYield": 2.56,
+      "dividendYield": 2.44,
       "profitTrend": [
         640,
         724,
@@ -4193,7 +4193,7 @@
       "roe": 53.1,
       "eps": 20.8,
       "bookValue": 63.4,
-      "dividendYield": 0.37,
+      "dividendYield": 0.38,
       "profitTrend": [
         9,
         29,
@@ -4220,7 +4220,7 @@
       "roe": 15.1,
       "eps": 72.3,
       "bookValue": 513.6,
-      "dividendYield": 0.45,
+      "dividendYield": 0.46,
       "profitTrend": [
         480,
         680,
@@ -4233,7 +4233,7 @@
         "Equity": 6841,
         "Cash": 875
       },
-      "marketSharePct": 1.1
+      "marketSharePct": 1.2
     },
     {
       "symbol": "ENGINERSIN",
@@ -4242,12 +4242,12 @@
       "price": 299.35,
       "changePct": 1.58,
       "marketCap": 16825,
-      "pe": 18.9,
+      "pe": 18.8,
       "debtToEquity": 0.0,
       "roe": 29.7,
-      "eps": 15.8,
+      "eps": 16.0,
       "bookValue": 59.5,
-      "dividendYield": 2.21,
+      "dividendYield": 2.17,
       "profitTrend": [
         346,
         445,
@@ -4274,7 +4274,7 @@
       "roe": 10.7,
       "eps": 119.5,
       "bookValue": 1148.9,
-      "dividendYield": 1.32,
+      "dividendYield": 1.36,
       "profitTrend": [
         637,
         1077,
@@ -4314,7 +4314,7 @@
         "Equity": 30980,
         "Cash": 993
       },
-      "marketSharePct": 20.6
+      "marketSharePct": 21.0
     },
     {
       "symbol": "EXIDEIND",
@@ -4323,12 +4323,12 @@
       "price": 385.05,
       "changePct": 5.1,
       "marketCap": 32729,
-      "pe": 32.1,
+      "pe": 31.3,
       "debtToEquity": 0.12,
       "roe": 7.3,
-      "eps": 12.0,
+      "eps": 12.3,
       "bookValue": 163.1,
-      "dividendYield": 0.55,
+      "dividendYield": 0.52,
       "profitTrend": [
         823,
         877,
@@ -4341,7 +4341,7 @@
         "Equity": 13905,
         "Cash": 251
       },
-      "marketSharePct": 1.0
+      "marketSharePct": 1.2
     },
     {
       "symbol": "NYKAA",
@@ -4368,7 +4368,7 @@
         "Equity": 1438,
         "Cash": 177
       },
-      "marketSharePct": 6.3
+      "marketSharePct": 6.5
     },
     {
       "symbol": "FEDERALBNK",
@@ -4382,7 +4382,7 @@
       "roe": 13.3,
       "eps": 20.5,
       "bookValue": 173.2,
-      "dividendYield": 0.36,
+      "dividendYield": 0.35,
       "profitTrend": [
         3165,
         3880,
@@ -4449,7 +4449,7 @@
         "Equity": 6086,
         "Cash": 163
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.6
     },
     {
       "symbol": "FSL",
@@ -4463,7 +4463,7 @@
       "roe": 15.7,
       "eps": 10.3,
       "bookValue": 70.6,
-      "dividendYield": 1.88,
+      "dividendYield": 1.84,
       "profitTrend": [
         514,
         515,
@@ -4517,7 +4517,7 @@
       "roe": 29.3,
       "eps": 907.0,
       "bookValue": 3519.7,
-      "dividendYield": 0.26,
+      "dividendYield": 0.27,
       "profitTrend": [
         134,
         388,
@@ -4530,7 +4530,7 @@
         "Equity": 4194,
         "Cash": 830
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 0.9
     },
     {
       "symbol": "FORTIS",
@@ -4584,7 +4584,7 @@
         "Equity": 3185,
         "Cash": 207
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.7
     },
     {
       "symbol": "GAIL",
@@ -4598,7 +4598,7 @@
       "roe": 13.6,
       "eps": 19.2,
       "bookValue": 147.2,
-      "dividendYield": 2.98,
+      "dividendYield": 2.93,
       "profitTrend": [
         5616,
         9899,
@@ -4611,7 +4611,7 @@
         "Equity": 89050,
         "Cash": 959
       },
-      "marketSharePct": 3.8
+      "marketSharePct": 9.9
     },
     {
       "symbol": "GVT&D",
@@ -4625,7 +4625,7 @@
       "roe": 53.4,
       "eps": 56.4,
       "bookValue": 128.6,
-      "dividendYield": 0.25,
+      "dividendYield": 0.24,
       "profitTrend": [
         -1,
         181,
@@ -4638,7 +4638,7 @@
         "Equity": 2690,
         "Cash": 1525
       },
-      "marketSharePct": 3.0
+      "marketSharePct": 3.2
     },
     {
       "symbol": "GMRAIRPORT",
@@ -4679,7 +4679,7 @@
       "roe": 15.2,
       "eps": 21.3,
       "bookValue": 124.8,
-      "dividendYield": 0.38,
+      "dividendYield": 0.37,
       "profitTrend": [
         132,
         179,
@@ -4692,7 +4692,7 @@
         "Equity": 1369,
         "Cash": 114
       },
-      "marketSharePct": 0.9
+      "marketSharePct": 1.0
     },
     {
       "symbol": "GALLANTT",
@@ -4733,7 +4733,7 @@
       "roe": 0.0,
       "eps": 69.9,
       "bookValue": 229.3,
-      "dividendYield": 0.91,
+      "dividendYield": 0.89,
       "profitTrend": [
         228,
         357,
@@ -4746,7 +4746,7 @@
         "Equity": 2626,
         "Cash": 17
       },
-      "marketSharePct": 0.7
+      "marketSharePct": 0.8
     },
     {
       "symbol": "GICRE",
@@ -4760,7 +4760,7 @@
       "roe": 9.4,
       "eps": 51.1,
       "bookValue": 571.8,
-      "dividendYield": 3.91,
+      "dividendYield": 3.96,
       "profitTrend": [
         6907,
         6686,
@@ -4786,7 +4786,7 @@
       "roe": 0.0,
       "eps": 205.0,
       "bookValue": 290.5,
-      "dividendYield": 2.42,
+      "dividendYield": 2.45,
       "profitTrend": [
         289,
         356,
@@ -4840,7 +4840,7 @@
       "roe": 63.9,
       "eps": 67.7,
       "bookValue": 111.1,
-      "dividendYield": 2.24,
+      "dividendYield": 2.1,
       "profitTrend": [
         611,
         590,
@@ -4894,7 +4894,7 @@
       "roe": 15.2,
       "eps": 23.0,
       "bookValue": 160.8,
-      "dividendYield": 0.04,
+      "dividendYield": 0.03,
       "profitTrend": [
         326,
         478,
@@ -4921,7 +4921,7 @@
       "roe": 0.0,
       "eps": 12.7,
       "bookValue": 94.6,
-      "dividendYield": 0.47,
+      "dividendYield": 0.48,
       "profitTrend": [
         793,
         935,
@@ -5024,12 +5024,12 @@
       "price": 1814.6,
       "changePct": 1.09,
       "marketCap": 54661,
-      "pe": 40.2,
+      "pe": 40.5,
       "debtToEquity": 1.02,
       "roe": 7.0,
-      "eps": 45.1,
+      "eps": 44.8,
       "bookValue": 643.0,
-      "dividendYield": 0.56,
+      "dividendYield": 0.55,
       "profitTrend": [
         571,
         725,
@@ -5083,7 +5083,7 @@
       "roe": 3.8,
       "eps": 11.9,
       "bookValue": 305.3,
-      "dividendYield": 0.96,
+      "dividendYield": 0.92,
       "profitTrend": [
         199,
         808,
@@ -5110,7 +5110,7 @@
       "roe": 0.0,
       "eps": 83.8,
       "bookValue": 1525.5,
-      "dividendYield": 0.31,
+      "dividendYield": 0.32,
       "profitTrend": [
         6827,
         5624,
@@ -5132,10 +5132,10 @@
       "price": 1496.6,
       "changePct": -0.61,
       "marketCap": 10903,
-      "pe": 27.6,
+      "pe": 27.4,
       "debtToEquity": 0.33,
       "roe": 16.2,
-      "eps": 54.2,
+      "eps": 54.6,
       "bookValue": 363.3,
       "dividendYield": 0.51,
       "profitTrend": [
@@ -5158,7 +5158,7 @@
       "sector": "Services",
       "price": 1426.0,
       "changePct": -2.93,
-      "marketCap": 19200,
+      "marketCap": 19163,
       "pe": 4.6,
       "debtToEquity": 0.06,
       "roe": 0.0,
@@ -5218,7 +5218,7 @@
       "roe": 9.6,
       "eps": 20.8,
       "bookValue": 223.1,
-      "dividendYield": 2.01,
+      "dividendYield": 1.99,
       "profitTrend": [
         1204,
         597,
@@ -5258,7 +5258,7 @@
         "Equity": 2214,
         "Cash": 528
       },
-      "marketSharePct": 0.6
+      "marketSharePct": 0.7
     },
     {
       "symbol": "HCLTECH",
@@ -5272,7 +5272,7 @@
       "roe": 24.6,
       "eps": 67.6,
       "bookValue": 276.7,
-      "dividendYield": 3.33,
+      "dividendYield": 3.41,
       "profitTrend": [
         14851,
         15702,
@@ -5285,7 +5285,7 @@
         "Equity": 75165,
         "Cash": 8212
       },
-      "marketSharePct": 13.2
+      "marketSharePct": 19.2
     },
     {
       "symbol": "HDBFS",
@@ -5299,7 +5299,7 @@
       "roe": 14.3,
       "eps": 35.6,
       "bookValue": 266.6,
-      "dividendYield": 0.74,
+      "dividendYield": 0.73,
       "profitTrend": [
         1959,
         2461,
@@ -5326,7 +5326,7 @@
       "roe": 36.4,
       "eps": 69.2,
       "bookValue": 201.0,
-      "dividendYield": 2.04,
+      "dividendYield": 2.06,
       "profitTrend": [
         1423,
         1943,
@@ -5352,7 +5352,7 @@
       "roe": 11.0,
       "eps": 45.8,
       "bookValue": 394.8,
-      "dividendYield": 1.66,
+      "dividendYield": 1.63,
       "profitTrend": [
         49545,
         62266,
@@ -5365,7 +5365,7 @@
         "Equity": 816740,
         "Cash": 365067
       },
-      "marketSharePct": 11.2
+      "marketSharePct": 11.1
     },
     {
       "symbol": "HDFCLIFE",
@@ -5406,7 +5406,7 @@
       "roe": 12.3,
       "eps": 13.2,
       "bookValue": 79.5,
-      "dividendYield": 1.16,
+      "dividendYield": 1.18,
       "profitTrend": [
         532,
         312,
@@ -5433,7 +5433,7 @@
       "roe": 18.7,
       "eps": 5.7,
       "bookValue": 36.9,
-      "dividendYield": 0.09,
+      "dividendYield": 0.1,
       "profitTrend": [
         301,
         330,
@@ -5460,7 +5460,7 @@
       "roe": 18.0,
       "eps": 26.5,
       "bookValue": 155.7,
-      "dividendYield": 1.07,
+      "dividendYield": 1.03,
       "profitTrend": [
         1072,
         1271,
@@ -5487,7 +5487,7 @@
       "roe": 26.9,
       "eps": 299.6,
       "bookValue": 1169.5,
-      "dividendYield": 3.38,
+      "dividendYield": 3.42,
       "profitTrend": [
         2810,
         3745,
@@ -5500,7 +5500,7 @@
         "Equity": 21611,
         "Cash": 687
       },
-      "marketSharePct": 3.4
+      "marketSharePct": 3.8
     },
     {
       "symbol": "HEXT",
@@ -5514,7 +5514,7 @@
       "roe": 20.8,
       "eps": 22.8,
       "bookValue": 118.2,
-      "dividendYield": 3.51,
+      "dividendYield": 3.61,
       "profitTrend": [
         884,
         998,
@@ -5527,7 +5527,7 @@
         "Equity": 6316,
         "Cash": 1971
       },
-      "marketSharePct": 1.1
+      "marketSharePct": 1.5
     },
     {
       "symbol": "HSCL",
@@ -5566,7 +5566,7 @@
       "pe": 11.1,
       "debtToEquity": 0.74,
       "roe": 13.0,
-      "eps": 86.7,
+      "eps": 86.2,
       "bookValue": 719.3,
       "dividendYield": 0.52,
       "profitTrend": [
@@ -5608,7 +5608,7 @@
         "Equity": 41041,
         "Cash": 3768
       },
-      "marketSharePct": 9.6
+      "marketSharePct": 10.0
     },
     {
       "symbol": "HINDCOPPER",
@@ -5622,7 +5622,7 @@
       "roe": 0.0,
       "eps": 11.7,
       "bookValue": 34.5,
-      "dividendYield": 0.66,
+      "dividendYield": 0.67,
       "profitTrend": [
         295,
         295,
@@ -5644,12 +5644,12 @@
       "price": 385.75,
       "changePct": 0.56,
       "marketCap": 82081,
-      "pe": 56.6,
+      "pe": 57.1,
       "debtToEquity": 1.4,
       "roe": 2.6,
       "eps": 6.8,
       "bookValue": 247.7,
-      "dividendYield": 6.32,
+      "dividendYield": 6.29,
       "profitTrend": [
         -6980,
         16015,
@@ -5662,7 +5662,7 @@
         "Equity": 65556,
         "Cash": 124
       },
-      "marketSharePct": 2.5
+      "marketSharePct": 6.6
     },
     {
       "symbol": "HINDUNILVR",
@@ -5676,7 +5676,7 @@
       "roe": 21.6,
       "eps": 45.0,
       "bookValue": 207.7,
-      "dividendYield": 2.05,
+      "dividendYield": 2.06,
       "profitTrend": [
         10120,
         10277,
@@ -5703,7 +5703,7 @@
       "roe": 95.4,
       "eps": 49.3,
       "bookValue": 70.9,
-      "dividendYield": 1.94,
+      "dividendYield": 1.91,
       "profitTrend": [
         10511,
         7759,
@@ -5743,7 +5743,7 @@
         "Equity": 5176,
         "Cash": 2672
       },
-      "marketSharePct": 3.6
+      "marketSharePct": 3.8
     },
     {
       "symbol": "HOMEFIRST",
@@ -5784,7 +5784,7 @@
       "roe": 20.6,
       "eps": 8.7,
       "bookValue": 45.5,
-      "dividendYield": 0.64,
+      "dividendYield": 0.62,
       "profitTrend": [
         -143,
         112,
@@ -5811,7 +5811,7 @@
       "roe": 12.8,
       "eps": 639.4,
       "bookValue": 5272.6,
-      "dividendYield": 0.36,
+      "dividendYield": 0.37,
       "profitTrend": [
         438,
         501,
@@ -5838,7 +5838,7 @@
       "roe": 21.7,
       "eps": 22.3,
       "bookValue": 114.7,
-      "dividendYield": 3.3,
+      "dividendYield": 3.19,
       "profitTrend": [
         1701,
         2117,
@@ -5865,7 +5865,7 @@
       "roe": 24.1,
       "eps": 56.3,
       "bookValue": 250.7,
-      "dividendYield": 0.98,
+      "dividendYield": 1.0,
       "profitTrend": [
         4709,
         6060,
@@ -5878,7 +5878,7 @@
         "Equity": 20015,
         "Cash": 8712
       },
-      "marketSharePct": 5.4
+      "marketSharePct": 6.1
     },
     {
       "symbol": "ICICIBANK",
@@ -5892,7 +5892,7 @@
       "roe": 16.5,
       "eps": 81.4,
       "bookValue": 544.2,
-      "dividendYield": 0.77,
+      "dividendYield": 0.76,
       "profitTrend": [
         34037,
         44256,
@@ -5946,7 +5946,7 @@
       "roe": 13.6,
       "eps": 50.9,
       "bookValue": 418.2,
-      "dividendYield": 0.86,
+      "dividendYield": 0.84,
       "profitTrend": [
         1729,
         1919,
@@ -5958,7 +5958,7 @@
         "Equity": 16634,
         "Cash": 987
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 0.7
     },
     {
       "symbol": "ICICIAMC",
@@ -6047,7 +6047,7 @@
       "price": 61.64,
       "changePct": -0.47,
       "marketCap": 16608,
-      "pe": 97.8,
+      "pe": 96.3,
       "debtToEquity": 0.23,
       "roe": 0.0,
       "eps": 0.6,
@@ -6065,7 +6065,7 @@
         "Equity": 8945,
         "Cash": 8162
       },
-      "marketSharePct": 0.2
+      "marketSharePct": 0.1
     },
     {
       "symbol": "IIFL",
@@ -6106,7 +6106,7 @@
       "roe": 23.6,
       "eps": 28.6,
       "bookValue": 135.0,
-      "dividendYield": 0.1,
+      "dividendYield": 0.11,
       "profitTrend": [
         155,
         196,
@@ -6128,12 +6128,12 @@
       "price": 18.27,
       "changePct": 5.36,
       "marketCap": 22067,
-      "pe": 20.3,
+      "pe": 20.5,
       "debtToEquity": 0.94,
       "roe": 5.2,
       "eps": 0.9,
       "bookValue": 18.0,
-      "dividendYield": 1.15,
+      "dividendYield": 1.09,
       "profitTrend": [
         720,
         606,
@@ -6156,11 +6156,11 @@
       "changePct": 2.48,
       "marketCap": 10474,
       "pe": 21.5,
-      "debtToEquity": 0.86,
-      "roe": 0.0,
+      "debtToEquity": 0.87,
+      "roe": 7.3,
       "eps": 5.2,
-      "bookValue": 70.6,
-      "dividendYield": 1.76,
+      "bookValue": 71.8,
+      "dividendYield": 1.71,
       "profitTrend": [
         765,
         930,
@@ -6187,7 +6187,7 @@
       "roe": 8.2,
       "eps": 4.5,
       "bookValue": 56.6,
-      "dividendYield": 0.56,
+      "dividendYield": 0.57,
       "profitTrend": [
         635,
         817
@@ -6212,7 +6212,7 @@
       "roe": 26.8,
       "eps": 15.1,
       "bookValue": 56.9,
-      "dividendYield": 5.64,
+      "dividendYield": 5.74,
       "profitTrend": [
         19192,
         20459,
@@ -6293,7 +6293,7 @@
       "roe": 22.5,
       "eps": 83.2,
       "bookValue": 385.2,
-      "dividendYield": 1.91,
+      "dividendYield": 1.94,
       "profitTrend": [
         284,
         334,
@@ -6320,7 +6320,7 @@
       "roe": 16.1,
       "eps": 98.1,
       "bookValue": 645.0,
-      "dividendYield": 2.04,
+      "dividendYield": 1.95,
       "profitTrend": [
         5572,
         8419,
@@ -6347,7 +6347,7 @@
       "roe": 38.6,
       "eps": 5.9,
       "bookValue": 16.4,
-      "dividendYield": 3.61,
+      "dividendYield": 3.55,
       "profitTrend": [
         306,
         351,
@@ -6369,12 +6369,12 @@
       "price": 891.65,
       "changePct": 0.3,
       "marketCap": 126920,
-      "pe": 57.5,
+      "pe": 57.4,
       "debtToEquity": 0.22,
       "roe": 16.5,
       "eps": 15.5,
       "bookValue": 95.8,
-      "dividendYield": 0.37,
+      "dividendYield": 0.36,
       "profitTrend": [
         1003,
         1259,
@@ -6387,7 +6387,7 @@
         "Equity": 13052,
         "Cash": 406
       },
-      "marketSharePct": 7.8
+      "marketSharePct": 7.9
     },
     {
       "symbol": "IOC",
@@ -6395,13 +6395,13 @@
       "sector": "Oil Gas & Consumable Fuels",
       "price": 146.85,
       "changePct": 1.21,
-      "marketCap": 207370,
+      "marketCap": 0,
       "pe": 4.3,
       "debtToEquity": 0.58,
       "roe": 22.6,
       "eps": 34.3,
       "bookValue": 169.3,
-      "dividendYield": 2.24,
+      "dividendYield": 2.21,
       "profitTrend": [
         9792,
         41730,
@@ -6414,7 +6414,7 @@
         "Equity": 219518,
         "Cash": 1833
       },
-      "marketSharePct": 6.4
+      "marketSharePct": 0.0
     },
     {
       "symbol": "IOB",
@@ -6423,7 +6423,7 @@
       "price": 31.12,
       "changePct": 0.71,
       "marketCap": 59927,
-      "pe": 9.2,
+      "pe": 9.1,
       "debtToEquity": 0.0,
       "roe": 17.9,
       "eps": 3.4,
@@ -6455,7 +6455,7 @@
       "roe": 0.0,
       "eps": 17.4,
       "bookValue": 53.9,
-      "dividendYield": 1.94,
+      "dividendYield": 1.96,
       "profitTrend": [
         1006,
         1111,
@@ -6482,7 +6482,7 @@
       "roe": 12.6,
       "eps": 5.6,
       "bookValue": 46.4,
-      "dividendYield": 2.74,
+      "dividendYield": 2.63,
       "profitTrend": [
         6167,
         6412,
@@ -6509,7 +6509,7 @@
       "roe": 14.4,
       "eps": 7.0,
       "bookValue": 51.2,
-      "dividendYield": 1.35,
+      "dividendYield": 1.25,
       "profitTrend": [
         865,
         1252,
@@ -6536,7 +6536,7 @@
       "roe": 8.7,
       "eps": 7.1,
       "bookValue": 71.4,
-      "dividendYield": 3.33,
+      "dividendYield": 3.31,
       "profitTrend": [
         1640,
         1985,
@@ -6549,7 +6549,7 @@
         "Equity": 11504,
         "Cash": 169
       },
-      "marketSharePct": 0.6
+      "marketSharePct": 1.6
     },
     {
       "symbol": "INDUSTOWER",
@@ -6563,7 +6563,7 @@
       "roe": 18.8,
       "eps": 26.9,
       "bookValue": 149.6,
-      "dividendYield": 3.67,
+      "dividendYield": 3.65,
       "profitTrend": [
         2040,
         6036,
@@ -6630,7 +6630,7 @@
         "Equity": 37913,
         "Cash": 365
       },
-      "marketSharePct": 4.8
+      "marketSharePct": 4.9
     },
     {
       "symbol": "INFY",
@@ -6639,12 +6639,12 @@
       "price": 1154.1,
       "changePct": -1.49,
       "marketCap": 467454,
-      "pe": 15.2,
+      "pe": 15.4,
       "debtToEquity": 0.09,
       "roe": 30.0,
-      "eps": 75.7,
+      "eps": 75.1,
       "bookValue": 240.6,
-      "dividendYield": 4.44,
+      "dividendYield": 4.51,
       "profitTrend": [
         298,
         317,
@@ -6657,7 +6657,7 @@
         "Equity": 979,
         "Cash": 234
       },
-      "marketSharePct": 16.3
+      "marketSharePct": 23.6
     },
     {
       "symbol": "INOXWIND",
@@ -6698,7 +6698,7 @@
       "roe": 11.1,
       "eps": 25.0,
       "bookValue": 239.3,
-      "dividendYield": 0.77,
+      "dividendYield": 0.78,
       "profitTrend": [
         267,
         321,
@@ -6711,7 +6711,7 @@
         "Equity": 3170,
         "Cash": 424
       },
-      "marketSharePct": 0.2
+      "marketSharePct": 0.4
     },
     {
       "symbol": "INDIGO",
@@ -6747,10 +6747,10 @@
       "price": 426.8,
       "changePct": -0.57,
       "marketCap": 18445,
-      "pe": 30.2,
+      "pe": 28.7,
       "debtToEquity": 0.09,
       "roe": 0.0,
-      "eps": 14.1,
+      "eps": 14.9,
       "bookValue": 40.5,
       "dividendYield": 1.19,
       "profitTrend": [
@@ -6792,7 +6792,7 @@
         "Equity": 2800,
         "Cash": 389
       },
-      "marketSharePct": 1.0
+      "marketSharePct": 1.4
     },
     {
       "symbol": "IPCALAB",
@@ -6833,7 +6833,7 @@
       "roe": 13.6,
       "eps": 124.0,
       "bookValue": 950.7,
-      "dividendYield": 0.38,
+      "dividendYield": 0.4,
       "profitTrend": [
         424,
         791,
@@ -6887,7 +6887,7 @@
       "roe": 8.6,
       "eps": 17.4,
       "bookValue": 213.4,
-      "dividendYield": 1.11,
+      "dividendYield": 1.12,
       "profitTrend": [
         262,
         786,
@@ -6900,7 +6900,7 @@
         "Equity": 6061,
         "Cash": 237
       },
-      "marketSharePct": 0.3
+      "marketSharePct": 0.4
     },
     {
       "symbol": "JMFINANCIL",
@@ -6914,7 +6914,7 @@
       "roe": 9.6,
       "eps": 10.6,
       "bookValue": 115.3,
-      "dividendYield": 2.91,
+      "dividendYield": 2.88,
       "profitTrend": [
         597,
         410,
@@ -6941,7 +6941,7 @@
       "roe": 11.3,
       "eps": 5.6,
       "bookValue": 50.2,
-      "dividendYield": 0.4,
+      "dividendYield": 0.41,
       "profitTrend": [
         137,
         90,
@@ -6963,7 +6963,7 @@
       "price": 523.15,
       "changePct": -0.16,
       "marketCap": 95894,
-      "pe": 41.1,
+      "pe": 41.2,
       "debtToEquity": 2.07,
       "roe": 7.8,
       "eps": 12.7,
@@ -6995,7 +6995,7 @@
       "roe": 9.9,
       "eps": 6.7,
       "bookValue": 76.5,
-      "dividendYield": 0.26,
+      "dividendYield": 0.27,
       "profitTrend": [
         740,
         1156,
@@ -7130,7 +7130,7 @@
       "roe": 4.1,
       "eps": 8.6,
       "bookValue": 198.4,
-      "dividendYield": 0.78,
+      "dividendYield": 0.79,
       "profitTrend": [
         644,
         1677,
@@ -7157,7 +7157,7 @@
       "roe": 16.9,
       "eps": 40.4,
       "bookValue": 257.8,
-      "dividendYield": 0.57,
+      "dividendYield": 0.58,
       "profitTrend": [
         2114,
         2713,
@@ -7232,13 +7232,13 @@
       "sector": "Consumer Services",
       "price": 428.5,
       "changePct": -4.99,
-      "marketCap": 28181,
+      "marketCap": 0,
       "pe": 75.8,
       "debtToEquity": 1.88,
       "roe": 15.9,
       "eps": 5.7,
-      "bookValue": 34.9,
-      "dividendYield": 0.27,
+      "bookValue": 37.8,
+      "dividendYield": 0.28,
       "profitTrend": [
         353,
         399,
@@ -7251,7 +7251,7 @@
         "Equity": 2292,
         "Cash": 129
       },
-      "marketSharePct": 1.7
+      "marketSharePct": 0.0
     },
     {
       "symbol": "JUBLINGREA",
@@ -7413,7 +7413,7 @@
         "Equity": 3541,
         "Cash": 1314
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.7
     },
     {
       "symbol": "KSB",
@@ -7422,12 +7422,12 @@
       "price": 636.15,
       "changePct": -2.07,
       "marketCap": 11072,
-      "pe": 47.9,
+      "pe": 46.4,
       "debtToEquity": 0.0,
       "roe": 0.0,
-      "eps": 13.3,
+      "eps": 13.7,
       "bookValue": 97.6,
-      "dividendYield": 0.68,
+      "dividendYield": 0.69,
       "profitTrend": [
         183,
         209,
@@ -7454,7 +7454,7 @@
       "roe": 20.0,
       "eps": 37.9,
       "bookValue": 190.1,
-      "dividendYield": 1.48,
+      "dividendYield": 1.5,
       "profitTrend": [
         344,
         422,
@@ -7477,10 +7477,10 @@
       "changePct": 0.21,
       "marketCap": 23404,
       "pe": 19.7,
-      "debtToEquity": 0.46,
-      "roe": 0.0,
+      "debtToEquity": 0.34,
+      "roe": 15.2,
       "eps": 69.4,
-      "bookValue": 455.4,
+      "bookValue": 497.1,
       "dividendYield": 0.8,
       "profitTrend": [
         441,
@@ -7508,7 +7508,7 @@
       "roe": 0.0,
       "eps": 13.9,
       "bookValue": 61.2,
-      "dividendYield": 0.42,
+      "dividendYield": 0.41,
       "profitTrend": [
         433,
         597,
@@ -7575,7 +7575,7 @@
         "Equity": 4748,
         "Cash": 109
       },
-      "marketSharePct": 0.6
+      "marketSharePct": 0.7
     },
     {
       "symbol": "KEC",
@@ -7589,7 +7589,7 @@
       "roe": 7.2,
       "eps": 15.9,
       "bookValue": 229.4,
-      "dividendYield": 1.63,
+      "dividendYield": 1.65,
       "profitTrend": [
         176,
         347,
@@ -7643,7 +7643,7 @@
       "roe": 15.8,
       "eps": 47.4,
       "bookValue": 323.5,
-      "dividendYield": 0.42,
+      "dividendYield": 0.43,
       "profitTrend": [
         235,
         348,
@@ -7669,7 +7669,7 @@
       "debtToEquity": 1.5,
       "roe": 14.2,
       "eps": 35.3,
-      "bookValue": 249.1,
+      "bookValue": 259.7,
       "dividendYield": 0.43,
       "profitTrend": [
         332,
@@ -7751,7 +7751,7 @@
       "roe": 12.3,
       "eps": 13.6,
       "bookValue": 116.8,
-      "dividendYield": 1.01,
+      "dividendYield": 1.0,
       "profitTrend": [
         1623,
         2320,
@@ -7778,7 +7778,7 @@
       "roe": 20.2,
       "eps": 127.5,
       "bookValue": 667.4,
-      "dividendYield": 1.41,
+      "dividendYield": 1.43,
       "profitTrend": [
         1212,
         1304,
@@ -7791,7 +7791,7 @@
         "Equity": 6473,
         "Cash": 1650
       },
-      "marketSharePct": 1.6
+      "marketSharePct": 2.3
     },
     {
       "symbol": "LGEINDIA",
@@ -7800,10 +7800,10 @@
       "price": 1793.8,
       "changePct": 1.22,
       "marketCap": 121758,
-      "pe": 63.9,
+      "pe": 63.3,
       "debtToEquity": 0.06,
       "roe": 0.0,
-      "eps": 28.1,
+      "eps": 28.4,
       "bookValue": 112.9,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -7829,7 +7829,7 @@
       "roe": 14.3,
       "eps": 107.2,
       "bookValue": 797.8,
-      "dividendYield": 1.86,
+      "dividendYield": 1.81,
       "profitTrend": [
         2891,
         4763,
@@ -7856,7 +7856,7 @@
       "roe": 14.4,
       "eps": 18.9,
       "bookValue": 141.2,
-      "dividendYield": 0.94,
+      "dividendYield": 0.95,
       "profitTrend": [
         403,
         593,
@@ -7883,7 +7883,7 @@
       "roe": 21.0,
       "eps": 176.2,
       "bookValue": 872.7,
-      "dividendYield": 1.8,
+      "dividendYield": 1.81,
       "profitTrend": [
         4408,
         4582,
@@ -7896,7 +7896,7 @@
         "Equity": 24025,
         "Cash": 2331
       },
-      "marketSharePct": 4.5
+      "marketSharePct": 6.5
     },
     {
       "symbol": "LT",
@@ -7910,7 +7910,7 @@
       "roe": 17.9,
       "eps": 129.8,
       "bookValue": 821.5,
-      "dividendYield": 0.92,
+      "dividendYield": 0.91,
       "profitTrend": [
         10471,
         13059,
@@ -8002,7 +8002,7 @@
         "Equity": 8739,
         "Cash": 973
       },
-      "marketSharePct": 7.7
+      "marketSharePct": 7.8
     },
     {
       "symbol": "LICI",
@@ -8010,13 +8010,13 @@
       "sector": "Financial Services",
       "price": 399.0,
       "changePct": 0.54,
-      "marketCap": 252367,
+      "marketCap": 504735,
       "pe": 8.1,
       "debtToEquity": 0.0,
       "roe": 40.6,
       "eps": 49.1,
       "bookValue": 133.4,
-      "dividendYield": 2.52,
+      "dividendYield": 2.51,
       "profitTrend": [
         35997,
         40916,
@@ -8028,7 +8028,7 @@
         "Equity": 176605,
         "Cash": 63345
       },
-      "marketSharePct": 2.3
+      "marketSharePct": 4.5
     },
     {
       "symbol": "LINDEINDIA",
@@ -8123,7 +8123,7 @@
       "roe": 23.9,
       "eps": 113.5,
       "bookValue": 526.1,
-      "dividendYield": 0.9,
+      "dividendYield": 0.89,
       "profitTrend": [
         430,
         1914,
@@ -8190,7 +8190,7 @@
         "Equity": 20975,
         "Cash": 305
       },
-      "marketSharePct": 1.7
+      "marketSharePct": 1.9
     },
     {
       "symbol": "MTARTECH",
@@ -8231,7 +8231,7 @@
       "roe": 10.3,
       "eps": 66.8,
       "bookValue": 666.0,
-      "dividendYield": 3.19,
+      "dividendYield": 3.21,
       "profitTrend": [
         790,
         1285,
@@ -8244,7 +8244,7 @@
         "Equity": 6428,
         "Cash": 57
       },
-      "marketSharePct": 0.3
+      "marketSharePct": 0.9
     },
     {
       "symbol": "M&MFIN",
@@ -8253,12 +8253,12 @@
       "price": 280.25,
       "changePct": -2.03,
       "marketCap": 38944,
-      "pe": 11.1,
+      "pe": 10.8,
       "debtToEquity": 4.9,
       "roe": 13.8,
-      "eps": 25.3,
+      "eps": 25.9,
       "bookValue": 197.7,
-      "dividendYield": 2.62,
+      "dividendYield": 2.68,
       "profitTrend": [
         2072,
         1933,
@@ -8280,12 +8280,12 @@
       "price": 3290.6,
       "changePct": 0.7,
       "marketCap": 395123,
-      "pe": 18.9,
+      "pe": 19.1,
       "debtToEquity": 1.33,
       "roe": 20.1,
-      "eps": 173.7,
+      "eps": 172.7,
       "bookValue": 875.9,
-      "dividendYield": 1.01,
+      "dividendYield": 1.0,
       "profitTrend": [
         10282,
         11269,
@@ -8298,7 +8298,7 @@
         "Equity": 93096,
         "Cash": 4292
       },
-      "marketSharePct": 12.4
+      "marketSharePct": 14.0
     },
     {
       "symbol": "MANAPPURAM",
@@ -8307,10 +8307,10 @@
       "price": 323.75,
       "changePct": 0.23,
       "marketCap": 30411,
-      "pe": 19.8,
+      "pe": 19.9,
       "debtToEquity": 3.6,
       "roe": 0.0,
-      "eps": 16.4,
+      "eps": 16.2,
       "bookValue": 170.9,
       "dividendYield": 1.24,
       "profitTrend": [
@@ -8337,7 +8337,7 @@
       "pe": 7.0,
       "debtToEquity": 0.6,
       "roe": 29.1,
-      "eps": 25.1,
+      "eps": 25.2,
       "bookValue": 97.3,
       "dividendYield": 3.4,
       "profitTrend": [
@@ -8352,7 +8352,7 @@
         "Equity": 14197,
         "Cash": 564
       },
-      "marketSharePct": 0.9
+      "marketSharePct": 2.5
     },
     {
       "symbol": "MANKIND",
@@ -8360,7 +8360,7 @@
       "sector": "Healthcare",
       "price": 2668.3,
       "changePct": 3.31,
-      "marketCap": 110200,
+      "marketCap": 110213,
       "pe": 49.2,
       "debtToEquity": 0.3,
       "roe": 13.6,
@@ -8388,12 +8388,12 @@
       "price": 902.0,
       "changePct": 0.98,
       "marketCap": 117079,
-      "pe": 57.7,
+      "pe": 58.0,
       "debtToEquity": 0.24,
       "roe": 44.9,
       "eps": 15.6,
       "bookValue": 36.5,
-      "dividendYield": 0.45,
+      "dividendYield": 0.44,
       "profitTrend": [
         1302,
         1481,
@@ -8420,7 +8420,7 @@
       "roe": 12.9,
       "eps": 427.8,
       "bookValue": 3467.1,
-      "dividendYield": 1.09,
+      "dividendYield": 1.08,
       "profitTrend": [
         8264,
         13488,
@@ -8433,7 +8433,7 @@
         "Equity": 107156,
         "Cash": 67
       },
-      "marketSharePct": 12.8
+      "marketSharePct": 14.4
     },
     {
       "symbol": "MFSL",
@@ -8501,7 +8501,7 @@
       "roe": 23.2,
       "eps": 60.8,
       "bookValue": 259.3,
-      "dividendYield": 0.92,
+      "dividendYield": 0.91,
       "profitTrend": [
         1119,
         1937,
@@ -8514,7 +8514,7 @@
         "Equity": 9755,
         "Cash": 2731
       },
-      "marketSharePct": 2.2
+      "marketSharePct": 2.3
     },
     {
       "symbol": "MEESHO",
@@ -8541,7 +8541,7 @@
         "Equity": 4386,
         "Cash": 620
       },
-      "marketSharePct": 6.8
+      "marketSharePct": 6.9
     },
     {
       "symbol": "MINDACORP",
@@ -8550,10 +8550,10 @@
       "price": 704.6,
       "changePct": -0.52,
       "marketCap": 16584,
-      "pe": 29.9,
+      "pe": 30.1,
       "debtToEquity": 0.55,
       "roe": 20.0,
-      "eps": 23.5,
+      "eps": 23.4,
       "bookValue": 126.4,
       "dividendYield": 0.23,
       "profitTrend": [
@@ -8568,7 +8568,7 @@
         "Equity": 2644,
         "Cash": 103
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.6
     },
     {
       "symbol": "MSUMI",
@@ -8582,7 +8582,7 @@
       "roe": 34.4,
       "eps": 1.0,
       "bookValue": 3.3,
-      "dividendYield": 1.47,
+      "dividendYield": 1.49,
       "profitTrend": [
         487,
         638,
@@ -8595,7 +8595,7 @@
         "Equity": 2162,
         "Cash": 66
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 0.9
     },
     {
       "symbol": "MOTILALOFS",
@@ -8630,13 +8630,13 @@
       "sector": "Information Technology",
       "price": 2455.0,
       "changePct": -2.73,
-      "marketCap": 46859,
+      "marketCap": 46896,
       "pe": 23.4,
       "debtToEquity": 0.3,
       "roe": 19.6,
       "eps": 104.8,
       "bookValue": 565.6,
-      "dividendYield": 2.46,
+      "dividendYield": 2.53,
       "profitTrend": [
         1638,
         1555,
@@ -8649,7 +8649,7 @@
         "Equity": 10744,
         "Cash": 1123
       },
-      "marketSharePct": 1.6
+      "marketSharePct": 2.4
     },
     {
       "symbol": "MCX",
@@ -8657,13 +8657,13 @@
       "sector": "Financial Services",
       "price": 3545.0,
       "changePct": -0.34,
-      "marketCap": 90225,
+      "marketCap": 0,
       "pe": 61.2,
       "debtToEquity": 0.0,
       "roe": 44.4,
       "eps": 58.0,
       "bookValue": 195.5,
-      "dividendYield": 0.22,
+      "dividendYield": 0.23,
       "profitTrend": [
         149,
         83,
@@ -8676,7 +8676,7 @@
         "Equity": 2848,
         "Cash": 820
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 0.0
     },
     {
       "symbol": "MUTHOOTFIN",
@@ -8690,7 +8690,7 @@
       "roe": 31.6,
       "eps": 303.9,
       "bookValue": 1094.2,
-      "dividendYield": 1.05,
+      "dividendYield": 1.03,
       "profitTrend": [
         3612,
         4324,
@@ -8744,7 +8744,7 @@
       "roe": 26.1,
       "eps": 2.9,
       "bookValue": 11.8,
-      "dividendYield": 1.28,
+      "dividendYield": 1.24,
       "profitTrend": [
         267,
         402,
@@ -8798,7 +8798,7 @@
       "roe": 9.6,
       "eps": 4.3,
       "bookValue": 43.5,
-      "dividendYield": 1.99,
+      "dividendYield": 2.0,
       "profitTrend": [
         3903,
         3596,
@@ -8825,7 +8825,7 @@
       "roe": 15.8,
       "eps": 28.7,
       "bookValue": 168.8,
-      "dividendYield": 1.59,
+      "dividendYield": 1.58,
       "profitTrend": [
         1396,
         1854,
@@ -8852,7 +8852,7 @@
       "roe": 0.0,
       "eps": 8.5,
       "bookValue": 38.8,
-      "dividendYield": 2.82,
+      "dividendYield": 2.8,
       "profitTrend": [
         5601,
         5575,
@@ -8933,7 +8933,7 @@
       "roe": 14.5,
       "eps": 30.6,
       "bookValue": 220.2,
-      "dividendYield": 3.72,
+      "dividendYield": 3.65,
       "profitTrend": [
         16913,
         20812,
@@ -8946,7 +8946,7 @@
         "Equity": 203176,
         "Cash": 3422
       },
-      "marketSharePct": 16.3
+      "marketSharePct": 16.4
     },
     {
       "symbol": "NH",
@@ -8955,12 +8955,12 @@
       "price": 1891.7,
       "changePct": -1.49,
       "marketCap": 38420,
-      "pe": 44.9,
+      "pe": 44.5,
       "debtToEquity": 1.21,
       "roe": 19.1,
-      "eps": 42.2,
+      "eps": 42.5,
       "bookValue": 246.3,
-      "dividendYield": 0.23,
+      "dividendYield": 0.24,
       "profitTrend": [
         606,
         789,
@@ -8987,7 +8987,7 @@
       "roe": 32.0,
       "eps": 39.0,
       "bookValue": 135.5,
-      "dividendYield": 3.68,
+      "dividendYield": 3.65,
       "profitTrend": [
         1435,
         1988,
@@ -9068,7 +9068,7 @@
       "roe": 79.9,
       "eps": 21.1,
       "bookValue": 30.0,
-      "dividendYield": 0.94,
+      "dividendYield": 0.92,
       "profitTrend": [
         2118,
         2391,
@@ -9104,7 +9104,7 @@
         "Equity": 723,
         "Cash": 366
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 1.2
     },
     {
       "symbol": "NEULANDLAB",
@@ -9172,7 +9172,7 @@
       "roe": 27.1,
       "eps": 60.8,
       "bookValue": 248.1,
-      "dividendYield": 1.49,
+      "dividendYield": 1.5,
       "profitTrend": [
         305,
         625,
@@ -9224,9 +9224,9 @@
       "pe": 24.5,
       "debtToEquity": 0.14,
       "roe": 14.7,
-      "eps": 72.4,
+      "eps": 72.3,
       "bookValue": 525.1,
-      "dividendYield": 0.46,
+      "dividendYield": 0.45,
       "profitTrend": [
         1905,
         1927,
@@ -9253,7 +9253,7 @@
       "roe": 12.1,
       "eps": 39.3,
       "bookValue": 318.4,
-      "dividendYield": 5.64,
+      "dividendYield": 5.67,
       "profitTrend": [
         36709,
         49144,
@@ -9266,7 +9266,7 @@
         "Equity": 371768,
         "Cash": 1278
       },
-      "marketSharePct": 9.0
+      "marketSharePct": 23.4
     },
     {
       "symbol": "OIL",
@@ -9280,7 +9280,7 @@
       "roe": 0.0,
       "eps": 51.4,
       "bookValue": 356.6,
-      "dividendYield": 2.59,
+      "dividendYield": 2.62,
       "profitTrend": [
         8729,
         6335,
@@ -9293,7 +9293,7 @@
         "Equity": 57998,
         "Cash": 1323
       },
-      "marketSharePct": 2.2
+      "marketSharePct": 5.7
     },
     {
       "symbol": "OLAELEC",
@@ -9320,7 +9320,7 @@
         "Equity": 3351,
         "Cash": 421
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.6
     },
     {
       "symbol": "OLECTRA",
@@ -9329,11 +9329,11 @@
       "price": 1079.5,
       "changePct": 2.03,
       "marketCap": 8861,
-      "pe": 51.5,
+      "pe": 49.0,
       "debtToEquity": 0.31,
       "roe": 0.0,
-      "eps": 21.0,
-      "bookValue": 149.5,
+      "eps": 22.0,
+      "bookValue": 149.6,
       "dividendYield": 0.06,
       "profitTrend": [
         66,
@@ -9356,10 +9356,10 @@
       "price": 1788.0,
       "changePct": -0.72,
       "marketCap": 114464,
-      "pe": 136.2,
+      "pe": 135.7,
       "debtToEquity": 0.02,
       "roe": 5.3,
-      "eps": 13.1,
+      "eps": 13.2,
       "bookValue": 258.6,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -9415,7 +9415,7 @@
       "roe": 47.4,
       "eps": 408.3,
       "bookValue": 882.7,
-      "dividendYield": 2.66,
+      "dividendYield": 2.69,
       "profitTrend": [
         1806,
         2219,
@@ -9428,7 +9428,7 @@
         "Equity": 7826,
         "Cash": 1482
       },
-      "marketSharePct": 3.0
+      "marketSharePct": 4.4
     },
     {
       "symbol": "POLICYBZR",
@@ -9469,7 +9469,7 @@
       "roe": 6.8,
       "eps": 6.9,
       "bookValue": 102.9,
-      "dividendYield": 1.6,
+      "dividendYield": 1.62,
       "profitTrend": [
         442,
         491,
@@ -9496,7 +9496,7 @@
       "roe": 7.2,
       "eps": 7.5,
       "bookValue": 108.3,
-      "dividendYield": 0.05,
+      "dividendYield": 0.04,
       "profitTrend": [
         77,
         135,
@@ -9523,7 +9523,7 @@
       "roe": 7.9,
       "eps": 57.9,
       "bookValue": 754.8,
-      "dividendYield": 0.86,
+      "dividendYield": 0.88,
       "profitTrend": [
         1230,
         1682,
@@ -9572,7 +9572,7 @@
       "price": 24745.0,
       "changePct": 1.35,
       "marketCap": 39214,
-      "pe": 295.6,
+      "pe": 295.5,
       "debtToEquity": 0.18,
       "roe": 8.6,
       "eps": 83.7,
@@ -9590,7 +9590,7 @@
         "Equity": 1507,
         "Cash": 35
       },
-      "marketSharePct": 1.1
+      "marketSharePct": 1.2
     },
     {
       "symbol": "PVRINOX",
@@ -9599,10 +9599,10 @@
       "price": 1589.8,
       "changePct": -0.43,
       "marketCap": 15283,
-      "pe": 37.1,
+      "pe": 36.4,
       "debtToEquity": 0.85,
       "roe": 6.0,
-      "eps": 42.9,
+      "eps": 43.7,
       "bookValue": 753.3,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -9631,7 +9631,7 @@
       "roe": 0.0,
       "eps": 677.6,
       "bookValue": 1347.2,
-      "dividendYield": 2.24,
+      "dividendYield": 2.2,
       "profitTrend": [
         571,
         569,
@@ -9658,7 +9658,7 @@
       "roe": 12.5,
       "eps": 8.2,
       "bookValue": 68.5,
-      "dividendYield": 1.05,
+      "dividendYield": 1.07,
       "profitTrend": [
         304,
         100,
@@ -9685,7 +9685,7 @@
       "roe": 0.0,
       "eps": 18.1,
       "bookValue": 120.5,
-      "dividendYield": 0.97,
+      "dividendYield": 0.94,
       "profitTrend": [
         886,
         765,
@@ -9725,7 +9725,7 @@
         "Equity": 7838,
         "Cash": 1075
       },
-      "marketSharePct": 3.5
+      "marketSharePct": 5.0
     },
     {
       "symbol": "PETRONET",
@@ -9739,7 +9739,7 @@
       "roe": 20.4,
       "eps": 30.9,
       "bookValue": 161.6,
-      "dividendYield": 3.18,
+      "dividendYield": 3.12,
       "profitTrend": [
         3326,
         3652,
@@ -9752,7 +9752,7 @@
         "Equity": 22285,
         "Cash": 1859
       },
-      "marketSharePct": 1.5
+      "marketSharePct": 3.8
     },
     {
       "symbol": "PHOENIXLTD",
@@ -9820,7 +9820,7 @@
       "roe": 25.7,
       "eps": 26.3,
       "bookValue": 110.2,
-      "dividendYield": 0.73,
+      "dividendYield": 0.72,
       "profitTrend": [
         1273,
         1729,
@@ -9869,12 +9869,12 @@
       "price": 2070.7,
       "changePct": -4.53,
       "marketCap": 49102,
-      "pe": 24.9,
+      "pe": 24.8,
       "debtToEquity": 2.75,
       "roe": 6.5,
-      "eps": 83.3,
+      "eps": 83.6,
       "bookValue": 1360.4,
-      "dividendYield": 0.51,
+      "dividendYield": 0.53,
       "profitTrend": [
         -7401,
         -1975,
@@ -9899,7 +9899,7 @@
       "pe": 0.0,
       "debtToEquity": 0.72,
       "roe": -2.6,
-      "eps": -1.5,
+      "eps": -1.6,
       "bookValue": 58.4,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -9927,7 +9927,7 @@
       "debtToEquity": 0.12,
       "roe": 10.1,
       "eps": 31.4,
-      "bookValue": 306.5,
+      "bookValue": 322.0,
       "dividendYield": 0.22,
       "profitTrend": [
         179,
@@ -9968,7 +9968,7 @@
         "Equity": 12009,
         "Cash": 390
       },
-      "marketSharePct": 3.4
+      "marketSharePct": 3.5
     },
     {
       "symbol": "POONAWALLA",
@@ -10009,7 +10009,7 @@
       "roe": 18.7,
       "eps": 79.8,
       "bookValue": 445.1,
-      "dividendYield": 4.96,
+      "dividendYield": 4.85,
       "profitTrend": [
         15889,
         19761,
@@ -10036,7 +10036,7 @@
       "roe": 15.7,
       "eps": 17.4,
       "bookValue": 114.9,
-      "dividendYield": 4.59,
+      "dividendYield": 4.65,
       "profitTrend": [
         15420,
         15573,
@@ -10058,11 +10058,11 @@
       "price": 886.0,
       "changePct": 0.11,
       "marketCap": 40135,
-      "pe": 22.3,
+      "pe": 22.4,
       "debtToEquity": 0.69,
       "roe": 40.1,
-      "eps": 39.8,
-      "bookValue": 95.1,
+      "eps": 39.6,
+      "bookValue": 115.6,
       "dividendYield": 0.08,
       "profitTrend": [
         -13,
@@ -10090,7 +10090,7 @@
       "roe": 6.4,
       "eps": 21.7,
       "bookValue": 386.3,
-      "dividendYield": 0.12,
+      "dividendYield": 0.13,
       "profitTrend": [
         942,
         1374,
@@ -10171,7 +10171,7 @@
       "roe": 15.1,
       "eps": 19.9,
       "bookValue": 140.0,
-      "dividendYield": 2.39,
+      "dividendYield": 2.27,
       "profitTrend": [
         3348,
         9107,
@@ -10198,7 +10198,7 @@
       "roe": 25.0,
       "eps": 59.4,
       "bookValue": 268.7,
-      "dividendYield": 0.61,
+      "dividendYield": 0.66,
       "profitTrend": [
         190,
         298,
@@ -10211,7 +10211,7 @@
         "Equity": 2574,
         "Cash": 86
       },
-      "marketSharePct": 0.6
+      "marketSharePct": 0.7
     },
     {
       "symbol": "RBLBANK",
@@ -10225,7 +10225,7 @@
       "roe": 4.0,
       "eps": 13.8,
       "bookValue": 280.8,
-      "dividendYield": 0.27,
+      "dividendYield": 0.26,
       "profitTrend": [
         920,
         1260,
@@ -10246,13 +10246,13 @@
       "sector": "Financial Services",
       "price": 305.15,
       "changePct": 2.66,
-      "marketCap": 80353,
+      "marketCap": 0,
       "pe": 5.3,
       "debtToEquity": 6.06,
       "roe": 16.9,
       "eps": 57.2,
       "bookValue": 361.7,
-      "dividendYield": 4.71,
+      "dividendYield": 4.59,
       "profitTrend": [
         11167,
         14145,
@@ -10265,7 +10265,7 @@
         "Equity": 85054,
         "Cash": 719
       },
-      "marketSharePct": 0.7
+      "marketSharePct": 0.0
     },
     {
       "symbol": "RHIM",
@@ -10279,7 +10279,7 @@
       "roe": 0.0,
       "eps": -17.1,
       "bookValue": 172.4,
-      "dividendYield": 0.69,
+      "dividendYield": 0.7,
       "profitTrend": [
         -466,
         -100,
@@ -10360,7 +10360,7 @@
       "roe": 0.0,
       "eps": 4.3,
       "bookValue": 47.1,
-      "dividendYield": 0.88,
+      "dividendYield": 0.85,
       "profitTrend": [
         1342,
         1551,
@@ -10387,7 +10387,7 @@
       "roe": 15.1,
       "eps": 10.6,
       "bookValue": 73.6,
-      "dividendYield": 1.33,
+      "dividendYield": 1.31,
       "profitTrend": [
         188,
         246,
@@ -10414,7 +10414,7 @@
       "roe": 18.3,
       "eps": 28.8,
       "bookValue": 169.1,
-      "dividendYield": 0.28,
+      "dividendYield": 0.27,
       "profitTrend": [
         211,
         217,
@@ -10435,13 +10435,13 @@
       "sector": "Automobile and Auto Components",
       "price": 713.4,
       "changePct": -1.36,
-      "marketCap": 13455,
-      "pe": 73.2,
+      "marketCap": 13239,
+      "pe": 70.3,
       "debtToEquity": 0.64,
       "roe": 5.6,
-      "eps": 9.7,
+      "eps": 10.2,
       "bookValue": 197.6,
-      "dividendYield": 0.55,
+      "dividendYield": 0.56,
       "profitTrend": [
         248,
         291,
@@ -10454,7 +10454,7 @@
         "Equity": 3290,
         "Cash": 162
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.5
     },
     {
       "symbol": "REDINGTON",
@@ -10468,7 +10468,7 @@
       "roe": 15.5,
       "eps": 23.7,
       "bookValue": 137.7,
-      "dividendYield": 1.78,
+      "dividendYield": 1.83,
       "profitTrend": [
         1393,
         1219,
@@ -10489,11 +10489,11 @@
       "sector": "Oil Gas & Consumable Fuels",
       "price": 1324.4,
       "changePct": 0.03,
-      "marketCap": 1792241,
-      "pe": 21.9,
+      "marketCap": 0,
+      "pe": 21.8,
       "debtToEquity": 0.44,
       "roe": 8.8,
-      "eps": 60.5,
+      "eps": 60.7,
       "bookValue": 697.9,
       "dividendYield": 0.45,
       "profitTrend": [
@@ -10508,7 +10508,7 @@
         "Equity": 904030,
         "Cash": 137327
       },
-      "marketSharePct": 55.1
+      "marketSharePct": 0.0
     },
     {
       "symbol": "RPOWER",
@@ -10516,7 +10516,7 @@
       "sector": "Power",
       "price": 18.8,
       "changePct": 0.75,
-      "marketCap": 7775,
+      "marketCap": 0,
       "pe": 0.0,
       "debtToEquity": 0.92,
       "roe": 0.0,
@@ -10535,7 +10535,7 @@
         "Equity": 16039,
         "Cash": 504
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.0
     },
     {
       "symbol": "RUBICON",
@@ -10549,7 +10549,7 @@
       "roe": 31.3,
       "eps": 19.5,
       "bookValue": 85.6,
-      "dividendYield": 0.09,
+      "dividendYield": 0.08,
       "profitTrend": [
         247
       ],
@@ -10568,12 +10568,12 @@
       "price": 590.15,
       "changePct": 1.31,
       "marketCap": 56162,
-      "pe": 21.4,
+      "pe": 21.5,
       "debtToEquity": 2.79,
       "roe": 16.3,
-      "eps": 27.5,
+      "eps": 27.4,
       "bookValue": 180.4,
-      "dividendYield": 0.43,
+      "dividendYield": 0.42,
       "profitTrend": [
         2258,
         2408,
@@ -10626,7 +10626,7 @@
       "roe": 6.7,
       "eps": 2.5,
       "bookValue": 38.3,
-      "dividendYield": 2.61,
+      "dividendYield": 2.6,
       "profitTrend": [
         1359,
         911,
@@ -10648,10 +10648,10 @@
       "price": 4316.8,
       "changePct": -1.62,
       "marketCap": 20024,
-      "pe": 33.7,
+      "pe": 32.9,
       "debtToEquity": 0.31,
       "roe": 16.9,
-      "eps": 127.9,
+      "eps": 131.3,
       "bookValue": 926.1,
       "dividendYield": 0.23,
       "profitTrend": [
@@ -10666,7 +10666,7 @@
         "Equity": 2901,
         "Cash": 105
       },
-      "marketSharePct": 0.6
+      "marketSharePct": 0.7
     },
     {
       "symbol": "SRF",
@@ -10680,7 +10680,7 @@
       "roe": 16.0,
       "eps": 77.0,
       "bookValue": 516.4,
-      "dividendYield": 0.4,
+      "dividendYield": 0.41,
       "profitTrend": [
         2162,
         1336,
@@ -10702,12 +10702,12 @@
       "price": 44.7,
       "changePct": 1.82,
       "marketCap": 20926,
-      "pe": 20.5,
+      "pe": 20.3,
       "debtToEquity": 0.09,
       "roe": 10.7,
       "eps": 2.2,
       "bookValue": 22.0,
-      "dividendYield": 0.68,
+      "dividendYield": 0.67,
       "profitTrend": [
         144,
         228,
@@ -10720,7 +10720,7 @@
         "Equity": 9659,
         "Cash": 358
       },
-      "marketSharePct": 0.7
+      "marketSharePct": 1.1
     },
     {
       "symbol": "SAILIFE",
@@ -10730,10 +10730,10 @@
       "changePct": 5.32,
       "marketCap": 39027,
       "pe": 104.5,
-      "debtToEquity": 0.12,
-      "roe": 0.0,
+      "debtToEquity": 0.23,
+      "roe": 15.2,
       "eps": 17.6,
-      "bookValue": 117.3,
+      "bookValue": 126.6,
       "dividendYield": 0.0,
       "profitTrend": [
         10,
@@ -10774,7 +10774,7 @@
         "Equity": 18991,
         "Cash": 9027
       },
-      "marketSharePct": 0.2
+      "marketSharePct": 0.1
     },
     {
       "symbol": "MOTHERSON",
@@ -10801,7 +10801,7 @@
         "Equity": 40980,
         "Cash": 7428
       },
-      "marketSharePct": 5.4
+      "marketSharePct": 6.1
     },
     {
       "symbol": "SANSERA",
@@ -10810,10 +10810,10 @@
       "price": 4653.4,
       "changePct": 5.42,
       "marketCap": 29045,
-      "pe": 89.6,
+      "pe": 75.6,
       "debtToEquity": 0.19,
       "roe": 0.0,
-      "eps": 51.9,
+      "eps": 61.5,
       "bookValue": 496.1,
       "dividendYield": 0.09,
       "profitTrend": [
@@ -10828,7 +10828,7 @@
         "Equity": 3087,
         "Cash": 104
       },
-      "marketSharePct": 0.9
+      "marketSharePct": 1.0
     },
     {
       "symbol": "SARDAEN",
@@ -10869,7 +10869,7 @@
       "roe": 0.0,
       "eps": 84.0,
       "bookValue": 392.5,
-      "dividendYield": 0.97,
+      "dividendYield": 0.99,
       "profitTrend": [
         879,
         899,
@@ -10882,7 +10882,7 @@
         "Equity": 6048,
         "Cash": 964
       },
-      "marketSharePct": 1.7
+      "marketSharePct": 2.0
     },
     {
       "symbol": "SCHNEIDER",
@@ -10895,7 +10895,7 @@
       "debtToEquity": 0.68,
       "roe": 21.8,
       "eps": 6.7,
-      "bookValue": 28.9,
+      "bookValue": 34.2,
       "dividendYield": 0.0,
       "profitTrend": [
         124,
@@ -10909,7 +10909,7 @@
         "Equity": 774,
         "Cash": 358
       },
-      "marketSharePct": 0.7
+      "marketSharePct": 0.8
     },
     {
       "symbol": "SCI",
@@ -10918,12 +10918,12 @@
       "price": 261.33,
       "changePct": -1.37,
       "marketCap": 12173,
-      "pe": 6.2,
-      "debtToEquity": 0.29,
-      "roe": 0.0,
-      "eps": 42.5,
-      "bookValue": 195.3,
-      "dividendYield": 2.8,
+      "pe": 6.1,
+      "debtToEquity": 0.24,
+      "roe": 21.3,
+      "eps": 43.1,
+      "bookValue": 221.2,
+      "dividendYield": 2.87,
       "profitTrend": [
         870,
         679,
@@ -10948,7 +10948,7 @@
       "pe": 56.8,
       "debtToEquity": 0.09,
       "roe": 6.9,
-      "eps": 438.9,
+      "eps": 438.8,
       "bookValue": 6613.2,
       "dividendYield": 0.56,
       "profitTrend": [
@@ -10990,7 +10990,7 @@
         "Equity": 65919,
         "Cash": 6185
       },
-      "marketSharePct": 2.1
+      "marketSharePct": 2.0
     },
     {
       "symbol": "SHYAMMETL",
@@ -11004,7 +11004,7 @@
       "roe": 10.9,
       "eps": 48.7,
       "bookValue": 459.6,
-      "dividendYield": 0.33,
+      "dividendYield": 0.34,
       "profitTrend": [
         853,
         1035,
@@ -11026,10 +11026,10 @@
       "price": 2837.2,
       "changePct": -0.61,
       "marketCap": 101039,
-      "pe": 69.0,
+      "pe": 67.9,
       "debtToEquity": 0.04,
       "roe": 0.0,
-      "eps": 41.1,
+      "eps": 41.8,
       "bookValue": 135.1,
       "dividendYield": 0.14,
       "profitTrend": [
@@ -11042,7 +11042,7 @@
         "Equity": 4381,
         "Cash": 132
       },
-      "marketSharePct": 2.9
+      "marketSharePct": 3.0
     },
     {
       "symbol": "SIEMENS",
@@ -11051,10 +11051,10 @@
       "price": 3655.0,
       "changePct": -0.38,
       "marketCap": 130162,
-      "pe": 91.1,
+      "pe": 88.4,
       "debtToEquity": 0.02,
       "roe": 0.0,
-      "eps": 40.1,
+      "eps": 41.3,
       "bookValue": 444.3,
       "dividendYield": 0.49,
       "profitTrend": [
@@ -11069,7 +11069,7 @@
         "Equity": 13228,
         "Cash": 2150
       },
-      "marketSharePct": 3.8
+      "marketSharePct": 3.9
     },
     {
       "symbol": "SIGNATURE",
@@ -11078,10 +11078,10 @@
       "price": 725.9,
       "changePct": -3.89,
       "marketCap": 10212,
-      "pe": 8.9,
+      "pe": 8.8,
       "debtToEquity": 1.5,
       "roe": 87.5,
-      "eps": 81.5,
+      "eps": 82.3,
       "bookValue": 136.6,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -11110,7 +11110,7 @@
       "roe": 4.1,
       "eps": 17.9,
       "bookValue": 442.5,
-      "dividendYield": 0.47,
+      "dividendYield": 0.48,
       "profitTrend": [
         104,
         49,
@@ -11164,7 +11164,7 @@
       "roe": 11.9,
       "eps": 12.0,
       "bookValue": 102.9,
-      "dividendYield": 0.4,
+      "dividendYield": 0.39,
       "profitTrend": [
         395,
         517,
@@ -11177,7 +11177,7 @@
         "Equity": 5983,
         "Cash": 151
       },
-      "marketSharePct": 1.8
+      "marketSharePct": 2.0
     },
     {
       "symbol": "STARHEALTH",
@@ -11218,7 +11218,7 @@
       "roe": 14.7,
       "eps": 98.0,
       "bookValue": 727.6,
-      "dividendYield": 1.71,
+      "dividendYield": 1.67,
       "profitTrend": [
         55648,
         67085,
@@ -11245,7 +11245,7 @@
       "roe": 9.3,
       "eps": 13.6,
       "bookValue": 151.4,
-      "dividendYield": 1.37,
+      "dividendYield": 1.39,
       "profitTrend": [
         2177,
         3067,
@@ -11294,10 +11294,10 @@
       "price": 339.85,
       "changePct": -0.6,
       "marketCap": 16963,
-      "pe": 31.5,
+      "pe": 30.3,
       "debtToEquity": 0.02,
       "roe": 16.2,
-      "eps": 10.8,
+      "eps": 11.2,
       "bookValue": 73.8,
       "dividendYield": 0.38,
       "profitTrend": [
@@ -11353,7 +11353,7 @@
       "roe": 11.9,
       "eps": 39.1,
       "bookValue": 341.7,
-      "dividendYield": 2.5,
+      "dividendYield": 2.46,
       "profitTrend": [
         1706,
         1925,
@@ -11380,7 +11380,7 @@
       "roe": 14.4,
       "eps": 204.0,
       "bookValue": 1457.1,
-      "dividendYield": 0.94,
+      "dividendYield": 0.95,
       "profitTrend": [
         1328,
         1436,
@@ -11407,7 +11407,7 @@
       "roe": 18.7,
       "eps": 89.0,
       "bookValue": 503.3,
-      "dividendYield": 1.15,
+      "dividendYield": 1.12,
       "profitTrend": [
         865,
         1070,
@@ -11420,7 +11420,7 @@
         "Equity": 6169,
         "Cash": 649
       },
-      "marketSharePct": 1.2
+      "marketSharePct": 1.3
     },
     {
       "symbol": "SUZLON",
@@ -11429,7 +11429,7 @@
       "price": 38.91,
       "changePct": -0.23,
       "marketCap": 53488,
-      "pe": 23.9,
+      "pe": 23.7,
       "debtToEquity": 0.07,
       "roe": 24.9,
       "eps": 1.6,
@@ -11447,7 +11447,7 @@
         "Equity": 9464,
         "Cash": 631
       },
-      "marketSharePct": 1.5
+      "marketSharePct": 1.6
     },
     {
       "symbol": "SWANCORP",
@@ -11459,7 +11459,7 @@
       "pe": 9.8,
       "debtToEquity": 0.21,
       "roe": 8.6,
-      "eps": 24.7,
+      "eps": 24.9,
       "bookValue": 274.8,
       "dividendYield": 0.06,
       "profitTrend": [
@@ -11501,7 +11501,7 @@
         "Equity": 18314,
         "Cash": 2747
       },
-      "marketSharePct": 3.0
+      "marketSharePct": 3.1
     },
     {
       "symbol": "SYNGENE",
@@ -11596,7 +11596,7 @@
       "roe": 28.5,
       "eps": 8.8,
       "bookValue": 34.3,
-      "dividendYield": 0.17,
+      "dividendYield": 0.18,
       "profitTrend": [
         97,
         118,
@@ -11609,7 +11609,7 @@
         "Equity": 1072,
         "Cash": 78
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.6
     },
     {
       "symbol": "TVSMOTOR",
@@ -11617,7 +11617,7 @@
       "sector": "Automobile and Auto Components",
       "price": 4505.9,
       "changePct": 0.59,
-      "marketCap": 214132,
+      "marketCap": 0,
       "pe": 55.9,
       "debtToEquity": 3.21,
       "roe": 37.2,
@@ -11636,7 +11636,7 @@
         "Equity": 9564,
         "Cash": 3926
       },
-      "marketSharePct": 6.7
+      "marketSharePct": 0.0
     },
     {
       "symbol": "TATACAP",
@@ -11645,10 +11645,10 @@
       "price": 353.05,
       "changePct": 0.38,
       "marketCap": 148870,
-      "pe": 24.7,
+      "pe": 25.1,
       "debtToEquity": 5.18,
       "roe": 14.1,
-      "eps": 14.3,
+      "eps": 14.1,
       "bookValue": 115.4,
       "dividendYield": 0.16,
       "profitTrend": [
@@ -11672,7 +11672,7 @@
       "pe": 0.0,
       "debtToEquity": 0.36,
       "roe": 0.0,
-      "eps": -92.7,
+      "eps": -92.8,
       "bookValue": 832.4,
       "dividendYield": 1.81,
       "profitTrend": [
@@ -11701,7 +11701,7 @@
       "roe": 33.8,
       "eps": 38.7,
       "bookValue": 119.3,
-      "dividendYield": 1.02,
+      "dividendYield": 1.03,
       "profitTrend": [
         1796,
         968,
@@ -11722,13 +11722,13 @@
       "sector": "Information Technology",
       "price": 2475.4,
       "changePct": -0.94,
-      "marketCap": 895621,
+      "marketCap": 0,
       "pe": 17.4,
       "debtToEquity": 0.1,
       "roe": 45.6,
       "eps": 142.7,
       "bookValue": 328.9,
-      "dividendYield": 1.92,
+      "dividendYield": 1.94,
       "profitTrend": [
         42147,
         45908,
@@ -11741,7 +11741,7 @@
         "Equity": 107240,
         "Cash": 6405
       },
-      "marketSharePct": 31.2
+      "marketSharePct": 0.0
     },
     {
       "symbol": "TATACONSUM",
@@ -11755,7 +11755,7 @@
       "roe": 7.6,
       "eps": 17.2,
       "bookValue": 223.7,
-      "dividendYield": 0.93,
+      "dividendYield": 0.92,
       "profitTrend": [
         1204,
         1150,
@@ -11782,7 +11782,7 @@
       "roe": 23.9,
       "eps": 107.6,
       "bookValue": 467.6,
-      "dividendYield": 1.94,
+      "dividendYield": 1.93,
       "profitTrend": [
         755,
         792,
@@ -11795,7 +11795,7 @@
         "Equity": 3041,
         "Cash": 194
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 1.2
     },
     {
       "symbol": "TATAINVEST",
@@ -11804,10 +11804,10 @@
       "price": 577.25,
       "changePct": -0.17,
       "marketCap": 29206,
-      "pe": 74.0,
+      "pe": 73.3,
       "debtToEquity": 0.0,
       "roe": 1.3,
-      "eps": 7.8,
+      "eps": 7.9,
       "bookValue": 615.5,
       "dividendYield": 0.59,
       "profitTrend": [
@@ -11836,7 +11836,7 @@
       "roe": 0.0,
       "eps": 17.1,
       "bookValue": 41.5,
-      "dividendYield": 0.93,
+      "dividendYield": 0.92,
       "profitTrend": [
         32045,
         3195,
@@ -11848,7 +11848,7 @@
         "Equity": 12734,
         "Cash": 6899
       },
-      "marketSharePct": 4.6
+      "marketSharePct": 4.8
     },
     {
       "symbol": "TMPV",
@@ -11875,7 +11875,7 @@
         "Equity": 112068,
         "Cash": 22880
       },
-      "marketSharePct": 3.4
+      "marketSharePct": 3.8
     },
     {
       "symbol": "TATAPOWER",
@@ -11889,7 +11889,7 @@
       "roe": 0.0,
       "eps": 12.1,
       "bookValue": 123.5,
-      "dividendYield": 0.71,
+      "dividendYield": 0.69,
       "profitTrend": [
         3336,
         3696,
@@ -11916,7 +11916,7 @@
       "roe": 11.7,
       "eps": 9.3,
       "bookValue": 83.2,
-      "dividendYield": 2.1,
+      "dividendYield": 2.16,
       "profitTrend": [
         8760,
         -4437,
@@ -11938,12 +11938,12 @@
       "price": 665.8,
       "changePct": -1.07,
       "marketCap": 27035,
-      "pe": 48.6,
+      "pe": 48.0,
       "debtToEquity": 0.29,
       "roe": 15.2,
-      "eps": 13.7,
+      "eps": 13.9,
       "bookValue": 94.3,
-      "dividendYield": 1.24,
+      "dividendYield": 1.25,
       "profitTrend": [
         624,
         679,
@@ -11956,7 +11956,7 @@
         "Equity": 3923,
         "Cash": 682
       },
-      "marketSharePct": 0.9
+      "marketSharePct": 1.4
     },
     {
       "symbol": "TTML",
@@ -11965,7 +11965,7 @@
       "price": 39.33,
       "changePct": -5.25,
       "marketCap": 7689,
-      "pe": 26.8,
+      "pe": 25.7,
       "debtToEquity": 0.0,
       "roe": 0.0,
       "eps": 1.5,
@@ -11997,7 +11997,7 @@
       "roe": 19.2,
       "eps": 62.2,
       "bookValue": 334.9,
-      "dividendYield": 2.79,
+      "dividendYield": 2.83,
       "profitTrend": [
         4831,
         2358,
@@ -12010,7 +12010,7 @@
         "Equity": 29615,
         "Cash": 5046
       },
-      "marketSharePct": 6.2
+      "marketSharePct": 8.9
     },
     {
       "symbol": "TECHNOE",
@@ -12024,7 +12024,7 @@
       "roe": 0.0,
       "eps": 37.1,
       "bookValue": 357.6,
-      "dividendYield": 0.73,
+      "dividendYield": 0.74,
       "profitTrend": [
         187,
         268,
@@ -12076,7 +12076,7 @@
       "pe": 0.0,
       "debtToEquity": 1.97,
       "roe": -27.9,
-      "eps": -45.5,
+      "eps": -46.0,
       "bookValue": 141.9,
       "dividendYield": 0.0,
       "profitTrend": [
@@ -12118,7 +12118,7 @@
         "Equity": 1197,
         "Cash": 571
       },
-      "marketSharePct": 0.5
+      "marketSharePct": 0.6
     },
     {
       "symbol": "THANGAMAYL",
@@ -12132,7 +12132,7 @@
       "roe": 29.3,
       "eps": 126.1,
       "bookValue": 484.3,
-      "dividendYield": 0.42,
+      "dividendYield": 0.43,
       "profitTrend": [
         80,
         123,
@@ -12159,7 +12159,7 @@
       "roe": -1.2,
       "eps": -3.2,
       "bookValue": 253.8,
-      "dividendYield": 0.94,
+      "dividendYield": 0.95,
       "profitTrend": [
         1048,
         1116,
@@ -12180,11 +12180,11 @@
       "price": 840.75,
       "changePct": 0.56,
       "marketCap": 19866,
-      "pe": 33.4,
+      "pe": 32.7,
       "debtToEquity": 0.49,
       "roe": 7.8,
-      "eps": 25.1,
-      "bookValue": 342.5,
+      "eps": 25.7,
+      "bookValue": 342.8,
       "dividendYield": 0.3,
       "profitTrend": [
         315,
@@ -12315,10 +12315,10 @@
       "price": 4780.0,
       "changePct": 0.15,
       "marketCap": 181816,
-      "pe": 81.1,
+      "pe": 80.7,
       "debtToEquity": 0.77,
       "roe": 15.7,
-      "eps": 58.9,
+      "eps": 59.2,
       "bookValue": 483.4,
       "dividendYield": 0.8,
       "profitTrend": [
@@ -12347,7 +12347,7 @@
       "roe": 12.1,
       "eps": 48.0,
       "bookValue": 417.1,
-      "dividendYield": 1.57,
+      "dividendYield": 1.62,
       "profitTrend": [
         2117,
         1833,
@@ -12414,7 +12414,7 @@
         "Equity": 6985,
         "Cash": 281
       },
-      "marketSharePct": 10.2
+      "marketSharePct": 10.4
     },
     {
       "symbol": "TRIDENT",
@@ -12428,7 +12428,7 @@
       "roe": 10.1,
       "eps": 0.9,
       "bookValue": 9.4,
-      "dividendYield": 2.08,
+      "dividendYield": 2.12,
       "profitTrend": [
         441,
         350,
@@ -12495,7 +12495,7 @@
         "Equity": 7751,
         "Cash": 532
       },
-      "marketSharePct": 1.3
+      "marketSharePct": 1.5
     },
     {
       "symbol": "UCOBANK",
@@ -12509,7 +12509,7 @@
       "roe": 8.9,
       "eps": 2.4,
       "bookValue": 27.7,
-      "dividendYield": 1.84,
+      "dividendYield": 1.82,
       "profitTrend": [
         1826,
         1672,
@@ -12530,13 +12530,13 @@
       "sector": "Automobile and Auto Components",
       "price": 1353.8,
       "changePct": 2.82,
-      "marketCap": 78176,
+      "marketCap": 78178,
       "pe": 59.4,
-      "debtToEquity": 0.38,
-      "roe": 0.0,
+      "debtToEquity": 0.37,
+      "roe": 19.4,
       "eps": 22.8,
-      "bookValue": 118.3,
-      "dividendYield": 0.22,
+      "bookValue": 128.9,
+      "dividendYield": 0.2,
       "profitTrend": [
         654,
         875,
@@ -12549,7 +12549,7 @@
         "Equity": 6830,
         "Cash": 277
       },
-      "marketSharePct": 2.5
+      "marketSharePct": 2.8
     },
     {
       "symbol": "UPL",
@@ -12563,7 +12563,7 @@
       "roe": 5.5,
       "eps": 22.4,
       "bookValue": 412.8,
-      "dividendYield": 1.12,
+      "dividendYield": 1.11,
       "profitTrend": [
         3570,
         -1200,
@@ -12585,12 +12585,12 @@
       "price": 835.3,
       "changePct": -1.63,
       "marketCap": 10737,
-      "pe": 22.8,
+      "pe": 22.4,
       "debtToEquity": 0.03,
       "roe": 11.0,
-      "eps": 36.6,
+      "eps": 37.3,
       "bookValue": 343.2,
-      "dividendYield": 4.71,
+      "dividendYield": 4.79,
       "profitTrend": [
         437,
         766,
@@ -12617,7 +12617,7 @@
       "roe": 11.5,
       "eps": 299.0,
       "bookValue": 2501.6,
-      "dividendYield": 1.92,
+      "dividendYield": 1.96,
       "profitTrend": [
         5064,
         7005,
@@ -12644,7 +12644,7 @@
       "roe": 16.3,
       "eps": 28.8,
       "bookValue": 186.9,
-      "dividendYield": 2.68,
+      "dividendYield": 2.54,
       "profitTrend": [
         8512,
         13797,
@@ -12671,7 +12671,7 @@
       "roe": 10.9,
       "eps": 18.3,
       "bookValue": 172.5,
-      "dividendYield": 0.83,
+      "dividendYield": 0.82,
       "profitTrend": [
         304,
         410,
@@ -12698,7 +12698,7 @@
       "roe": 19.2,
       "eps": 23.7,
       "bookValue": 127.7,
-      "dividendYield": 1.2,
+      "dividendYield": 1.19,
       "profitTrend": [
         1137,
         1408,
@@ -12752,7 +12752,7 @@
       "roe": 0.0,
       "eps": 17.5,
       "bookValue": 108.5,
-      "dividendYield": 0.78,
+      "dividendYield": 0.77,
       "profitTrend": [
         350,
         424,
@@ -12775,11 +12775,11 @@
       "changePct": 1.09,
       "marketCap": 15241,
       "pe": 14.7,
-      "debtToEquity": 0.18,
-      "roe": 0.0,
+      "debtToEquity": 0.16,
+      "roe": 9.7,
       "eps": 35.7,
-      "bookValue": 369.4,
-      "dividendYield": 0.98,
+      "bookValue": 388.2,
+      "dividendYield": 0.95,
       "profitTrend": [
         795,
         632,
@@ -12833,7 +12833,7 @@
       "roe": 0.0,
       "eps": 17.0,
       "bookValue": 58.9,
-      "dividendYield": 4.18,
+      "dividendYield": 4.13,
       "profitTrend": [
         0,
         0,
@@ -12882,9 +12882,9 @@
       "pe": 9.2,
       "debtToEquity": 1.34,
       "roe": 48.2,
-      "eps": 28.6,
+      "eps": 28.5,
       "bookValue": 32.7,
-      "dividendYield": 6.13,
+      "dividendYield": 6.11,
       "profitTrend": [
         10574,
         4239,
@@ -12924,7 +12924,7 @@
         "Equity": 16506,
         "Cash": 1134
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 1.0
     },
     {
       "symbol": "VEDPOWER",
@@ -12986,7 +12986,7 @@
       "sector": "Consumer Services",
       "price": 92.62,
       "changePct": -1.47,
-      "marketCap": 43386,
+      "marketCap": 43391,
       "pe": 48.7,
       "debtToEquity": 0.27,
       "roe": 12.1,
@@ -13046,7 +13046,7 @@
       "roe": 7.0,
       "eps": 14.1,
       "bookValue": 203.8,
-      "dividendYield": 0.38,
+      "dividendYield": 0.37,
       "profitTrend": [
         135,
         252,
@@ -13086,7 +13086,7 @@
         "Equity": 14437,
         "Cash": 752
       },
-      "marketSharePct": 2.0
+      "marketSharePct": 2.1
     },
     {
       "symbol": "WELCORP",
@@ -13100,7 +13100,7 @@
       "roe": 24.5,
       "eps": 89.7,
       "bookValue": 402.8,
-      "dividendYield": 0.22,
+      "dividendYield": 0.23,
       "profitTrend": [
         207,
         1110,
@@ -13149,10 +13149,10 @@
       "price": 837.7,
       "changePct": 0.3,
       "marketCap": 10632,
-      "pe": 42.4,
+      "pe": 45.3,
       "debtToEquity": 0.09,
       "roe": 0.0,
-      "eps": 19.8,
+      "eps": 18.5,
       "bookValue": 327.9,
       "dividendYield": 0.6,
       "profitTrend": [
@@ -13181,7 +13181,7 @@
       "roe": 15.9,
       "eps": 12.7,
       "bookValue": 80.3,
-      "dividendYield": 4.05,
+      "dividendYield": 4.02,
       "profitTrend": [
         11350,
         11045,
@@ -13194,7 +13194,7 @@
         "Equity": 88537,
         "Cash": 10556
       },
-      "marketSharePct": 6.8
+      "marketSharePct": 9.9
     },
     {
       "symbol": "WOCKPHARMA",
@@ -13260,7 +13260,7 @@
       "pe": 2.4,
       "debtToEquity": 0.01,
       "roe": 0.0,
-      "eps": 950.2,
+      "eps": 952.7,
       "bookValue": 324.3,
       "dividendYield": 0.17,
       "profitTrend": [
@@ -13275,7 +13275,7 @@
         "Equity": 3691,
         "Cash": 192
       },
-      "marketSharePct": 0.8
+      "marketSharePct": 0.9
     },
     {
       "symbol": "ZEEL",
@@ -13284,12 +13284,12 @@
       "price": 69.77,
       "changePct": 1.97,
       "marketCap": 6702,
-      "pe": 40.8,
+      "pe": 38.1,
       "debtToEquity": 0.01,
       "roe": 1.4,
-      "eps": 1.7,
+      "eps": 1.8,
       "bookValue": 129.8,
-      "dividendYield": 2.92,
+      "dividendYield": 2.87,
       "profitTrend": [
         48,
         141,
@@ -13329,7 +13329,7 @@
         "Equity": 1889,
         "Cash": 80
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.5
     },
     {
       "symbol": "ZENSARTECH",
@@ -13343,7 +13343,7 @@
       "roe": 17.1,
       "eps": 34.1,
       "bookValue": 213.3,
-      "dividendYield": 2.62,
+      "dividendYield": 2.65,
       "profitTrend": [
         328,
         665,
@@ -13356,7 +13356,7 @@
         "Equity": 4719,
         "Cash": 416
       },
-      "marketSharePct": 0.4
+      "marketSharePct": 0.6
     },
     {
       "symbol": "ZYDUSLIFE",
@@ -13397,7 +13397,7 @@
       "roe": 4.2,
       "eps": 7.7,
       "bookValue": 185.3,
-      "dividendYield": 0.25,
+      "dividendYield": 0.26,
       "profitTrend": [
         310,
         267,
@@ -13424,7 +13424,7 @@
       "roe": 26.2,
       "eps": 76.8,
       "bookValue": 317.2,
-      "dividendYield": 0.06,
+      "dividendYield": 0.07,
       "profitTrend": [
         489,
         511,
