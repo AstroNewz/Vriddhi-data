@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T00:59:20+05:30",
+  "lastUpdated": "2026-11-13T01:18:33+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -151,7 +151,7 @@
       "name": "Premier Energies",
       "exDividend": "2026-11-11",
       "earnings": "2025-05-17",
-      "dividendRate": 0.75
+      "dividendRate": 1.25
     },
     {
       "symbol": "DOMS",
@@ -902,7 +902,7 @@
       "name": "JM Financial",
       "exDividend": "2026-11-11",
       "earnings": "2025-08-04",
-      "dividendRate": 3.25
+      "dividendRate": 4.9
     },
     {
       "symbol": "SCHNEIDER",
@@ -988,7 +988,7 @@
     {
       "symbol": "COCHINSHIP",
       "name": "Cochin Shipyard",
-      "exDividend": "2026-09-18",
+      "exDividend": "2026-11-16",
       "earnings": "2025-08-06",
       "dividendRate": 9.0
     },
@@ -997,7 +997,7 @@
       "name": "Garden Reach Shipbuilders & Engineers",
       "exDividend": "2026-09-18",
       "earnings": "2025-08-06",
-      "dividendRate": 19.6
+      "dividendRate": 13.85
     },
     {
       "symbol": "HBLENGINE",
@@ -1430,13 +1430,6 @@
       "name": "Canara HSBC Life Insurance Company",
       "exDividend": "2026-08-14",
       "dividendRate": 0.4
-    },
-    {
-      "symbol": "PATANJALI",
-      "name": "Patanjali Foods",
-      "exDividend": "2026-08-21",
-      "earnings": "2026-08-14",
-      "dividendRate": 4.05
     },
     {
       "symbol": "SWANCORP",
@@ -2515,7 +2508,7 @@
       "name": "Container Corporation of India",
       "exDividend": "2026-11-11",
       "earnings": "2026-11-02",
-      "dividendRate": 8.6
+      "dividendRate": 7.9
     },
     {
       "symbol": "DEVYANI",
@@ -3037,7 +3030,7 @@
     {
       "symbol": "MRF",
       "name": "MRF",
-      "exDividend": "2026-07-17",
+      "exDividend": "2026-11-17",
       "earnings": "2026-11-10",
       "dividendRate": 235.0
     },
@@ -3088,7 +3081,7 @@
       "name": "NMDC",
       "exDividend": "2026-10-05",
       "earnings": "2026-11-12",
-      "dividendRate": 2.0
+      "dividendRate": 3.5
     },
     {
       "symbol": "OIL",
@@ -3157,6 +3150,13 @@
       "exDividend": "2026-06-03",
       "earnings": "2026-11-14",
       "dividendRate": 3.5
+    },
+    {
+      "symbol": "PATANJALI",
+      "name": "Patanjali Foods",
+      "exDividend": "2026-08-21",
+      "earnings": "2026-11-14",
+      "dividendRate": 4.05
     },
     {
       "symbol": "SAMMAANCAP",
