@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T01:00:26+05:30",
+  "lastUpdated": "2026-11-17T03:24:05+05:30",
   "events": [
     {
       "symbol": "MTARTECH",
@@ -921,8 +921,7 @@
       "symbol": "AIIL",
       "name": "Authum Investment & Infrastructure",
       "exDividend": "2025-05-16",
-      "earnings": "2025-08-05",
-      "dividendRate": 0.2
+      "earnings": "2025-08-05"
     },
     {
       "symbol": "BSE",
@@ -2264,7 +2263,7 @@
       "name": "Computer Age Management Services",
       "exDividend": "2026-11-13",
       "earnings": "2026-10-29",
-      "dividendRate": 12.8
+      "dividendRate": 13.25
     },
     {
       "symbol": "DEEPAKNTR",
@@ -2804,7 +2803,7 @@
       "name": "Emami",
       "exDividend": "2026-11-13",
       "earnings": "2026-11-05",
-      "dividendRate": 10.0
+      "dividendRate": 11.0
     },
     {
       "symbol": "FORTIS",
