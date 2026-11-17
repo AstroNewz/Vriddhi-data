@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-11-17T03:24:05+05:30",
+  "lastUpdated": "2026-11-18T02:14:42+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -897,7 +902,7 @@
       "name": "JM Financial",
       "exDividend": "2026-11-11",
       "earnings": "2025-08-04",
-      "dividendRate": 4.9
+      "dividendRate": 3.4
     },
     {
       "symbol": "SCHNEIDER",
@@ -984,7 +989,7 @@
       "name": "Cochin Shipyard",
       "exDividend": "2026-11-16",
       "earnings": "2025-08-06",
-      "dividendRate": 9.0
+      "dividendRate": 12.0
     },
     {
       "symbol": "GRSE",
@@ -1115,7 +1120,7 @@
       "name": "Shipping Corporation of India",
       "exDividend": "2026-11-16",
       "earnings": "2025-08-07",
-      "dividendRate": 7.5
+      "dividendRate": 11.5
     },
     {
       "symbol": "SOBHA",
@@ -1264,12 +1269,6 @@
       "exDividend": "2026-09-11",
       "earnings": "2025-08-12",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
     },
     {
       "symbol": "NSLNISP",
@@ -3140,7 +3139,7 @@
     {
       "symbol": "ASHOKLEY",
       "name": "Ashok Leyland",
-      "exDividend": "2026-06-03",
+      "exDividend": "2026-11-20",
       "earnings": "2026-11-14",
       "dividendRate": 3.5
     },
