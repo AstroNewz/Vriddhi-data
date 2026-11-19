@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-11-19T01:50:25+05:30",
+  "lastUpdated": "2026-11-20T01:54:44+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -1264,12 +1269,6 @@
       "exDividend": "2026-09-11",
       "earnings": "2025-08-12",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
     },
     {
       "symbol": "NSLNISP",
@@ -2811,7 +2810,7 @@
       "name": "Glenmark Pharmaceuticals",
       "exDividend": "2026-08-31",
       "earnings": "2026-11-05",
-      "dividendRate": 5.0
+      "dividendRate": 2.5
     },
     {
       "symbol": "IPCALAB",
@@ -3059,9 +3058,9 @@
     {
       "symbol": "MANAPPURAM",
       "name": "Manappuram Finance",
-      "exDividend": "2026-08-17",
+      "exDividend": "2026-11-18",
       "earnings": "2026-11-12",
-      "dividendRate": 4.0
+      "dividendRate": 3.0
     },
     {
       "symbol": "NMDC",
