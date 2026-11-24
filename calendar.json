@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T05:14:36+05:30",
+  "lastUpdated": "2026-11-25T03:46:06+05:30",
   "events": [
     {
       "symbol": "RPOWER",
@@ -2041,12 +2041,6 @@
       "dividendRate": 140.0
     },
     {
-      "symbol": "MFSL",
-      "name": "Max Financial Services",
-      "exDividend": "2016-09-19",
-      "earnings": "2026-10-27"
-    },
-    {
       "symbol": "PPLPHARMA",
       "name": "Piramal Pharma",
       "exDividend": "2025-07-16",
@@ -2153,7 +2147,7 @@
       "name": "Info Edge (India)",
       "exDividend": "2026-11-06",
       "earnings": "2026-10-28",
-      "dividendRate": 11.4
+      "dividendRate": 9.0
     },
     {
       "symbol": "JSWENERGY",
@@ -2785,13 +2779,6 @@
       "dividendRate": 6.0
     },
     {
-      "symbol": "CROMPTON",
-      "name": "Crompton Greaves Consumer Electricals",
-      "exDividend": "2026-07-24",
-      "earnings": "2026-11-05",
-      "dividendRate": 3.0
-    },
-    {
       "symbol": "EMAMILTD",
       "name": "Emami",
       "exDividend": "2026-11-13",
@@ -3218,6 +3205,13 @@
       "dividendRate": 2.0
     },
     {
+      "symbol": "CROMPTON",
+      "name": "Crompton Greaves Consumer Electricals",
+      "exDividend": "2026-07-24",
+      "earnings": "2027-01-29",
+      "dividendRate": 3.0
+    },
+    {
       "symbol": "BHARTIARTL",
       "name": "Bharti Airtel",
       "exDividend": "2026-07-24",
@@ -3230,6 +3224,12 @@
       "exDividend": "2026-07-03",
       "earnings": "2027-02-04",
       "dividendRate": 0.5
+    },
+    {
+      "symbol": "MFSL",
+      "name": "Max Financial Services",
+      "exDividend": "2016-09-19",
+      "earnings": "2027-02-10"
     }
   ]
 }
