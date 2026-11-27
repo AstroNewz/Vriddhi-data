@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-11-27T02:50:00+05:30",
+  "lastUpdated": "2026-11-28T02:30:26+05:30",
   "events": [
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power",
+      "exDividend": "2015-11-19"
+    },
     {
       "symbol": "MTARTECH",
       "name": "MTAR Technologies",
@@ -1264,12 +1269,6 @@
       "exDividend": "2026-09-11",
       "earnings": "2025-08-12",
       "dividendRate": 2.5
-    },
-    {
-      "symbol": "RPOWER",
-      "name": "Reliance Power",
-      "exDividend": "2015-11-19",
-      "earnings": "2025-08-12"
     },
     {
       "symbol": "NSLNISP",
@@ -3128,7 +3127,7 @@
     {
       "symbol": "PATANJALI",
       "name": "Patanjali Foods",
-      "exDividend": "2026-08-21",
+      "exDividend": "2026-12-11",
       "earnings": "2026-11-14",
       "dividendRate": 4.05
     },
